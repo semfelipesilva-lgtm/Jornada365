@@ -67,6 +67,7 @@ const PLANO = {
     {
       day: 9,
       reading: "Gênesis 25–27",
+      date: "09 de janeiro de 2026",
       verse: "Eu estou contigo.",
       reference: "Gênesis 28:15",
       comment: "Mesmo em meio a enganos e conflitos familiares, Deus permanece fiel à aliança. Ele conduz seu plano apesar das falhas humanas, revelando graça perseverante."
@@ -74,6 +75,7 @@ const PLANO = {
     {
       day: 10,
       reading: "Gênesis 28–30",
+      date: "10 de janeiro de 2026",
       verse: "Certamente o SENHOR está neste lugar.",
       reference: "Gênesis 28:16",
       comment: "Deus se revela presente na caminhada de Jacó. A graça de Deus acompanha o povo mesmo quando o caráter ainda está em formação. O Senhor molda seus servos com paciência."
@@ -81,6 +83,7 @@ const PLANO = {
     {
       day: 11,
       reading: "Gênesis 31–32",
+      date: "11 de janeiro de 2026",
       verse: "Não te deixarei ir, se não me abençoares.",
       reference: "Gênesis 32:26",
       comment: "O encontro de Jacó com Deus revela que a verdadeira transformação acontece quando somos confrontados pelo Senhor. A bênção vem acompanhada de mudança profunda."
@@ -88,6 +91,7 @@ const PLANO = {
     {
       day: 12,
       reading: "Gênesis 33–35",
+      date: "12 de janeiro de 2026",
       verse: "Jacó chamou aquele lugar Betel.",
       reference: "Gênesis 35:15",
       comment: "Deus restaura relacionamentos e reafirma promessas. A vida com Deus envolve reconciliações, perdas e crescimento espiritual contínuo."
@@ -95,6 +99,7 @@ const PLANO = {
     {
       day: 13,
       reading: "Gênesis 36–37",
+      date: "13 de janeiro de 2026",
       verse: "José foi vendido pelos seus irmãos.",
       reference: "Gênesis 37:28",
       comment: "O sofrimento de José marca o início de um caminho que Deus usará para salvar muitos. Mesmo quando a injustiça parece vencer, Deus continua governando a história."
@@ -102,6 +107,7 @@ const PLANO = {
     {
       day: 14,
       reading: "Gênesis 38–40",
+      date: "14 de janeiro de 2026",
       verse: "Deus estava com José.",
       reference: "Gênesis 39:21",
       comment: "Mesmo esquecido e injustiçado, José permanece sob o cuidado de Deus. A fidelidade do Senhor não depende das circunstâncias favoráveis."
@@ -109,6 +115,7 @@ const PLANO = {
     {
       day: 15,
       reading: "Gênesis 41–42",
+      date: "14 de janeiro de 2026",
       verse: "Foi Deus quem mostrou isso.",
       reference: "Gênesis 41:16",
       comment: "Deus exalta José no tempo certo e começa a cumprir um propósito maior. A soberania divina se revela inclusive nos anos de espera."
@@ -116,6 +123,7 @@ const PLANO = {
     {
       day: 16,
       reading: "Gênesis 43–45",
+      date: "16 de janeiro de 2026",
       verse: "Deus me enviou adiante de vós.",
       reference: "Gênesis 45:7",
       comment: "José reconhece a mão de Deus em toda a sua história. O mal é vencido pela providência divina. A salvação nasce da soberania do Senhor."
@@ -123,6 +131,7 @@ const PLANO = {
     {
       day: 17,
       reading: "Gênesis 46–47",
+      date: "17 de janeiro de 2026",
       verse: "Deus será convosco.",
       reference: "Gênesis 48:21",
       comment: "Deus preserva seu povo em terra estrangeira. A promessa não depende do lugar, mas da presença fiel do Senhor."
@@ -130,6 +139,7 @@ const PLANO = {
     {
       day: 18,
       reading: "Gênesis 48–50",
+      date: "18 de janeiro de 2026",
       verse: "Deus tornou em bem.",
       reference: "Gênesis 50:20",
       comment: "O livro de Gênesis termina afirmando que Deus conduz toda a história para cumprir seus propósitos. A esperança da redenção segue adiante."
@@ -137,6 +147,7 @@ const PLANO = {
     {
       day: 19,
       reading: "Êxodo 1–4",
+      date: "19 de janeiro de 2026",
       verse: "Eu certamente vi a aflição do meu povo.",
       reference: "Êxodo 3:7",
       comment: "Deus ouve o clamor do seu povo e age no tempo certo. Ele se revela como libertador e chama Moisés apesar de suas limitações."
@@ -144,88 +155,92 @@ const PLANO = {
     {
       day: 20,
       reading: "Êxodo 5–7",
+      date: "20 de janeiro de 2026",
       verse: "Eu sou o SENHOR.",
       reference: "Êxodo 6:2",
       comment: "A libertação começa com confronto e resistência. Deus reafirma seu nome e sua aliança. A salvação não depende da força do povo, mas do poder do Senhor."
     },
-{
-  day: 21,
-  reading: "Êxodo 8–10",
-  verse: "Para que saibais que não há outro como o SENHOR.",
-  reference: "Êxodo 8:10",
-  comment: "As pragas revelam o confronto entre o Deus verdadeiro e os falsos poderes do Egito. Deus demonstra que é soberano sobre a criação, sobre os deuses e sobre os reis. A libertação começa pelo reconhecimento de quem o Senhor é."
-},
-{
-  day: 22,
-  reading: "Êxodo 11–13",
-  verse: "Quando eu vir o sangue, passarei por cima de vós.",
-  reference: "Êxodo 12:13",
-  comment: "A Páscoa ensina que a libertação exige redenção. O sangue do cordeiro aponta para Cristo, o verdadeiro Cordeiro de Deus. O povo não sai do Egito apenas por poder, mas por graça substitutiva."
-},
-{
-  day: 23,
-  reading: "Êxodo 14–16",
-  verse: "O SENHOR pelejará por vós.",
-  reference: "Êxodo 14:14",
-  comment: "Deus abre o mar, derrota o inimigo e sustenta o povo no deserto. A libertação não termina no êxodo; ela continua no cuidado diário. O maná revela a dependência constante da graça."
-},
-{
-  day: 24,
-  reading: "Êxodo 17–20",
-  verse: "Eu sou o SENHOR teu Deus, que te tirei da terra do Egito.",
-  reference: "Êxodo 20:2",
-  comment: "A Lei é dada a um povo já liberto. Deus não exige obediência para salvar, mas chama à obediência porque já salvou. A lei revela o caráter santo de Deus e o padrão para uma vida redimida."
-},
-{
-  day: 25,
-  reading: "Êxodo 21–23",
-  verse: "Andarei à tua frente.",
-  reference: "Êxodo 23:23",
-  comment: "Deus mostra que sua lei alcança todas as áreas da vida. Justiça, misericórdia e cuidado com o próximo são sinais de um povo que vive sob o governo do Senhor."
-},
-{
-  day: 26,
-  reading: "Êxodo 24–26",
-  verse: "Habitarei no meio deles.",
-  reference: "Êxodo 25:8",
-  comment: "O tabernáculo revela o desejo de Deus de habitar com seu povo. O Senhor não apenas liberta, mas se aproxima. Cada detalhe aponta para a santidade e a graça da presença divina."
-},
-{
-  day: 27,
-  reading: "Êxodo 27–29",
-  verse: "Eu habitarei no meio dos filhos de Israel.",
-  reference: "Êxodo 29:45",
-  comment: "O sacerdócio mostra que o acesso a Deus exige mediação. Essa estrutura prepara o caminho para Cristo, nosso sumo sacerdote perfeito."
-},
-{
-  day: 28,
-  reading: "Êxodo 30–32",
-  verse: "Fizeram para si um bezerro de ouro.",
-  reference: "Êxodo 32:4",
-  comment: "Mesmo diante da revelação de Deus, o coração humano ainda se inclina à idolatria. O pecado do bezerro expõe a fragilidade espiritual do povo e a gravidade do afastamento de Deus."
-},
-{
-  day: 29,
-  reading: "Êxodo 33–35",
-  verse: "Se a tua presença não for conosco, não nos faças subir daqui.",
-  reference: "Êxodo 33:15",
-  comment: "A restauração acontece quando Deus reafirma sua presença. A maior bênção não é a terra prometida, mas caminhar com o Senhor."
-},
-{
-  day: 30,
-  reading: "Êxodo 36–38",
-  verse: "Fizeram conforme o SENHOR ordenara.",
-  reference: "Êxodo 39:43",
-  comment: "A obediência agora flui de um coração restaurado. O povo responde à graça de Deus com dedicação e reverência."
-},
-{
-  day: 31,
-  reading: "Êxodo 39–40",
-  verse: "A glória do SENHOR encheu o tabernáculo.",
-  reference: "Êxodo 40:34",
-  comment: "Êxodo termina com a presença visível de Deus habitando com seu povo. A redenção conduz à comunhão. Essa glória aponta para Cristo, o verdadeiro tabernáculo entre nós."
-},
-{
+    {
+      day: 21,
+      reading: "Êxodo 8–10",
+      date: "21 de janeiro de 2026",
+      verse: "Para que saibais que não há outro como o SENHOR.",
+      reference: "Êxodo 8:10",
+      comment: "As pragas revelam o confronto entre o Deus verdadeiro e os falsos poderes do Egito. Deus demonstra que é soberano sobre a criação, sobre os deuses e sobre os reis. A libertação começa pelo reconhecimento de quem o Senhor é."
+    },
+    {
+      day: 22,
+      reading: "Êxodo 11–13",
+      date: "22 de janeiro de 2026",
+      verse: "Quando eu vir o sangue, passarei por cima de vós.",
+      reference: "Êxodo 12:13",
+      comment: "A Páscoa ensina que a libertação exige redenção. O sangue do cordeiro aponta para Cristo, o verdadeiro Cordeiro de Deus. O povo não sai do Egito apenas por poder, mas por graça substitutiva."
+    },
+    {
+      day: 23,
+      reading: "Êxodo 14–16",
+      date: "23 de janeiro de 2026",
+      verse: "O SENHOR pelejará por vós.",
+      reference: "Êxodo 14:14",
+      comment: "Deus abre o mar, derrota o inimigo e sustenta o povo no deserto. A libertação não termina no êxodo; ela continua no cuidado diário. O maná revela a dependência constante da graça."
+    },
+    {
+      day: 24,
+      reading: "Êxodo 17–20",
+      verse: "Eu sou o SENHOR teu Deus, que te tirei da terra do Egito.",
+      reference: "Êxodo 20:2",
+      comment: "A Lei é dada a um povo já liberto. Deus não exige obediência para salvar, mas chama à obediência porque já salvou. A lei revela o caráter santo de Deus e o padrão para uma vida redimida."
+    },
+    {
+      day: 25,
+      reading: "Êxodo 21–23",
+      verse: "Andarei à tua frente.",
+      reference: "Êxodo 23:23",
+      comment: "Deus mostra que sua lei alcança todas as áreas da vida. Justiça, misericórdia e cuidado com o próximo são sinais de um povo que vive sob o governo do Senhor."
+    },
+    {
+      day: 26,
+      reading: "Êxodo 24–26",
+      verse: "Habitarei no meio deles.",
+      reference: "Êxodo 25:8",
+      comment: "O tabernáculo revela o desejo de Deus de habitar com seu povo. O Senhor não apenas liberta, mas se aproxima. Cada detalhe aponta para a santidade e a graça da presença divina."
+    },
+    {
+      day: 27,
+      reading: "Êxodo 27–29",
+      verse: "Eu habitarei no meio dos filhos de Israel.",
+      reference: "Êxodo 29:45",
+      comment: "O sacerdócio mostra que o acesso a Deus exige mediação. Essa estrutura prepara o caminho para Cristo, nosso sumo sacerdote perfeito."
+    },
+    {
+      day: 28,
+      reading: "Êxodo 30–32",
+      verse: "Fizeram para si um bezerro de ouro.",
+      reference: "Êxodo 32:4",
+      comment: "Mesmo diante da revelação de Deus, o coração humano ainda se inclina à idolatria. O pecado do bezerro expõe a fragilidade espiritual do povo e a gravidade do afastamento de Deus."
+    },
+    {
+      day: 29,
+      reading: "Êxodo 33–35",
+      verse: "Se a tua presença não for conosco, não nos faças subir daqui.",
+      reference: "Êxodo 33:15",
+      comment: "A restauração acontece quando Deus reafirma sua presença. A maior bênção não é a terra prometida, mas caminhar com o Senhor."
+    },
+    {
+      day: 30,
+      reading: "Êxodo 36–38",
+      verse: "Fizeram conforme o SENHOR ordenara.",
+      reference: "Êxodo 39:43",
+      comment: "A obediência agora flui de um coração restaurado. O povo responde à graça de Deus com dedicação e reverência."
+    },
+    {
+      day: 31,
+      reading: "Êxodo 39–40",
+      verse: "A glória do SENHOR encheu o tabernáculo.",
+      reference: "Êxodo 40:34",
+      comment: "Êxodo termina com a presença visível de Deus habitando com seu povo. A redenção conduz à comunhão. Essa glória aponta para Cristo, o verdadeiro tabernáculo entre nós."
+    },
+    {
       day: 32,
       reading: "Levítico 1–4",
       verse: "Porque a vida da carne está no sangue.",
