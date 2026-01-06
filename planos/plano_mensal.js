@@ -552,6 +552,172 @@ const PLANO = {
       verse: "O SENHOR pelejava por Israel.",
       reference: "Josué 10:14",
       comment: "Mesmo quando o povo erra, Deus segue cumprindo seu propósito soberano. Isso não justifica o erro, mas revela a graça de um Deus que governa a história. Cristo é a expressão máxima dessa soberania, conduzindo tudo para a redenção."
+    },
+{
+      day: 70,
+      reading: "Josué 12–14",
+      verse: "Dá-me este monte, de que o SENHOR falou.",
+      reference: "Josué 14:12",
+      comment: "Calebe nos ensina perseverança e fé ao longo do tempo. Décadas se passaram, mas ele continua confiando nas promessas de Deus. Em Cristo, somos chamados a não desistir, mesmo quando o cumprimento parece demorado."
+    },
+
+    {
+      day: 71,
+      reading: "Josué 15–16",
+      verse: "A herança foi repartida conforme o SENHOR ordenara.",
+      reference: "Josué 15:13",
+      comment: "A repartição da terra mostra que Deus cumpre suas promessas de forma concreta. Cada tribo recebe sua porção. Em Cristo, lembramos que também temos uma herança eterna, preparada não por mérito, mas pela graça."
+    },
+
+    {
+      day: 72,
+      reading: "Josué 17–19",
+      verse: "Ainda resta muita terra para possuir.",
+      reference: "Josué 13:1",
+      comment: "Mesmo após conquistas importantes, Deus lembra ao povo que a missão continua. A caminhada com Deus nunca é estática. Em Cristo, somos chamados ao crescimento contínuo, avançando em fé e obediência."
+    },
+
+    {
+      day: 73,
+      reading: "Josué 20–22",
+      verse: "O SENHOR deu descanso a Israel.",
+      reference: "Josué 21:44",
+      comment: "O descanso concedido por Deus aponta para algo maior. A paz na terra prometida era parcial e temporária. Em Cristo, encontramos o descanso pleno para a alma, fruto da reconciliação com Deus."
+    },
+
+    {
+      day: 74,
+      reading: "Josué 23–24",
+      verse: "Eu e a minha casa serviremos ao SENHOR.",
+      reference: "Josué 24:15",
+      comment: "Josué encerra sua liderança chamando o povo à decisão. Fé herdada não sustenta uma vida fiel. Cada geração precisa escolher servir ao Senhor. Em Cristo, renovamos diariamente essa decisão."
+    },
+    {
+      day: 75,
+      reading: "Juízes 1–3",
+      verse: "Os filhos de Israel fizeram o que era mau perante o SENHOR.",
+      reference: "Juízes 2:11",
+      comment: "O livro de Juízes começa revelando um padrão trágico: desobediência, opressão, clamor e libertação. A infidelidade do povo expõe a fragilidade de uma fé que não é transmitida com profundidade às novas gerações. Esse ciclo aponta para a necessidade de um libertador maior, definitivo, que encontramos em Cristo."
+    },
+
+    {
+      day: 76,
+      reading: "Juízes 4–6",
+      verse: "O SENHOR levantou juízes, que os livraram.",
+      reference: "Juízes 2:16",
+      comment: "Débora e Gideão mostram que Deus usa pessoas improváveis para cumprir seus propósitos. No entanto, a fraqueza humana permanece evidente. A cada libertação, percebemos que a verdadeira esperança não está no juiz, mas no Deus que levanta o juiz — expectativa que encontra seu cumprimento em Jesus."
+    },
+
+    {
+      day: 77,
+      reading: "Juízes 7–9",
+      verse: "O SENHOR disse a Gideão: O povo que está contigo é demais.",
+      reference: "Juízes 7:2",
+      comment: "Deus reduz o exército para deixar claro que a vitória vem dEle, não da força humana. Contudo, após a vitória, o coração de Gideão e de Israel se desvia novamente. O texto nos alerta para o perigo de experimentar o poder de Deus sem permanecer dependente dEle."
+    },
+
+    {
+      day: 78,
+      reading: "Juízes 10–12",
+      verse: "O povo tornou a fazer o que era mau perante o SENHOR.",
+      reference: "Juízes 10:6",
+      comment: "A repetição do pecado revela um coração dividido. O povo busca Deus apenas quando sofre, mas não quando prospera. Esse padrão nos confronta hoje: buscamos o Senhor por conveniência ou por amor verdadeiro? Cristo nos chama ao arrependimento genuíno e constante."
+    },
+
+    {
+      day: 79,
+      reading: "Juízes 13–16",
+      verse: "Ele começará a livrar Israel.",
+      reference: "Juízes 13:5",
+      comment: "Sansão é separado por Deus, mas vive dividido por seus desejos. Sua força contrasta com sua fraqueza moral. A história nos ensina que dons não substituem obediência. Sansão aponta para a necessidade de um libertador que fosse forte e santo — plenamente cumprido em Cristo."
+    },
+
+    {
+      day: 80,
+      reading: "Juízes 17–19",
+      verse: "Naqueles dias não havia rei em Israel.",
+      reference: "Juízes 17:6",
+      comment: "Esses capítulos revelam o colapso espiritual e moral do povo. Quando cada um faz o que acha certo, a sociedade se fragmenta. O texto é intencionalmente perturbador, levando-nos a desejar um Rei justo e verdadeiro, capaz de restaurar o povo."
+    },
+
+    {
+      day: 81,
+      reading: "Juízes 20–21",
+      verse: "Cada um fazia o que parecia reto aos seus olhos.",
+      reference: "Juízes 21:25",
+      comment: "O livro termina sem solução humana, deixando o leitor em tensão. Juízes não oferece respostas fáceis, mas prepara o terreno para a monarquia. Essa ausência de rei aponta para Cristo, o Rei perfeito que governa com justiça e misericórdia."
+    },
+
+    {
+      day: 82,
+      reading: "Rute 1–4",
+      verse: "O teu Deus será o meu Deus.",
+      reference: "Rute 1:16",
+      comment: "Em meio à decadência de Juízes, Rute revela fidelidade silenciosa e esperança. Deus age através da obediência comum e da lealdade. A genealogia final aponta para Davi e, mais adiante, para Cristo, mostrando que Deus constrói redenção mesmo em tempos sombrios."
+    },
+
+    {
+      day: 83,
+      reading: "1 Samuel 1–3",
+      verse: "Fala, SENHOR, porque o teu servo ouve.",
+      reference: "1 Samuel 3:10",
+      comment: "O chamado de Samuel marca uma nova fase espiritual em Israel. Deus volta a falar após um período de silêncio. Esse texto nos confronta: estamos ouvindo a voz do Senhor ou apenas repetindo rituais vazios? Em Cristo, Deus nos fala de forma plena e definitiva."
+    },
+
+    {
+      day: 84,
+      reading: "1 Samuel 4–7",
+      verse: "A glória se foi de Israel.",
+      reference: "1 Samuel 4:21",
+      comment: "A perda da arca revela que símbolos religiosos não substituem a presença real de Deus. Mesmo assim, o Senhor continua soberano. Ele não depende de objetos ou instituições. Essa verdade nos conduz a Cristo, o verdadeiro Emanuel, Deus conosco."
+    },
+
+    {
+      day: 85,
+      reading: "1 Samuel 8–10",
+      verse: "Constitui-nos um rei, como têm todas as nações.",
+      reference: "1 Samuel 8:5",
+      comment: "O pedido por um rei revela rejeição ao governo de Deus. O povo quer ser como as outras nações. Esse desejo ecoa até hoje, quando preferimos segurança visível à confiança em Deus. Cristo se apresenta como Rei, mas não segundo os padrões humanos."
+    },
+
+    {
+      day: 86,
+      reading: "1 Samuel 11–14",
+      verse: "Do SENHOR vem a salvação.",
+      reference: "1 Samuel 14:6",
+      comment: "Os primeiros atos de Saul mostram potencial, mas também sinais de insegurança espiritual. A obediência parcial começa a aparecer. O texto nos ensina que bons começos não garantem fidelidade até o fim. Cristo é o único Rei que permanece fiel em todas as circunstâncias."
+    },
+
+    {
+      day: 87,
+      reading: "1 Samuel 15–17",
+      verse: "A obediência é melhor do que o sacrifício.",
+      reference: "1 Samuel 15:22",
+      comment: "A rejeição de Saul contrasta com a escolha de Davi. Deus não olha para a aparência, mas para o coração. Davi aponta para Cristo, o ungido segundo o coração de Deus, que vence o verdadeiro gigante: o pecado."
+    },
+
+    {
+      day: 88,
+      reading: "1 Samuel 18–20",
+      verse: "O SENHOR era com Davi.",
+      reference: "1 Samuel 18:14",
+      comment: "A inveja de Saul revela o perigo de um coração inseguro diante do agir de Deus. A amizade entre Davi e Jônatas mostra lealdade sacrificial. Em Cristo, vemos o verdadeiro amigo que entrega a própria vida por amor."
+    },
+
+    {
+      day: 89,
+      reading: "1 Samuel 21–24",
+      verse: "Não estenderei a mão contra o ungido do SENHOR.",
+      reference: "1 Samuel 24:6",
+      comment: "Mesmo injustiçado, Davi recusa tomar o trono pela força. Ele confia no tempo de Deus. Esse texto nos ensina que caráter pesa mais que oportunidade. Cristo, rejeitado e perseguido, também confiou plenamente no Pai."
+    },
+
+    {
+      day: 90,
+      reading: "1 Samuel 25–27",
+      verse: "O SENHOR te fará casa firme.",
+      reference: "1 Samuel 25:28",
+      comment: "Davi enfrenta conflitos internos e externos, revelando virtudes e limites. Deus usa pessoas comuns, em processos longos, para cumprir seus propósitos. A história nos prepara para entender que o verdadeiro Rei ainda estava por vir: Jesus Cristo."
     }
   ]
 };
