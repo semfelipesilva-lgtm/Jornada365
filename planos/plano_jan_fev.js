@@ -115,7 +115,7 @@ const PLANO = {
     {
       day: 15,
       reading: "Gênesis 41–42",
-      date: "14 de janeiro de 2026",
+      date: "15 de janeiro de 2026",
       verse: "Foi Deus quem mostrou isso.",
       reference: "Gênesis 41:16",
       comment: "Deus exalta José no tempo certo e começa a cumprir um propósito maior. A soberania divina se revela inclusive nos anos de espera."
@@ -187,6 +187,7 @@ const PLANO = {
     {
       day: 24,
       reading: "Êxodo 17–20",
+      date: "24 de janeiro de 2026",
       verse: "Eu sou o SENHOR teu Deus, que te tirei da terra do Egito.",
       reference: "Êxodo 20:2",
       comment: "A Lei é dada a um povo já liberto. Deus não exige obediência para salvar, mas chama à obediência porque já salvou. A lei revela o caráter santo de Deus e o padrão para uma vida redimida."
@@ -194,6 +195,7 @@ const PLANO = {
     {
       day: 25,
       reading: "Êxodo 21–23",
+      date: "25 de janeiro de 2026",
       verse: "Andarei à tua frente.",
       reference: "Êxodo 23:23",
       comment: "Deus mostra que sua lei alcança todas as áreas da vida. Justiça, misericórdia e cuidado com o próximo são sinais de um povo que vive sob o governo do Senhor."
@@ -201,6 +203,7 @@ const PLANO = {
     {
       day: 26,
       reading: "Êxodo 24–26",
+      date: "26 de janeiro de 2026",
       verse: "Habitarei no meio deles.",
       reference: "Êxodo 25:8",
       comment: "O tabernáculo revela o desejo de Deus de habitar com seu povo. O Senhor não apenas liberta, mas se aproxima. Cada detalhe aponta para a santidade e a graça da presença divina."
@@ -208,6 +211,7 @@ const PLANO = {
     {
       day: 27,
       reading: "Êxodo 27–29",
+      date: "27 de janeiro de 2026",
       verse: "Eu habitarei no meio dos filhos de Israel.",
       reference: "Êxodo 29:45",
       comment: "O sacerdócio mostra que o acesso a Deus exige mediação. Essa estrutura prepara o caminho para Cristo, nosso sumo sacerdote perfeito."
@@ -215,6 +219,7 @@ const PLANO = {
     {
       day: 28,
       reading: "Êxodo 30–32",
+      date: "28 de janeiro de 2026",
       verse: "Fizeram para si um bezerro de ouro.",
       reference: "Êxodo 32:4",
       comment: "Mesmo diante da revelação de Deus, o coração humano ainda se inclina à idolatria. O pecado do bezerro expõe a fragilidade espiritual do povo e a gravidade do afastamento de Deus."
@@ -222,6 +227,7 @@ const PLANO = {
     {
       day: 29,
       reading: "Êxodo 33–35",
+      date: "29 de janeiro de 2026",
       verse: "Se a tua presença não for conosco, não nos faças subir daqui.",
       reference: "Êxodo 33:15",
       comment: "A restauração acontece quando Deus reafirma sua presença. A maior bênção não é a terra prometida, mas caminhar com o Senhor."
@@ -229,6 +235,7 @@ const PLANO = {
     {
       day: 30,
       reading: "Êxodo 36–38",
+      date: "30 de janeiro de 2026",
       verse: "Fizeram conforme o SENHOR ordenara.",
       reference: "Êxodo 39:43",
       comment: "A obediência agora flui de um coração restaurado. O povo responde à graça de Deus com dedicação e reverência."
@@ -236,6 +243,7 @@ const PLANO = {
     {
       day: 31,
       reading: "Êxodo 39–40",
+      date: "31 de janeiro de 2026",
       verse: "A glória do SENHOR encheu o tabernáculo.",
       reference: "Êxodo 40:34",
       comment: "Êxodo termina com a presença visível de Deus habitando com seu povo. A redenção conduz à comunhão. Essa glória aponta para Cristo, o verdadeiro tabernáculo entre nós."
