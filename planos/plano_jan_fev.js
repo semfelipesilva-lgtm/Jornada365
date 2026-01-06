@@ -50,6 +50,7 @@ const PLANO = {
     },
     {
       day: 7,
+      date: "07 de janeiro de 2026",
       reading: "Gênesis 20–22",
       verse: "Deus proverá para si o cordeiro.",
       reference: "Gênesis 22:8",
@@ -57,6 +58,7 @@ const PLANO = {
     },
     {
       day: 8,
+      date: "08 de janeiro de 2026",
       reading: "Gênesis 23–24",
       verse: "O SENHOR guiou o caminho.",
       reference: "Gênesis 24:27",
