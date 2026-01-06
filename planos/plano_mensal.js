@@ -477,6 +477,7 @@ const PLANO = {
     {
       day: 60,
       reading: "Deuteronômio 12–14",
+
       verse: "Ao SENHOR teu Deus temerás, e a ele servirás.",
       reference: "Deuteronômio 13:4",
       comment: "Moisés ensina que a adoração verdadeira exige exclusividade. O povo não deveria misturar práticas das nações com o culto ao SENHOR. Hoje, esse texto nos confronta com nossos sincretismos modernos: confiar em Deus e, ao mesmo tempo, em nossos próprios ídolos. Em Cristo, aprendemos que amar a Deus com todo o coração não é opressão, mas libertação."
