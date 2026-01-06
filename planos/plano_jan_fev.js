@@ -477,7 +477,7 @@ const PLANO = {
     {
       day: 60,
       reading: "Deuteronômio 12–14",
-
+      date: "01 de março de 2026",
       verse: "Ao SENHOR teu Deus temerás, e a ele servirás.",
       reference: "Deuteronômio 13:4",
       comment: "Moisés ensina que a adoração verdadeira exige exclusividade. O povo não deveria misturar práticas das nações com o culto ao SENHOR. Hoje, esse texto nos confronta com nossos sincretismos modernos: confiar em Deus e, ao mesmo tempo, em nossos próprios ídolos. Em Cristo, aprendemos que amar a Deus com todo o coração não é opressão, mas libertação."
@@ -486,6 +486,7 @@ const PLANO = {
     {
       day: 61,
       reading: "Deuteronômio 15–18",
+      date: "02 de março de 2026",
       verse: "O SENHOR teu Deus suscitará um profeta semelhante a mim.",
       reference: "Deuteronômio 18:15",
       comment: "Deus revela seu cuidado com os pobres, com a justiça social e com a liderança espiritual do povo. A promessa de um profeta maior aponta claramente para Cristo, aquele que falaria definitivamente da parte de Deus. Somos chamados a ouvir essa voz hoje, rejeitando líderes que falam apenas o que agrada, mas não o que transforma."
@@ -494,6 +495,7 @@ const PLANO = {
     {
       day: 62,
       reading: "Deuteronômio 19–22",
+      date: "03 de março de 2026",
       verse: "Seguirás a justiça, somente a justiça.",
       reference: "Deuteronômio 16:20",
       comment: "A lei de Deus não é arbitrária; ela protege a vida, a dignidade e a verdade. Justiça aqui não é vingança, mas responsabilidade diante de Deus e do próximo. Em Cristo, vemos essa justiça cumprida e oferecida a nós pela graça, capacitando-nos a viver de maneira íntegra."
@@ -502,6 +504,7 @@ const PLANO = {
     {
       day: 63,
       reading: "Deuteronômio 23–26",
+      date: "04 de março de 2026",
       verse: "Lembra-te de que foste escravo na terra do Egito.",
       reference: "Deuteronômio 24:18",
       comment: "Deus ensina que memória gera misericórdia. Quem se lembra de onde Deus o tirou passa a tratar o outro com compaixão. Em Cristo, lembramos continuamente que fomos libertos não por mérito, mas por graça. Isso molda nossa forma de viver, servir e perdoar."
@@ -510,6 +513,7 @@ const PLANO = {
     {
       day: 64,
       reading: "Deuteronômio 27–28",
+      date: "05 de março de 2026",
       verse: "Se ouvires a voz do SENHOR teu Deus, virão sobre ti todas estas bênçãos.",
       reference: "Deuteronômio 28:2",
       comment: "As bênçãos e maldições revelam que a obediência importa. Porém, também mostram nossa incapacidade de cumprir perfeitamente a lei. Esse texto nos conduz a Cristo, que assumiu sobre si a maldição para que, nele, recebêssemos a verdadeira bênção: reconciliação com Deus."
@@ -518,6 +522,7 @@ const PLANO = {
     {
       day: 65,
       reading: "Deuteronômio 29–31",
+      date: "06 de março de 2026",
       verse: "Sê forte e corajoso… o SENHOR é quem vai contigo.",
       reference: "Deuteronômio 31:6",
       comment: "Moisés prepara o povo para a transição. A liderança muda, mas Deus permanece. Essa palavra nos lembra que nossa segurança não está em pessoas, estruturas ou fases da vida, mas na fidelidade constante do Senhor, plenamente revelada em Cristo."
@@ -526,6 +531,7 @@ const PLANO = {
     {
       day: 66,
       reading: "Deuteronômio 32–34",
+      date: "07 de março de 2026",
       verse: "As obras de Deus são perfeitas.",
       reference: "Deuteronômio 32:4",
       comment: "A morte de Moisés encerra uma grande etapa, mas não interrompe o plano de Deus. O libertador humano não entra na terra, apontando para a necessidade de um libertador maior. Em Jesus, vemos aquele que conduz seu povo até o fim."
@@ -534,6 +540,7 @@ const PLANO = {
     {
       day: 67,
       reading: "Josué 1–4",
+      date: "08 de março de 2026",
       verse: "Esforça-te e tem bom ânimo.",
       reference: "Josué 1:9",
       comment: "A promessa da presença de Deus acompanha o chamado à coragem. A travessia do Jordão mostra que o mesmo Deus que abriu o Mar Vermelho continua operando. Hoje, Cristo nos chama a confiar, mesmo quando os desafios parecem grandes."
@@ -542,6 +549,7 @@ const PLANO = {
     {
       day: 68,
       reading: "Josué 5–8",
+      date: "09 de março de 2026",
       verse: "Nem por força nem por poder, mas pelo meu Espírito.",
       reference: "Zacarias 4:6",
       comment: "A queda de Jericó ensina que a vitória não vem da estratégia humana, mas da obediência confiante. Deus luta por seu povo. Em Cristo, aprendemos que as maiores batalhas são vencidas não pela força, mas pela fé."
@@ -550,6 +558,7 @@ const PLANO = {
     {
       day: 69,
       reading: "Josué 9–11",
+      date: "10 de março de 2026",
       verse: "O SENHOR pelejava por Israel.",
       reference: "Josué 10:14",
       comment: "Mesmo quando o povo erra, Deus segue cumprindo seu propósito soberano. Isso não justifica o erro, mas revela a graça de um Deus que governa a história. Cristo é a expressão máxima dessa soberania, conduzindo tudo para a redenção."
@@ -557,6 +566,7 @@ const PLANO = {
 {
       day: 70,
       reading: "Josué 12–14",
+      date: "11 de março de 2026",
       verse: "Dá-me este monte, de que o SENHOR falou.",
       reference: "Josué 14:12",
       comment: "Calebe nos ensina perseverança e fé ao longo do tempo. Décadas se passaram, mas ele continua confiando nas promessas de Deus. Em Cristo, somos chamados a não desistir, mesmo quando o cumprimento parece demorado."
@@ -565,6 +575,7 @@ const PLANO = {
     {
       day: 71,
       reading: "Josué 15–16",
+      date: "12 de março de 2026",
       verse: "A herança foi repartida conforme o SENHOR ordenara.",
       reference: "Josué 15:13",
       comment: "A repartição da terra mostra que Deus cumpre suas promessas de forma concreta. Cada tribo recebe sua porção. Em Cristo, lembramos que também temos uma herança eterna, preparada não por mérito, mas pela graça."
@@ -573,6 +584,7 @@ const PLANO = {
     {
       day: 72,
       reading: "Josué 17–19",
+      date: "13 de março de 2026",
       verse: "Ainda resta muita terra para possuir.",
       reference: "Josué 13:1",
       comment: "Mesmo após conquistas importantes, Deus lembra ao povo que a missão continua. A caminhada com Deus nunca é estática. Em Cristo, somos chamados ao crescimento contínuo, avançando em fé e obediência."
@@ -581,6 +593,7 @@ const PLANO = {
     {
       day: 73,
       reading: "Josué 20–22",
+      date: "14 de março de 2026",
       verse: "O SENHOR deu descanso a Israel.",
       reference: "Josué 21:44",
       comment: "O descanso concedido por Deus aponta para algo maior. A paz na terra prometida era parcial e temporária. Em Cristo, encontramos o descanso pleno para a alma, fruto da reconciliação com Deus."
@@ -589,6 +602,7 @@ const PLANO = {
     {
       day: 74,
       reading: "Josué 23–24",
+      date: "15 de março de 2026",
       verse: "Eu e a minha casa serviremos ao SENHOR.",
       reference: "Josué 24:15",
       comment: "Josué encerra sua liderança chamando o povo à decisão. Fé herdada não sustenta uma vida fiel. Cada geração precisa escolher servir ao Senhor. Em Cristo, renovamos diariamente essa decisão."
@@ -596,6 +610,7 @@ const PLANO = {
     {
       day: 75,
       reading: "Juízes 1–3",
+      date: "16 de março de 2026",
       verse: "Os filhos de Israel fizeram o que era mau perante o SENHOR.",
       reference: "Juízes 2:11",
       comment: "O livro de Juízes começa revelando um padrão trágico: desobediência, opressão, clamor e libertação. A infidelidade do povo expõe a fragilidade de uma fé que não é transmitida com profundidade às novas gerações. Esse ciclo aponta para a necessidade de um libertador maior, definitivo, que encontramos em Cristo."
@@ -604,6 +619,7 @@ const PLANO = {
     {
       day: 76,
       reading: "Juízes 4–6",
+      date: "17 de março de 2026",
       verse: "O SENHOR levantou juízes, que os livraram.",
       reference: "Juízes 2:16",
       comment: "Débora e Gideão mostram que Deus usa pessoas improváveis para cumprir seus propósitos. No entanto, a fraqueza humana permanece evidente. A cada libertação, percebemos que a verdadeira esperança não está no juiz, mas no Deus que levanta o juiz — expectativa que encontra seu cumprimento em Jesus."
@@ -612,6 +628,7 @@ const PLANO = {
     {
       day: 77,
       reading: "Juízes 7–9",
+      date: "18 de março de 2026",
       verse: "O SENHOR disse a Gideão: O povo que está contigo é demais.",
       reference: "Juízes 7:2",
       comment: "Deus reduz o exército para deixar claro que a vitória vem dEle, não da força humana. Contudo, após a vitória, o coração de Gideão e de Israel se desvia novamente. O texto nos alerta para o perigo de experimentar o poder de Deus sem permanecer dependente dEle."
@@ -620,6 +637,7 @@ const PLANO = {
     {
       day: 78,
       reading: "Juízes 10–12",
+      date: "19 de março de 2026",
       verse: "O povo tornou a fazer o que era mau perante o SENHOR.",
       reference: "Juízes 10:6",
       comment: "A repetição do pecado revela um coração dividido. O povo busca Deus apenas quando sofre, mas não quando prospera. Esse padrão nos confronta hoje: buscamos o Senhor por conveniência ou por amor verdadeiro? Cristo nos chama ao arrependimento genuíno e constante."
@@ -628,6 +646,7 @@ const PLANO = {
     {
       day: 79,
       reading: "Juízes 13–16",
+      date: "20 de março de 2026",
       verse: "Ele começará a livrar Israel.",
       reference: "Juízes 13:5",
       comment: "Sansão é separado por Deus, mas vive dividido por seus desejos. Sua força contrasta com sua fraqueza moral. A história nos ensina que dons não substituem obediência. Sansão aponta para a necessidade de um libertador que fosse forte e santo — plenamente cumprido em Cristo."
@@ -636,6 +655,7 @@ const PLANO = {
     {
       day: 80,
       reading: "Juízes 17–19",
+      date: "21 de março de 2026",
       verse: "Naqueles dias não havia rei em Israel.",
       reference: "Juízes 17:6",
       comment: "Esses capítulos revelam o colapso espiritual e moral do povo. Quando cada um faz o que acha certo, a sociedade se fragmenta. O texto é intencionalmente perturbador, levando-nos a desejar um Rei justo e verdadeiro, capaz de restaurar o povo."
@@ -644,6 +664,7 @@ const PLANO = {
     {
       day: 81,
       reading: "Juízes 20–21",
+      date: "22 de março de 2026",
       verse: "Cada um fazia o que parecia reto aos seus olhos.",
       reference: "Juízes 21:25",
       comment: "O livro termina sem solução humana, deixando o leitor em tensão. Juízes não oferece respostas fáceis, mas prepara o terreno para a monarquia. Essa ausência de rei aponta para Cristo, o Rei perfeito que governa com justiça e misericórdia."
@@ -652,6 +673,7 @@ const PLANO = {
     {
       day: 82,
       reading: "Rute 1–4",
+      date: "23 de março de 2026",
       verse: "O teu Deus será o meu Deus.",
       reference: "Rute 1:16",
       comment: "Em meio à decadência de Juízes, Rute revela fidelidade silenciosa e esperança. Deus age através da obediência comum e da lealdade. A genealogia final aponta para Davi e, mais adiante, para Cristo, mostrando que Deus constrói redenção mesmo em tempos sombrios."
@@ -660,6 +682,7 @@ const PLANO = {
     {
       day: 83,
       reading: "1 Samuel 1–3",
+      date: "24 de março de 2026",
       verse: "Fala, SENHOR, porque o teu servo ouve.",
       reference: "1 Samuel 3:10",
       comment: "O chamado de Samuel marca uma nova fase espiritual em Israel. Deus volta a falar após um período de silêncio. Esse texto nos confronta: estamos ouvindo a voz do Senhor ou apenas repetindo rituais vazios? Em Cristo, Deus nos fala de forma plena e definitiva."
@@ -668,6 +691,7 @@ const PLANO = {
     {
       day: 84,
       reading: "1 Samuel 4–7",
+      date: "25 de março de 2026",
       verse: "A glória se foi de Israel.",
       reference: "1 Samuel 4:21",
       comment: "A perda da arca revela que símbolos religiosos não substituem a presença real de Deus. Mesmo assim, o Senhor continua soberano. Ele não depende de objetos ou instituições. Essa verdade nos conduz a Cristo, o verdadeiro Emanuel, Deus conosco."
@@ -676,6 +700,7 @@ const PLANO = {
     {
       day: 85,
       reading: "1 Samuel 8–10",
+      date: "26 de março de 2026",
       verse: "Constitui-nos um rei, como têm todas as nações.",
       reference: "1 Samuel 8:5",
       comment: "O pedido por um rei revela rejeição ao governo de Deus. O povo quer ser como as outras nações. Esse desejo ecoa até hoje, quando preferimos segurança visível à confiança em Deus. Cristo se apresenta como Rei, mas não segundo os padrões humanos."
@@ -684,6 +709,7 @@ const PLANO = {
     {
       day: 86,
       reading: "1 Samuel 11–14",
+      date: "27 de março de 2026",
       verse: "Do SENHOR vem a salvação.",
       reference: "1 Samuel 14:6",
       comment: "Os primeiros atos de Saul mostram potencial, mas também sinais de insegurança espiritual. A obediência parcial começa a aparecer. O texto nos ensina que bons começos não garantem fidelidade até o fim. Cristo é o único Rei que permanece fiel em todas as circunstâncias."
@@ -692,6 +718,7 @@ const PLANO = {
     {
       day: 87,
       reading: "1 Samuel 15–17",
+      date: "28 de março de 2026",
       verse: "A obediência é melhor do que o sacrifício.",
       reference: "1 Samuel 15:22",
       comment: "A rejeição de Saul contrasta com a escolha de Davi. Deus não olha para a aparência, mas para o coração. Davi aponta para Cristo, o ungido segundo o coração de Deus, que vence o verdadeiro gigante: o pecado."
@@ -700,6 +727,7 @@ const PLANO = {
     {
       day: 88,
       reading: "1 Samuel 18–20",
+      date: "29 de março de 2026",
       verse: "O SENHOR era com Davi.",
       reference: "1 Samuel 18:14",
       comment: "A inveja de Saul revela o perigo de um coração inseguro diante do agir de Deus. A amizade entre Davi e Jônatas mostra lealdade sacrificial. Em Cristo, vemos o verdadeiro amigo que entrega a própria vida por amor."
@@ -708,6 +736,7 @@ const PLANO = {
     {
       day: 89,
       reading: "1 Samuel 21–24",
+      date: "30 de março de 2026",
       verse: "Não estenderei a mão contra o ungido do SENHOR.",
       reference: "1 Samuel 24:6",
       comment: "Mesmo injustiçado, Davi recusa tomar o trono pela força. Ele confia no tempo de Deus. Esse texto nos ensina que caráter pesa mais que oportunidade. Cristo, rejeitado e perseguido, também confiou plenamente no Pai."
@@ -716,6 +745,7 @@ const PLANO = {
     {
       day: 90,
       reading: "1 Samuel 25–27",
+      date: "31 de março de 2026",
       verse: "O SENHOR te fará casa firme.",
       reference: "1 Samuel 25:28",
       comment: "Davi enfrenta conflitos internos e externos, revelando virtudes e limites. Deus usa pessoas comuns, em processos longos, para cumprir seus propósitos. A história nos prepara para entender que o verdadeiro Rei ainda estava por vir: Jesus Cristo."
