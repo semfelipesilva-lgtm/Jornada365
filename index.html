@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jornada 365</title>
+
+  <!-- ESTILOS -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #005a40;
+    }
+
+    header {
+      background: #fbb157;
+      text-align: center;
+      padding: 20px;
+    }
+
+    header img {
+      max-height: 100px;
+    }
+
+    main {
+      padding: 20px;
+      max-width: 700px;
+      margin: auto;
+    }
+
+    h2 {
+      font-size: 1.2em;
+      margin-bottom: 10px;
+    }
+
+    p {
+      line-height: 1.5;
+    }
+
+    button {
+      background: #800000;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      font-size: 1em;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #a00000;
+    }
+
+    .nav {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      margin: 15px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+<!-- CABEÇALHO -->
+<header>
+  <img src="assets/logo.png" alt="Logo da Igreja">
+</header>
+
+<!-- CONTEÚDO -->
+<main>
+
+  <h2 id="date"></h2>
+  <h2 id="reading"></h2>
+  <p id="verse"></p>
+  <p id="reference"></p>
+  <p id="comment"></p>
+
+  <!-- BARRA DE PROGRESSO -->
+  <div style="background:#ddd; border-radius:10px; height:20px; margin:15px 0;">
+    <div id="progressBar"
+         style="background:#800000; height:100%; width:0%; border-radius:10px;">
+    </div>
+  </div>
+
+  <p id="progressText" style="text-align:center;"></p>
+
+  <!-- NAVEGAÇÃO -->
+  <div class="nav">
+    <button onclick="diaAnterior()">◀ Anterior</button>
+    <button onclick="voltarParaHoje()">Hoje</button>
+    <button onclick="diaSeguinte()">Seguinte ▶</button>
+  </div>
+
+  <!-- AÇÃO PRINCIPAL -->
+  <div style="text-align:center;">
+    <button id="doneBtn">Concluído / Avançar</button>
+  </div>
+
+</main>
+
+<!-- =========================
+     PLANO DE LEITURA (EXTERNO)
+========================== -->
+<script src="planos/plano_jan_fev.js"></script>
+
+<!-- =========================
+     SCRIPT PRINCIPAL DO APP
+========================== -->
+<script>
+/* ========= ESTADO ========= */
+
+let diaSalvo = Number(localStorage.getItem("jornada365_day")) || 1;
+let diaVisualizado = diaSalvo;
+const totalDias = PLANO.days.length;
+
+/* ========= RENDER ========= */
+
+function render() {
+  const dia = PLANO.days.find(d => d.day === diaVisualizado);
+
+  if (!dia) {
+    document.getElementById("reading").innerText =
+      "Parabéns! Você concluiu esta etapa 🎉";
+    document.getElementById("date").innerText = "";
+    document.getElementById("verse").innerText = "";
+    document.getElementById("reference").innerText = "";
+    document.getElementById("comment").innerText = "";
+    document.getElementById("progressText").innerText = "";
+    document.getElementById("progressBar").style.width = "100%";
+    return;
+  }
+
+  document.getElementById("reading").innerText =
+    "Leitura: " + dia.reading;
+
+  document.getElementById("date").innerText =
+    `${dia.date}`;
+
+  document.getElementById("verse").innerText =
+    `"${dia.verse}"`;
+
+  document.getElementById("reference").innerText =
+    dia.reference;
+
+  document.getElementById("comment").innerText =
+    dia.comment;
+
+  const progresso =
+    Math.min((diaSalvo - 1) / totalDias * 100, 100);
+
+  document.getElementById("progressBar").style.width =
+    progresso + "%";
+
+  document.getElementById("progressText").innerText =
+    `Visualizando dia ${diaVisualizado} • Progresso: ${diaSalvo - 1}/${totalDias}`;
+
+  document.getElementById("doneBtn").innerText =
+    diaVisualizado < diaSalvo
+      ? "Dia já concluído"
+      : "Concluído / Avançar";
+}
+
+/* ========= NAVEGAÇÃO ========= */
+
+function diaAnterior() {
+  if (diaVisualizado > 1) {
+    diaVisualizado--;
+    render();
+  }
+}
+
+function diaSeguinte() {
+  if (diaVisualizado < totalDias) {
+    diaVisualizado++;
+    render();
+  }
+}
+
+function voltarParaHoje() {
+  diaVisualizado = diaSalvo;
+  render();
+}
+
+/* ========= AÇÃO PRINCIPAL ========= */
+
+document.getElementById("doneBtn").onclick = () => {
+  if (diaVisualizado >= diaSalvo) {
+    diaSalvo++;
+    localStorage.setItem("jornada365_day", diaSalvo);
+    diaVisualizado = diaSalvo;
+    render();
+  }
+};
+
+/* ========= INICIALIZAÇÃO ========= */
+
+render();
+</script>
+
+</body>
+</html>
