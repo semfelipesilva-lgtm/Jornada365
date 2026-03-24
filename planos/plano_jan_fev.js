@@ -749,6 +749,14 @@ const PLANO = {
       verse: "O SENHOR te fará casa firme.",
       reference: "1 Samuel 25:28",
       comment: "Davi enfrenta conflitos internos e externos, revelando virtudes e limites. Deus usa pessoas comuns, em processos longos, para cumprir seus propósitos. A história nos prepara para entender que o verdadeiro Rei ainda estava por vir: Jesus Cristo."
-    }
+    },
+    {
+      day: 91,
+      reading: "1 Samuel 28–31",
+       date: "01 de abril de 2026",
+      verse: "Saul morreu por causa da sua infidelidade ao SENHOR.",
+      reference: "1 Crônicas 10:13",
+      comment: "O fim de Saul é trágico, não por falta de oportunidades, mas por persistir na desobediência. Ele quis os benefícios do reino sem se submeter ao Rei verdadeiro. Esse texto nos confronta: queremos Deus ou apenas o que Ele pode nos dar? Cristo nos chama a uma entrega total, não parcial."
+    },
   ]
 };
