@@ -633,7 +633,6 @@ const PLANO = {
       reference: "Juízes 7:2",
       comment: "Deus reduz o exército para deixar claro que a vitória vem dEle, não da força humana. Contudo, após a vitória, o coração de Gideão e de Israel se desvia novamente. O texto nos alerta para o perigo de experimentar o poder de Deus sem permanecer dependente dEle."
     },
-
     {
       day: 78,
       reading: "Juízes 10–12",
@@ -642,7 +641,6 @@ const PLANO = {
       reference: "Juízes 10:6",
       comment: "A repetição do pecado revela um coração dividido. O povo busca Deus apenas quando sofre, mas não quando prospera. Esse padrão nos confronta hoje: buscamos o Senhor por conveniência ou por amor verdadeiro? Cristo nos chama ao arrependimento genuíno e constante."
     },
-
     {
       day: 79,
       reading: "Juízes 13–16",
@@ -651,7 +649,6 @@ const PLANO = {
       reference: "Juízes 13:5",
       comment: "Sansão é separado por Deus, mas vive dividido por seus desejos. Sua força contrasta com sua fraqueza moral. A história nos ensina que dons não substituem obediência. Sansão aponta para a necessidade de um libertador que fosse forte e santo — plenamente cumprido em Cristo."
     },
-
     {
       day: 80,
       reading: "Juízes 17–19",
@@ -660,7 +657,6 @@ const PLANO = {
       reference: "Juízes 17:6",
       comment: "Esses capítulos revelam o colapso espiritual e moral do povo. Quando cada um faz o que acha certo, a sociedade se fragmenta. O texto é intencionalmente perturbador, levando-nos a desejar um Rei justo e verdadeiro, capaz de restaurar o povo."
     },
-
     {
       day: 81,
       reading: "Juízes 20–21",
@@ -669,7 +665,6 @@ const PLANO = {
       reference: "Juízes 21:25",
       comment: "O livro termina sem solução humana, deixando o leitor em tensão. Juízes não oferece respostas fáceis, mas prepara o terreno para a monarquia. Essa ausência de rei aponta para Cristo, o Rei perfeito que governa com justiça e misericórdia."
     },
-
     {
       day: 82,
       reading: "Rute 1–4",
@@ -757,6 +752,265 @@ const PLANO = {
       verse: "Saul morreu por causa da sua infidelidade ao SENHOR.",
       reference: "1 Crônicas 10:13",
       comment: "O fim de Saul é trágico, não por falta de oportunidades, mas por persistir na desobediência. Ele quis os benefícios do reino sem se submeter ao Rei verdadeiro. Esse texto nos confronta: queremos Deus ou apenas o que Ele pode nos dar? Cristo nos chama a uma entrega total, não parcial."
+    },
+    
+    {
+      day: 92,
+      reading: "2 Samuel 1–3",
+      date: "02 de abril de 2026",
+      verse: "Davi consultou ao SENHOR.",
+      reference: "2 Samuel 2:1",
+      comment: "Davi inicia seu reinado buscando direção em Deus. Diferente de Saul, ele não age por impulso. Isso não significa perfeição, mas dependência. Em Cristo, vemos o Rei que viveu em total submissão ao Pai, modelo para nossa vida."
+    },
+
+    {
+      day: 93,
+      reading: "2 Samuel 4–6",
+      date: "03 de abril de 2026",
+      verse: "Davi dançava com todas as suas forças perante o SENHOR.",
+      reference: "2 Samuel 6:14",
+      comment: "A alegria de Davi diante da presença de Deus revela um coração que valoriza mais a glória do Senhor do que a própria reputação. A adoração verdadeira não é performance, mas resposta sincera à presença de Deus. Em Cristo, temos acesso pleno a essa presença."
+    },
+
+    {
+      day: 94,
+      reading: "2 Samuel 7–9",
+      date: "04 de abril de 2026",
+      verse: "A tua casa e o teu reino serão firmados para sempre.",
+      reference: "2 Samuel 7:16",
+      comment: "A aliança com Davi é um dos pontos centrais da Bíblia. Deus promete um reino eterno, que não se cumpriria plenamente em Davi, mas em Cristo. Aqui nasce a esperança messiânica de forma clara e poderosa."
+    },
+
+    {
+      day: 95,
+      reading: "2 Samuel 10–12",
+      date: "05 de abril de 2026",
+      verse: "Pequei contra o SENHOR.",
+      reference: "2 Samuel 12:13",
+      comment: "O pecado de Davi com Bate-Seba revela que até os melhores líderes falham profundamente. Mas o arrependimento sincero mostra o caminho de volta. Esse contraste aponta para a necessidade de um Rei que não falharia — Jesus."
+    },
+
+    {
+      day: 96,
+      reading: "2 Samuel 13–15",
+      date: "06 de abril de 2026",
+      verse: "O pecado traz consequências.",
+      reference: "Gálatas 6:7",
+      comment: "A desordem na família de Davi mostra que o pecado não afeta apenas o indivíduo, mas gera impacto coletivo. Deus perdoa, mas as consequências permanecem. Em Cristo, encontramos perdão e também transformação para quebrar ciclos."
+    },
+
+    {
+      day: 97,
+      reading: "2 Samuel 16–18",
+      date: "07 de abril de 2026",
+      verse: "O SENHOR transformou a maldição em bênção.",
+      reference: "2 Samuel 16:12",
+      comment: "Davi enfrenta humilhação e dor, mas reconhece a soberania de Deus até nas adversidades. Essa postura revela maturidade espiritual. Cristo também foi humilhado, mas confiou plenamente no Pai."
+    },
+
+    {
+      day: 98,
+      reading: "2 Samuel 19–21",
+      date: "08 de abril de 2026",
+      verse: "O rei voltou em paz.",
+      reference: "2 Samuel 19:15",
+      comment: "A restauração de Davi ao trono aponta para a fidelidade de Deus em manter sua promessa, mesmo em meio ao caos. O reino de Deus não depende da perfeição humana, mas da graça divina."
+    },
+
+    {
+      day: 99,
+      reading: "2 Samuel 22–24",
+      date: "09 de abril de 2026",
+      verse: "O SENHOR é a minha rocha e a minha fortaleza.",
+      reference: "2 Samuel 22:2",
+      comment: "Davi reconhece que todas as suas vitórias vieram de Deus. Mesmo no fim, ainda há falhas, mostrando que ele não é o rei definitivo. Cristo é a rocha perfeita, em quem podemos confiar plenamente."
+    },
+
+    {
+      day: 100,
+      reading: "1 Reis 1–2",
+      date: "10 de abril de 2026",
+      verse: "Seja forte e anda nos caminhos do SENHOR.",
+      reference: "1 Reis 2:2",
+      comment: "A transição para Salomão mostra que o reino continua, mas também revela tensões políticas e espirituais. A promessa de Deus segue firme, apesar das imperfeições humanas."
+    },
+
+    {
+      day: 101,
+      reading: "1 Reis 3–4",
+      date: "11 de abril de 2026",
+      verse: "Dá ao teu servo um coração compreensivo.",
+      reference: "1 Reis 3:9",
+      comment: "Salomão pede sabedoria, e Deus se agrada. Isso nos ensina que o maior recurso não é poder, mas discernimento. Em Cristo, encontramos a sabedoria perfeita."
+    },
+
+    {
+      day: 102,
+      reading: "1 Reis 5–7",
+      date: "12 de abril de 2026",
+      verse: "Edificou a casa para o nome do SENHOR.",
+      reference: "1 Reis 6:1",
+      comment: "A construção do templo representa o desejo de Deus de habitar com seu povo. No entanto, o templo físico apontava para algo maior. Em Cristo, Deus habita conosco de forma plena."
+    },
+
+    {
+      day: 103,
+      reading: "1 Reis 8",
+      date: "13 de abril de 2026",
+      verse: "Os céus não podem te conter.",
+      reference: "1 Reis 8:27",
+      comment: "A dedicação do templo mostra a grandeza de Deus e a limitação das estruturas humanas. Deus não pode ser contido em prédios. Ele se revela de forma plena em Cristo."
+    },
+
+    {
+      day: 104,
+      reading: "1 Reis 9–11",
+      date: "14 de abril de 2026",
+      verse: "O coração de Salomão se desviou.",
+      reference: "1 Reis 11:4",
+      comment: "O mesmo homem que pediu sabedoria se afasta de Deus. Isso revela que conhecimento não garante fidelidade. O coração precisa ser constantemente guardado. Cristo é o único que permaneceu fiel até o fim."
+    },
+    {
+      day: 105,
+      reading: "1 Reis 12–14",
+      date: "15 de abril de 2026",
+      verse: "O reino se dividiu.",
+      reference: "1 Reis 12:19",
+      comment: "A divisão de Israel mostra as consequências acumuladas da desobediência. O povo colhe o que foi plantado ao longo das gerações. Esse cenário prepara o caminho para a atuação dos profetas e aponta para a necessidade de restauração."
+    },
+    {
+      day: 106,
+      reading: "1 Reis 15–17",
+      date: "16 de abril de 2026",
+      verse: "Elias disse: Vive o SENHOR, em cuja presença estou.",
+      reference: "1 Reis 17:1",
+      comment: "Em meio a reis corruptos, Deus levanta Elias. Isso mostra que, mesmo quando a liderança falha, Deus preserva sua voz. A fidelidade de Deus não depende do sistema, mas do seu próprio caráter. Cristo é a Palavra viva que nunca se cala."
+    },
+
+    {
+      day: 107,
+      reading: "1 Reis 18–19",
+      date: "17 de abril de 2026",
+      verse: "Até quando coxeareis entre dois pensamentos?",
+      reference: "1 Reis 18:21",
+      comment: "O confronto no Carmelo expõe a falsa segurança dos ídolos. O povo precisava decidir a quem servir. Logo depois, Elias entra em crise, mostrando que até homens de Deus enfrentam fraqueza. Em Cristo, encontramos firmeza mesmo quando nossas emoções vacilam."
+    },
+
+    {
+      day: 108,
+      reading: "1 Reis 20–22",
+      date: "18 de abril de 2026",
+      verse: "A palavra do SENHOR se cumprirá.",
+      reference: "1 Reis 22:28",
+      comment: "Mesmo rejeitada, a palavra de Deus não falha. Acabe tenta manipular a realidade, mas não consegue escapar do que Deus declarou. Isso nos lembra que a verdade de Deus não depende da nossa aceitação."
+    },
+
+    {
+      day: 109,
+      reading: "2 Reis 1–3",
+      date: "19 de abril de 2026",
+      verse: "Não há Deus em Israel?",
+      reference: "2 Reis 1:3",
+      comment: "A busca por respostas fora de Deus revela incredulidade. O povo consulta outras fontes porque não confia no Senhor. Esse padrão continua hoje: quando ignoramos Deus, buscamos substitutos. Cristo é a revelação final e suficiente."
+    },
+
+    {
+      day: 110,
+      reading: "2 Reis 4–5",
+      date: "20 de abril de 2026",
+      verse: "Há profeta em Israel.",
+      reference: "2 Reis 5:8",
+      comment: "Milagres através de Eliseu mostram que Deus continua agindo com graça. Naamã, um estrangeiro, é curado, revelando que a salvação não é limitada a um povo. Em Cristo, essa graça se expande a todas as nações."
+    },
+
+    {
+      day: 111,
+      reading: "2 Reis 6–8",
+      date: "21 de abril de 2026",
+      verse: "Mais são os que estão conosco do que os que estão com eles.",
+      reference: "2 Reis 6:16",
+      comment: "A realidade espiritual muitas vezes é invisível aos nossos olhos. Deus está operando mesmo quando não percebemos. Em Cristo, aprendemos a viver por fé, não apenas pelo que vemos."
+    },
+
+    {
+      day: 112,
+      reading: "2 Reis 9–11",
+      date: "22 de abril de 2026",
+      verse: "Assim diz o SENHOR.",
+      reference: "2 Reis 9:6",
+      comment: "O juízo de Deus contra a casa de Acabe mostra que Ele não ignora o pecado indefinidamente. Sua justiça se manifesta no tempo certo. Ao mesmo tempo, Deus preserva a linhagem de Davi, apontando para Cristo."
+    },
+
+    {
+      day: 113,
+      reading: "2 Reis 12–14",
+      date: "23 de abril de 2026",
+      verse: "Fez o que era reto, porém não de todo o coração.",
+      reference: "2 Reis 14:4",
+      comment: "Obediência parcial aparece repetidamente. Muitos reis fazem o que é certo externamente, mas sem compromisso verdadeiro. Deus não se satisfaz com aparência. Cristo chama a uma transformação real do coração."
+    },
+
+    {
+      day: 114,
+      reading: "2 Reis 15–17",
+      date: "24 de abril de 2026",
+      verse: "Isso sucedeu porque os filhos de Israel pecaram contra o SENHOR.",
+      reference: "2 Reis 17:7",
+      comment: "A queda do reino do norte (Israel) não é acaso, mas consequência acumulada de desobediência. Deus foi paciente, mas o juízo veio. Esse texto nos lembra que graça não é licença para pecar."
+    },
+
+    {
+      day: 115,
+      reading: "2 Reis 18–20",
+      date: "25 de abril de 2026",
+      verse: "Confia no SENHOR.",
+      reference: "2 Reis 18:5",
+      comment: "Ezequias se destaca como um rei que confia em Deus. Em meio à ameaça, ele busca o Senhor. Isso mostra que ainda há esperança mesmo em tempos difíceis. Em Cristo, encontramos a confiança perfeita."
+    },
+
+    {
+      day: 116,
+      reading: "2 Reis 21–23",
+      date: "26 de abril de 2026",
+      verse: "Achou-se o Livro da Lei.",
+      reference: "2 Reis 22:8",
+      comment: "O avivamento nos dias de Josias começa com a redescoberta da Palavra. Quando a Escritura volta ao centro, há transformação. Isso continua sendo verdade hoje: sem a Palavra, não há reforma real."
+    },
+
+    {
+      day: 117,
+      reading: "2 Reis 24–25",
+      date: "27 de abril de 2026",
+      verse: "Judá foi levado cativo.",
+      reference: "2 Reis 25:21",
+      comment: "A queda de Jerusalém marca um dos momentos mais sombrios da história de Israel. As promessas parecem ameaçadas, mas não anuladas. Deus ainda está conduzindo a história, preparando redenção futura em Cristo."
+    },
+
+    {
+      day: 118,
+      reading: "1 Crônicas 1–3",
+      date: "28 de abril de 2026",
+      verse: "Genealogias que preservam a promessa.",
+      reference: "1 Crônicas 1:1",
+      comment: "As genealogias podem parecer repetitivas, mas mostram que Deus preserva sua promessa ao longo das gerações. Nada se perde no plano de Deus. Cristo surge dentro dessa história real, não como mito."
+    },
+
+    {
+      day: 119,
+      reading: "1 Crônicas 4–6",
+      date: "29 de abril de 2026",
+      verse: "O SENHOR atendeu ao seu pedido.",
+      reference: "1 Crônicas 4:10",
+      comment: "Mesmo em listas de nomes, vemos exemplos de oração e dependência. Deus se importa com indivíduos dentro da grande história. Em Cristo, cada vida tem valor e propósito."
+    },
+
+    {
+      day: 120,
+      reading: "1 Crônicas 7–10",
+      date: "30 de abril de 2026",
+      verse: "Saul morreu por sua infidelidade.",
+      reference: "1 Crônicas 10:13",
+      comment: "O resumo da vida de Saul reforça uma verdade central: começar bem não é suficiente. Fidelidade até o fim é o que importa. Cristo é o único que cumpriu perfeitamente essa fidelidade, garantindo nossa esperança."
     }
   ]
 };
