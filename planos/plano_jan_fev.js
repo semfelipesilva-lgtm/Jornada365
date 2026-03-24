@@ -765,7 +765,7 @@ const PLANO = {
 
     {
       day: 93,
-      reading: "2 Samuel 4–6",
+      reading: "2 Samuel 4–7",
       date: "03 de abril de 2026",
       verse: "Davi dançava com todas as suas forças perante o SENHOR.",
       reference: "2 Samuel 6:14",
@@ -774,7 +774,7 @@ const PLANO = {
 
     {
       day: 94,
-      reading: "2 Samuel 7–9",
+      reading: "2 Samuel 8–11",
       date: "04 de abril de 2026",
       verse: "A tua casa e o teu reino serão firmados para sempre.",
       reference: "2 Samuel 7:16",
@@ -783,7 +783,7 @@ const PLANO = {
 
     {
       day: 95,
-      reading: "2 Samuel 10–12",
+      reading: "2 Samuel 12–14",
       date: "05 de abril de 2026",
       verse: "Pequei contra o SENHOR.",
       reference: "2 Samuel 12:13",
@@ -792,7 +792,7 @@ const PLANO = {
 
     {
       day: 96,
-      reading: "2 Samuel 13–15",
+      reading: "2 Samuel 15–17",
       date: "06 de abril de 2026",
       verse: "O pecado traz consequências.",
       reference: "Gálatas 6:7",
@@ -801,7 +801,7 @@ const PLANO = {
 
     {
       day: 97,
-      reading: "2 Samuel 16–18",
+      reading: "2 Samuel 18–19",
       date: "07 de abril de 2026",
       verse: "O SENHOR transformou a maldição em bênção.",
       reference: "2 Samuel 16:12",
@@ -810,7 +810,7 @@ const PLANO = {
 
     {
       day: 98,
-      reading: "2 Samuel 19–21",
+      reading: "2 Samuel 20–22",
       date: "08 de abril de 2026",
       verse: "O rei voltou em paz.",
       reference: "2 Samuel 19:15",
@@ -819,7 +819,7 @@ const PLANO = {
 
     {
       day: 99,
-      reading: "2 Samuel 22–24",
+      reading: "2 Samuel 23–24",
       date: "09 de abril de 2026",
       verse: "O SENHOR é a minha rocha e a minha fortaleza.",
       reference: "2 Samuel 22:2",
@@ -837,7 +837,7 @@ const PLANO = {
 
     {
       day: 101,
-      reading: "1 Reis 3–4",
+      reading: "1 Reis 3–5",
       date: "11 de abril de 2026",
       verse: "Dá ao teu servo um coração compreensivo.",
       reference: "1 Reis 3:9",
@@ -846,7 +846,7 @@ const PLANO = {
 
     {
       day: 102,
-      reading: "1 Reis 5–7",
+      reading: "1 Reis 6–7",
       date: "12 de abril de 2026",
       verse: "Edificou a casa para o nome do SENHOR.",
       reference: "1 Reis 6:1",
@@ -855,7 +855,7 @@ const PLANO = {
 
     {
       day: 103,
-      reading: "1 Reis 8",
+      reading: "1 Reis 8-9",
       date: "13 de abril de 2026",
       verse: "Os céus não podem te conter.",
       reference: "1 Reis 8:27",
@@ -864,7 +864,7 @@ const PLANO = {
 
     {
       day: 104,
-      reading: "1 Reis 9–11",
+      reading: "1 Reis 10–11",
       date: "14 de abril de 2026",
       verse: "O coração de Salomão se desviou.",
       reference: "1 Reis 11:4",
@@ -889,7 +889,7 @@ const PLANO = {
 
     {
       day: 107,
-      reading: "1 Reis 18–19",
+      reading: "1 Reis 18–20",
       date: "17 de abril de 2026",
       verse: "Até quando coxeareis entre dois pensamentos?",
       reference: "1 Reis 18:21",
@@ -898,7 +898,7 @@ const PLANO = {
 
     {
       day: 108,
-      reading: "1 Reis 20–22",
+      reading: "1 Reis 21–22",
       date: "18 de abril de 2026",
       verse: "A palavra do SENHOR se cumprirá.",
       reference: "1 Reis 22:28",
@@ -907,7 +907,7 @@ const PLANO = {
 
     {
       day: 109,
-      reading: "2 Reis 1–3",
+      reading: "2 Reis 1–4",
       date: "19 de abril de 2026",
       verse: "Não há Deus em Israel?",
       reference: "2 Reis 1:3",
@@ -916,7 +916,7 @@ const PLANO = {
 
     {
       day: 110,
-      reading: "2 Reis 4–5",
+      reading: "2 Reis 5–7",
       date: "20 de abril de 2026",
       verse: "Há profeta em Israel.",
       reference: "2 Reis 5:8",
@@ -925,7 +925,7 @@ const PLANO = {
 
     {
       day: 111,
-      reading: "2 Reis 6–8",
+      reading: "2 Reis 8–10",
       date: "21 de abril de 2026",
       verse: "Mais são os que estão conosco do que os que estão com eles.",
       reference: "2 Reis 6:16",
@@ -934,7 +934,7 @@ const PLANO = {
 
     {
       day: 112,
-      reading: "2 Reis 9–11",
+      reading: "2 Reis 11–14",
       date: "22 de abril de 2026",
       verse: "Assim diz o SENHOR.",
       reference: "2 Reis 9:6",
@@ -943,7 +943,7 @@ const PLANO = {
 
     {
       day: 113,
-      reading: "2 Reis 12–14",
+      reading: "2 Reis 15–17",
       date: "23 de abril de 2026",
       verse: "Fez o que era reto, porém não de todo o coração.",
       reference: "2 Reis 14:4",
@@ -952,7 +952,7 @@ const PLANO = {
 
     {
       day: 114,
-      reading: "2 Reis 15–17",
+      reading: "2 Reis 18–19",
       date: "24 de abril de 2026",
       verse: "Isso sucedeu porque os filhos de Israel pecaram contra o SENHOR.",
       reference: "2 Reis 17:7",
@@ -961,7 +961,7 @@ const PLANO = {
 
     {
       day: 115,
-      reading: "2 Reis 18–20",
+      reading: "2 Reis 20–23",
       date: "25 de abril de 2026",
       verse: "Confia no SENHOR.",
       reference: "2 Reis 18:5",
@@ -970,7 +970,7 @@ const PLANO = {
 
     {
       day: 116,
-      reading: "2 Reis 21–23",
+      reading: "2 Reis 24–25",
       date: "26 de abril de 2026",
       verse: "Achou-se o Livro da Lei.",
       reference: "2 Reis 22:8",
@@ -979,7 +979,7 @@ const PLANO = {
 
     {
       day: 117,
-      reading: "2 Reis 24–25",
+      reading: "1 Crônicas 1–2",
       date: "27 de abril de 2026",
       verse: "Judá foi levado cativo.",
       reference: "2 Reis 25:21",
@@ -988,7 +988,7 @@ const PLANO = {
 
     {
       day: 118,
-      reading: "1 Crônicas 1–3",
+      reading: "1 Crônicas 3–5",
       date: "28 de abril de 2026",
       verse: "Genealogias que preservam a promessa.",
       reference: "1 Crônicas 1:1",
@@ -997,7 +997,7 @@ const PLANO = {
 
     {
       day: 119,
-      reading: "1 Crônicas 4–6",
+      reading: "1 Crônicas 6",
       date: "29 de abril de 2026",
       verse: "O SENHOR atendeu ao seu pedido.",
       reference: "1 Crônicas 4:10",
@@ -1006,7 +1006,7 @@ const PLANO = {
 
     {
       day: 120,
-      reading: "1 Crônicas 7–10",
+      reading: "1 Crônicas 7–8",
       date: "30 de abril de 2026",
       verse: "Saul morreu por sua infidelidade.",
       reference: "1 Crônicas 10:13",
