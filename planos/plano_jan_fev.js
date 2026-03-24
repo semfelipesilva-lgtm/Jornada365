@@ -803,18 +803,18 @@ const PLANO = {
       day: 97,
       reading: "2 Samuel 18–19",
       date: "07 de abril de 2026",
-      verse: "O SENHOR transformou a maldição em bênção.",
-      reference: "2 Samuel 16:12",
-      comment: "Davi enfrenta humilhação e dor, mas reconhece a soberania de Deus até nas adversidades. Essa postura revela maturidade espiritual. Cristo também foi humilhado, mas confiou plenamente no Pai."
+      verse: "O rei voltou em paz.",
+      reference: "2 Samuel 19:15",
+      comment: "A restauração de Davi ao trono aponta para a fidelidade de Deus em manter sua promessa, mesmo em meio ao caos. O reino de Deus não depende da perfeição humana, mas da graça divina."
     },
 
     {
       day: 98,
       reading: "2 Samuel 20–22",
       date: "08 de abril de 2026",
-      verse: "O rei voltou em paz.",
-      reference: "2 Samuel 19:15",
-      comment: "A restauração de Davi ao trono aponta para a fidelidade de Deus em manter sua promessa, mesmo em meio ao caos. O reino de Deus não depende da perfeição humana, mas da graça divina."
+      verse: "O SENHOR é a minha rocha e a minha fortaleza.",
+      reference: "2 Samuel 22:2",
+      comment: "Davi reconhece que todas as suas vitórias vieram de Deus. Mesmo no fim, ainda há falhas, mostrando que ele não é o rei definitivo. Cristo é a rocha perfeita, em quem podemos confiar plenamente."
     },
 
     {
@@ -927,72 +927,72 @@ const PLANO = {
       day: 111,
       reading: "2 Reis 8–10",
       date: "21 de abril de 2026",
-      verse: "Mais são os que estão conosco do que os que estão com eles.",
-      reference: "2 Reis 6:16",
-      comment: "A realidade espiritual muitas vezes é invisível aos nossos olhos. Deus está operando mesmo quando não percebemos. Em Cristo, aprendemos a viver por fé, não apenas pelo que vemos."
-    },
-
-    {
-      day: 112,
-      reading: "2 Reis 11–14",
-      date: "22 de abril de 2026",
       verse: "Assim diz o SENHOR.",
       reference: "2 Reis 9:6",
       comment: "O juízo de Deus contra a casa de Acabe mostra que Ele não ignora o pecado indefinidamente. Sua justiça se manifesta no tempo certo. Ao mesmo tempo, Deus preserva a linhagem de Davi, apontando para Cristo."
     },
 
     {
-      day: 113,
-      reading: "2 Reis 15–17",
-      date: "23 de abril de 2026",
+      day: 112,
+      reading: "2 Reis 11–14",
+      date: "22 de abril de 2026",
       verse: "Fez o que era reto, porém não de todo o coração.",
       reference: "2 Reis 14:4",
       comment: "Obediência parcial aparece repetidamente. Muitos reis fazem o que é certo externamente, mas sem compromisso verdadeiro. Deus não se satisfaz com aparência. Cristo chama a uma transformação real do coração."
     },
 
     {
-      day: 114,
-      reading: "2 Reis 18–19",
-      date: "24 de abril de 2026",
+      day: 113,
+      reading: "2 Reis 15–17",
+      date: "23 de abril de 2026",
       verse: "Isso sucedeu porque os filhos de Israel pecaram contra o SENHOR.",
       reference: "2 Reis 17:7",
       comment: "A queda do reino do norte (Israel) não é acaso, mas consequência acumulada de desobediência. Deus foi paciente, mas o juízo veio. Esse texto nos lembra que graça não é licença para pecar."
     },
 
     {
-      day: 115,
-      reading: "2 Reis 20–23",
-      date: "25 de abril de 2026",
+      day: 114,
+      reading: "2 Reis 18–19",
+      date: "24 de abril de 2026",
       verse: "Confia no SENHOR.",
       reference: "2 Reis 18:5",
       comment: "Ezequias se destaca como um rei que confia em Deus. Em meio à ameaça, ele busca o Senhor. Isso mostra que ainda há esperança mesmo em tempos difíceis. Em Cristo, encontramos a confiança perfeita."
     },
 
     {
-      day: 116,
-      reading: "2 Reis 24–25",
-      date: "26 de abril de 2026",
+      day: 115,
+      reading: "2 Reis 20–23",
+      date: "25 de abril de 2026",
       verse: "Achou-se o Livro da Lei.",
       reference: "2 Reis 22:8",
       comment: "O avivamento nos dias de Josias começa com a redescoberta da Palavra. Quando a Escritura volta ao centro, há transformação. Isso continua sendo verdade hoje: sem a Palavra, não há reforma real."
     },
 
     {
-      day: 117,
-      reading: "1 Crônicas 1–2",
-      date: "27 de abril de 2026",
+      day: 116,
+      reading: "2 Reis 24–25",
+      date: "26 de abril de 2026",
       verse: "Judá foi levado cativo.",
       reference: "2 Reis 25:21",
       comment: "A queda de Jerusalém marca um dos momentos mais sombrios da história de Israel. As promessas parecem ameaçadas, mas não anuladas. Deus ainda está conduzindo a história, preparando redenção futura em Cristo."
     },
 
     {
-      day: 118,
-      reading: "1 Crônicas 3–5",
-      date: "28 de abril de 2026",
+      day: 117,
+      reading: "1 Crônicas 1–2",
+      date: "27 de abril de 2026",
       verse: "Genealogias que preservam a promessa.",
       reference: "1 Crônicas 1:1",
       comment: "As genealogias podem parecer repetitivas, mas mostram que Deus preserva sua promessa ao longo das gerações. Nada se perde no plano de Deus. Cristo surge dentro dessa história real, não como mito."
+    },
+
+    {
+      day: 118,
+      reading: "1 Crônicas 3–5",
+      date: "28 de abril de 2026",
+      verse: "O SENHOR atendeu ao seu pedido.",
+      reference: "1 Crônicas 4:10",
+      comment: "Mesmo em listas de nomes, vemos exemplos de oração e dependência. Deus se importa com indivíduos dentro da grande história. Em Cristo, cada vida tem valor e propósito."
     },
 
     {
