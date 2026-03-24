@@ -563,7 +563,7 @@ const PLANO = {
       reference: "Josué 10:14",
       comment: "Mesmo quando o povo erra, Deus segue cumprindo seu propósito soberano. Isso não justifica o erro, mas revela a graça de um Deus que governa a história. Cristo é a expressão máxima dessa soberania, conduzindo tudo para a redenção."
     },
-{
+    {
       day: 70,
       reading: "Josué 12–14",
       date: "11 de março de 2026",
@@ -821,11 +821,10 @@ const PLANO = {
       day: 99,
       reading: "2 Samuel 23–24",
       date: "09 de abril de 2026",
-      verse: "O SENHOR é a minha rocha e a minha fortaleza.",
-      reference: "2 Samuel 22:2",
-      comment: "Davi reconhece que todas as suas vitórias vieram de Deus. Mesmo no fim, ainda há falhas, mostrando que ele não é o rei definitivo. Cristo é a rocha perfeita, em quem podemos confiar plenamente."
+      verse: “Levantou-se Davi… e edificou ali um altar ao SENHOR… Assim o SENHOR se tornou favorável para com a terra.”,
+      reference: "2 Samuel 24:25",
+      comment: "O final da vida de Davi revela uma tensão profunda: o rei escolhido por Deus ainda é um pecador capaz de trazer juízo sobre o povo. O censo, motivado por autoconfiança, mostra que até líderes espirituais podem deslocar sua confiança de Deus para números e controle humano. No entanto, o capítulo não termina em juízo, mas em graça. O altar erguido e o sacrifício oferecido revelam que a ira de Deus é detida por meio de substituição. Esse episódio aponta diretamente para Cristo, o sacrifício perfeito, que não apenas interrompe o juízo temporariamente, mas resolve definitivamente o problema do pecado. Assim, o texto nos confronta e consola: confronta nossa tendência de confiar em nós mesmos, e consola ao mostrar que Deus providencia o meio de reconciliação."
     },
-
     {
       day: 100,
       reading: "1 Reis 1–2",
@@ -999,18 +998,17 @@ const PLANO = {
       day: 119,
       reading: "1 Crônicas 6",
       date: "29 de abril de 2026",
-      verse: "O SENHOR atendeu ao seu pedido.",
-      reference: "1 Crônicas 4:10",
-      comment: "Mesmo em listas de nomes, vemos exemplos de oração e dependência. Deus se importa com indivíduos dentro da grande história. Em Cristo, cada vida tem valor e propósito."
+      verse: “Estes são os que Davi estabeleceu para dirigirem o canto na Casa do SENHOR.”,
+      reference: "1 Crônicas 6:31",
+      comment: "À primeira vista, 1 Crônicas 6 parece apenas uma lista de nomes, mas revela algo profundo: Deus se importa com a forma como é adorado. Os levitas são separados, organizados e designados para o serviço no templo, mostrando que o culto não é centrado no homem, mas em Deus. A adoração verdadeira envolve ordem, responsabilidade e dedicação. Ao mesmo tempo, esse sistema aponta para uma limitação: era necessário mediação constante entre Deus e o povo. Em Cristo, essa mediação encontra seu cumprimento perfeito. Ele é o nosso sumo sacerdote definitivo, e por meio dele temos acesso direto a Deus. Assim, o texto nos desafia a tratar a adoração com reverência e propósito, não como algo casual ou centrado em preferências pessoais."
     },
-
     {
       day: 120,
       reading: "1 Crônicas 7–8",
       date: "30 de abril de 2026",
-      verse: "Saul morreu por sua infidelidade.",
-      reference: "1 Crônicas 10:13",
-      comment: "O resumo da vida de Saul reforça uma verdade central: começar bem não é suficiente. Fidelidade até o fim é o que importa. Cristo é o único que cumpriu perfeitamente essa fidelidade, garantindo nossa esperança."
+      verse: “Todos estes foram contados por suas genealogias… homens valentes para a guerra.”,
+      reference: "1 Crônicas 7:40",
+      comment: "As genealogias de 1 Crônicas 7–8 mostram que, apesar das crises, perdas e dispersões, Deus preserva seu povo ao longo da história. Cada nome registrado é uma evidência de que a promessa de Deus não falhou. Mesmo quando Israel enfrentou guerras e decadência espiritual, sua identidade não foi apagada. Isso aponta para a fidelidade de Deus em sustentar seu plano redentor. Em Cristo, essa preservação alcança seu ápice: Deus não apenas mantém um povo, mas forma um novo povo, unido não por linhagem física, mas pela fé. O texto nos confronta com uma pergunta: nossa identidade está nas circunstâncias ou na fidelidade de Deus?"
     }
-  ]
+    ]
 };
