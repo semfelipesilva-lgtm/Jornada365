@@ -1009,6 +1009,252 @@ const PLANO = {
       verse: "Todos estes foram contados por suas genealogias… homens valentes para a guerra.",
       reference: "1 Crônicas 7:40",
       comment: "As genealogias de 1 Crônicas 7–8 mostram que, apesar das crises, perdas e dispersões, Deus preserva seu povo ao longo da história. Cada nome registrado é uma evidência de que a promessa de Deus não falhou. Mesmo quando Israel enfrentou guerras e decadência espiritual, sua identidade não foi apagada. Isso aponta para a fidelidade de Deus em sustentar seu plano redentor. Em Cristo, essa preservação alcança seu ápice: Deus não apenas mantém um povo, mas forma um novo povo, unido não por linhagem física, mas pela fé. O texto nos confronta com uma pergunta: nossa identidade está nas circunstâncias ou na fidelidade de Deus?"
+    },
+    {
+      day: 121,
+      reading: "1 Crônicas 9–11",
+      verse: "Todo Israel se reuniu com Davi.",
+      reference: "1 Crônicas 11:1",
+      comment: "A unificação do reino sob Davi mostra o cumprimento da promessa de Deus. O povo reconhece o rei escolhido por Deus. Isso aponta para Cristo, o Rei verdadeiro que reúne um povo para si."
+    },
+
+    {
+      day: 122,
+      reading: "1 Crônicas 12–15",
+      verse: "Buscamos ao SENHOR.",
+      reference: "1 Crônicas 13:3",
+      comment: "Davi aprende que boas intenções não substituem obediência. A presença de Deus deve ser tratada com reverência. Em Cristo, temos acesso a Deus, mas isso não elimina a santidade."
+    },
+
+    {
+      day: 123,
+      reading: "1 Crônicas 16–18",
+      verse: "Não edificarás casa para mim.",
+      reference: "1 Crônicas 17:4",
+      comment: "Deus lembra Davi que é Ele quem estabelece o reino, não o contrário. A promessa de uma casa eterna aponta diretamente para Cristo, o descendente que reinaria para sempre."
+    },
+
+    {
+      day: 124,
+      reading: "1 Crônicas 19–22",
+      verse: "Prepara-te para edificar a casa do SENHOR.",
+      reference: "1 Crônicas 22:5",
+      comment: "Davi não constrói o templo, mas prepara tudo para isso. Isso ensina que nem sempre veremos o cumprimento completo do que começamos, mas ainda assim somos chamados à fidelidade."
+    },
+
+    {
+      day: 125,
+      reading: "1 Crônicas 23–25",
+      verse: "Separou os levitas para o serviço.",
+      reference: "1 Crônicas 23:13",
+      comment: "A organização do culto mostra que Deus se importa com a ordem na adoração. Serviço no reino não é improviso. Em Cristo, somos chamados a servir com propósito e reverência."
+    },
+
+    {
+      day: 126,
+      reading: "1 Crônicas 26–29",
+      verse: "Tudo vem de ti.",
+      reference: "1 Crônicas 29:14",
+      comment: "Davi reconhece que tudo pertence a Deus. A generosidade do povo revela um coração alinhado com o Senhor. Isso nos confronta: tratamos o que temos como nosso ou como de Deus?"
+    },
+
+    {
+      day: 127,
+      reading: "2 Crônicas 1–4",
+      verse: "Dá-me sabedoria.",
+      reference: "2 Crônicas 1:10",
+      comment: "Salomão começa bem, buscando sabedoria. Isso mostra que o maior recurso não é poder, mas direção de Deus. Cristo é a sabedoria perfeita que não falha."
+    },
+
+    {
+      day: 128,
+      reading: "2 Crônicas 5–7",
+      verse: "Se o meu povo se humilhar.",
+      reference: "2 Crônicas 7:14",
+      comment: "A dedicação do templo mostra a importância do arrependimento e da dependência de Deus. O perdão está ligado ao retorno sincero ao Senhor. Em Cristo, esse acesso é pleno."
+    },
+
+    {
+      day: 129,
+      reading: "2 Crônicas 8–11",
+      verse: "O povo respondeu duramente ao rei.",
+      reference: "2 Crônicas 10:13",
+      comment: "A arrogância de Roboão leva à divisão do reino. Liderança sem sabedoria destrói. Isso mostra como decisões espiritualmente cegas afetam toda uma nação."
+    },
+
+    {
+      day: 130,
+      reading: "2 Crônicas 12–15",
+      verse: "Buscamos ao SENHOR.",
+      reference: "2 Crônicas 13:10",
+      comment: "Mesmo em meio à divisão, há momentos de fidelidade. Deus preserva um remanescente. Isso mostra que sua obra não depende de maioria, mas de fidelidade."
+    },
+
+    {
+      day: 131,
+      reading: "2 Crônicas 16–19",
+      verse: "Porque, quanto ao SENHOR, seus olhos passam por toda a terra, para mostrar-se forte para com aqueles cujo coração é totalmente dele.",
+      reference: "2 Crônicas 16:9",
+      comment: "As histórias de Asa e Josafá revelam uma verdade desconfortável: não basta começar bem, é preciso permanecer fiel até o fim. Asa confiou em Deus no início, mas depois passou a depender de alianças humanas. Josafá buscou ao Senhor, mas se associou com quem não devia. Esses contrastes mostram como o coração pode se desviar de forma sutil, mesmo mantendo aparência de fé. Deus não procura perfeição, mas um coração totalmente entregue. Em Cristo, encontramos não apenas o exemplo de fidelidade, mas a graça que nos sustenta quando falhamos. O texto nos chama a examinar não apenas o início da nossa caminhada, mas a direção atual do nosso coração."
+    },
+
+    {
+      day: 132,
+      reading: "2 Crônicas 20–23",
+      verse: "Nesta batalha não tereis que lutar.",
+      reference: "2 Crônicas 20:17",
+      comment: "Josafá experimenta a vitória que vem da dependência de Deus. O povo aprende que nem toda batalha se vence com força, mas com confiança no Senhor."
+    },
+
+    {
+      day: 133,
+      reading: "2 Crônicas 24–26",
+      verse: "Abandonaram o SENHOR.",
+      reference: "2 Crônicas 24:18",
+      comment: "A instabilidade espiritual dos reis mostra como o afastamento de Deus leva à decadência. O povo segue o exemplo da liderança — para o bem ou para o mal."
+    },
+
+    {
+      day: 134,
+      reading: "2 Crônicas 27–29",
+      verse: "Jotão se tornou poderoso, porque dirigiu os seus caminhos segundo a vontade do SENHOR.",
+      reference: "2 Crônicas 27:6",
+      comment: "Os reinados de Jotão, Acaz e Ezequias mostram três direções possíveis do coração. Jotão anda de forma correta, mas não influencia o povo profundamente. Acaz rejeita completamente o Senhor e leva a nação à decadência espiritual. Já Ezequias promove uma restauração sincera, trazendo o povo de volta à adoração verdadeira. O contraste revela que não existe neutralidade espiritual: ou avançamos na fidelidade, ou nos afastamos. Também mostra que sempre há possibilidade de recomeço quando há arrependimento. Em Cristo, vemos o Rei perfeito que não apenas lidera corretamente, mas transforma o coração do seu povo. O texto nos chama a avaliar não só nossas ações externas, mas a direção real da nossa vida diante de Deus."
+    },
+
+    {
+      day: 135,
+      reading: "2 Crônicas 30–32",
+      verse: "O SENHOR, porém, salvou Ezequias e os moradores de Jerusalém… e lhes deu paz.",
+      reference: "2 Crônicas 32:22",
+      comment: "Ezequias conduz o povo a uma restauração profunda: a Páscoa é celebrada novamente, o culto é reorganizado e o povo volta-se ao Senhor com alegria. Isso mostra que Deus responde ao arrependimento sincero e à busca verdadeira. No entanto, logo depois, o coração de Ezequias é testado em meio ao sucesso e à prosperidade. O mesmo rei que confiou em Deus diante da ameaça externa precisa lidar com o orgulho interno. O texto revela que o maior perigo espiritual não está apenas na crise, mas também no momento de estabilidade. Em Cristo, vemos o Rei perfeito que permanece fiel em todas as circunstâncias. Somos chamados não apenas a buscar a Deus em momentos de necessidade, mas a manter um coração humilde mesmo quando tudo vai bem."
+    },
+    {
+      day: 136,
+      reading: "2 Crônicas 33–36",
+      verse: "Humilhou-se muito perante o Deus de seus pais.",
+      reference: "2 Crônicas 33:12",
+      comment: "Manassés representa o pior cenário: pecado extremo. Ainda assim, quando se humilha, encontra misericórdia. Isso revela a profundidade da graça de Deus. O exílio que se segue mostra que o pecado tem consequências reais, mas não anula o plano de Deus."
+    },
+
+    {
+      day: 137,
+      reading: "Esdras 1–2",
+      verse: "O SENHOR despertou o espírito de Ciro.",
+      reference: "Esdras 1:1",
+      comment: "Deus usa até um rei pagão para cumprir seus propósitos. O retorno do povo marca um novo começo. Isso nos ensina que Deus governa a história, mesmo através de meios inesperados."
+    },
+
+    {
+      day: 138,
+      reading: "Esdras 3–6",
+      verse: "Os anciãos dos judeus iam edificando e prosperando.",
+      reference: "Esdras 6:14",
+      comment: "A obra enfrenta oposição, mas continua. Isso mostra que o avanço do plano de Deus não depende de circunstâncias favoráveis. Fidelidade em meio à resistência é parte da caminhada."
+    },
+
+    {
+      day: 139,
+      reading: "Esdras 7–10",
+      verse: "Esdras tinha disposto o coração para buscar a Lei do SENHOR.",
+      reference: "Esdras 7:10",
+      comment: "A restauração não é só física (templo), mas espiritual (coração). Esdras lidera pelo compromisso com a Palavra. Toda reforma verdadeira começa pela Escritura."
+    },
+
+    {
+      day: 140,
+      reading: "Neemias 1–4",
+      verse: "O Deus dos céus é quem nos fará prosperar.",
+      reference: "Neemias 2:20",
+      comment: "Neemias une oração e ação. Ele não apenas confia em Deus, mas se posiciona para reconstruir. Fé bíblica não é passiva — ela age com base na confiança em Deus."
+    },
+
+    {
+      day: 141,
+      reading: "Neemias 5–7",
+      verse: "Estou fazendo uma grande obra.",
+      reference: "Neemias 6:3",
+      comment: "A oposição aumenta à medida que a obra avança. Neemias permanece focado, recusando distrações. Isso nos confronta: quantas vezes abandonamos o que Deus nos chamou por causa de pressão externa?"
+    },
+
+    {
+      day: 142,
+      reading: "Neemias 8–10",
+      verse: "A alegria do SENHOR é a vossa força.",
+      reference: "Neemias 8:10",
+      comment: "O povo redescobre a Palavra e responde com arrependimento e alegria. A verdadeira restauração envolve transformação interior. A alegria em Deus fortalece o povo."
+    },
+
+    {
+      day: 143,
+      reading: "Neemias 11–13",
+      verse: "Lembra-te de mim, ó meu Deus, para o meu bem.",
+      reference: "Neemias 13:31",
+      comment: "Após a reconstrução dos muros e a renovação da aliança, o povo se organiza e volta a habitar Jerusalém. No entanto, rapidamente surgem sinais de decadência espiritual: negligência no templo, alianças erradas e desobediência à Lei. Neemias precisa agir novamente para corrigir o povo, mostrando que compromissos espirituais não se sustentam sozinhos. O coração humano tende a se desviar mesmo após experiências de restauração. Isso revela uma verdade profunda: reformas externas não são suficientes para transformar o interior. Em Cristo, encontramos não apenas direção, mas transformação real do coração. O texto nos confronta com a necessidade de vigilância constante e dependência contínua de Deus."
+    },
+
+    {
+      day: 144,
+      reading: "Ester 1–4",
+      verse: "Quem sabe se não foi para um tempo como este?",
+      reference: "Ester 4:14",
+      comment: "Mesmo sem mencionar diretamente Deus, o livro revela sua providência. Ester está posicionada estrategicamente para um propósito maior. Deus age mesmo quando não é explicitamente reconhecido."
+    },
+
+    {
+      day: 145,
+      reading: "Ester 5–10",
+      verse: "O socorro e o livramento virão de outra parte…",
+      reference: "Ester 4:14",
+      comment: "A partir do momento em que Ester se posiciona, a narrativa revela uma série de acontecimentos que parecem coincidência, mas são claramente dirigidos por Deus. O rei não consegue dormir, o livro é lido, Hamã é humilhado, e o destino do povo é revertido. Deus não é mencionado explicitamente no livro, mas sua providência está em cada detalhe. Isso mostra que Ele governa até os acontecimentos aparentemente comuns para cumprir seu propósito. A salvação do povo não depende apenas da coragem humana, mas da soberania divina. Em Cristo, vemos o cumprimento máximo dessa verdade: Deus conduz a história para trazer redenção. O texto nos chama a confiar em Deus mesmo quando Ele parece silencioso."
+    },
+
+    {
+      day: 146,
+      reading: "Jó 1-2",
+      verse: "O SENHOR deu, o SENHOR tomou.",
+      reference: "Jó 1:21",
+      comment: "O sofrimento de Jó levanta uma pergunta central: é possível confiar em Deus sem entender o que Ele está fazendo? A fé de Jó começa sendo testada profundamente."
+    },
+
+    {
+      day: 147,
+      reading: "Jó 3–5",
+      verse: "Lembra-te: qual foi o inocente que pereceu?",
+      reference: "Jó 4:7",
+      comment: "Os amigos de Jó tentam explicar o sofrimento com lógica simplista. Nem todo sofrimento é consequência direta de pecado pessoal. Esse erro ainda é comum hoje."
+    },
+
+    {
+      day: 148,
+      reading: "Jó 6–8",
+      verse: "As minhas palavras têm sido precipitadas por causa da minha dor.",
+      reference: "Jó 6:3",
+      comment: "Jó responde aos seus amigos expondo a profundidade da sua dor. Ele não nega Deus, mas luta para entender o que está acontecendo. Seus amigos, por outro lado, tentam explicar o sofrimento com uma lógica rígida: se há dor, deve haver culpa. Esse tipo de pensamento não apenas falha em consolar, mas aumenta o peso sobre quem sofre. O texto revela que nem todo sofrimento é consequência direta de pecado pessoal e que respostas simplistas podem ferir mais do que ajudar. Em Cristo, vemos alguém que conhece plenamente o sofrimento e oferece não apenas explicações, mas presença e consolo verdadeiro. Somos chamados a ter cuidado com nossas palavras e a desenvolver compaixão real diante da dor alheia."
+    },
+
+    {
+      day: 149,
+      reading: "Jó 9–11",
+      verse: "Não há entre nós árbitro que ponha a mão sobre nós ambos.",
+      reference: "Jó 9:33",
+      comment: "Jó reconhece a grandeza absoluta de Deus e, ao mesmo tempo, sua própria incapacidade de se justificar diante dele. Ele não nega a justiça divina, mas percebe que não consegue se defender por si mesmo. Surge então um clamor profundo: a necessidade de um mediador. Enquanto isso, seus amigos continuam insistindo em uma teologia simplista, reduzindo o sofrimento a culpa pessoal. O texto revela a distância entre Deus e o homem e aponta para uma necessidade que Jó ainda não consegue ver plenamente. Em Cristo, essa necessidade é finalmente atendida: Ele é o mediador perfeito entre Deus e os homens. O texto nos confronta com nossa limitação e nos chama a abandonar a autossuficiência diante de Deus."
+    },
+
+    {
+      day: 150,
+      reading: "Jó 12–15",
+      verse: "Quem dera que o homem pudesse voltar a viver.",
+      reference: "Jó 14:14",
+      comment: "Jó começa a expressar esperança além da morte. Mesmo sem revelação completa, ele aponta para a necessidade de redenção e vida futura."
+    },
+
+    {
+      day: 151,
+      reading: "Jó 16–20",
+      verse: "Os discursos continuam, mas sem consolo verdadeiro.",
+      reference: "Jó 16:2",
+      comment: "Os amigos insistem em acusações, mostrando como palavras podem ferir mais do que ajudar. Isso nos ensina a ter cuidado ao falar diante do sofrimento alheio."
     }
   ]
 };
