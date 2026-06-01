@@ -1286,6 +1286,275 @@ const PLANO = {
       verse: "Os discursos continuam, mas sem consolo verdadeiro.",
       reference: "Jó 16:2",
       comment: "Os amigos insistem em acusações, mostrando como palavras podem ferir mais do que ajudar. Isso nos ensina a ter cuidado ao falar diante do sofrimento alheio."
+    },
+    {
+      day: 152,
+      date: "01 de junho de 2026",
+      reading: "Jó 21–25",
+      verse: "Eu sei que o meu Redentor vive.",
+      reference: "Jó 19:25",
+      comment: "Mesmo cercado por dor e acusações, Jó expressa uma esperança profunda em um Redentor vivo. Sua fé ultrapassa as circunstâncias e aponta para Cristo, aquele que vence a morte e sustenta os que nele confiam."
+    },
+
+    {
+      day: 153,
+      date: "02 de junho de 2026",
+      reading: "Jó 26–28",
+      verse: "Mas ele sabe o meu caminho.",
+      reference: "Jó 23:10",
+      comment: "Jó continua sem respostas claras, mas reconhece que Deus conhece cada detalhe da sua caminhada. A fé madura aprende a confiar mesmo quando não consegue compreender completamente o que está acontecendo."
+    },
+
+    {
+      day: 154,
+      date: "03 de junho de 2026",
+      reading: "Jó 29–31",
+      verse: "O temor do Senhor é a sabedoria.",
+      reference: "Jó 28:28",
+      comment: "O homem busca respostas em muitos lugares, mas a verdadeira sabedoria começa no temor do Senhor. O texto nos lembra que Deus permanece soberano mesmo quando a vida parece confusa."
+    },
+
+    {
+      day: 155,
+      date: "04 de junho de 2026",
+      reading: "Jó 32–34",
+      verse: "Quem me dera voltar aos meses passados.",
+      reference: "Jó 29:2",
+      comment: "Jó relembra tempos de honra e estabilidade, revelando a profundidade da sua dor. O sofrimento desmonta falsas seguranças e nos obriga a reconhecer nossa dependência de Deus."
+    },
+
+    {
+      day: 156,
+      date: "05 de junho de 2026",
+      reading: "Jó 35–37",
+      verse: "Deus fala de um modo e de outro.",
+      reference: "Jó 33:14",
+      comment: "Eliú lembra que Deus continua agindo mesmo quando não percebemos. O sofrimento nem sempre é castigo; muitas vezes é também um instrumento de crescimento e dependência."
+    },
+
+    {
+      day: 157,
+      date: "06 de junho de 2026",
+      reading: "Jó 38–40",
+      verse: "Grande é Deus e não o podemos compreender.",
+      reference: "Jó 36:26",
+      comment: "A grandeza de Deus ultrapassa a capacidade humana de entendimento. Nem sempre teremos respostas completas, mas podemos descansar no caráter fiel do Senhor."
+    },
+
+    {
+      day: 158,
+      date: "07 de junho de 2026",
+      reading: "Jó 41–42",
+      verse: "Onde estavas tu quando eu lançava os fundamentos da terra?",
+      reference: "Jó 38:4",
+      comment: "Deus responde revelando sua soberania sobre toda a criação. O foco deixa de ser apenas o sofrimento de Jó e passa a ser a majestade do Criador que governa todas as coisas."
+    },
+
+    {
+      day: 159,
+      date: "08 de junho de 2026",
+      reading: "Sl 1-7",
+      verse: "Antes eu te conhecia só de ouvir.",
+      reference: "Jó 42:5",
+      comment: "Depois de encontrar-se com Deus, Jó reconhece que sua compreensão era limitada. O sofrimento aprofundou sua percepção do Senhor e produziu humildade."
+    },
+
+    {
+      day: 160,
+      date: "09 de junho de 2026",
+      reading: "Salmos 8–14",
+      verse: "Bem-aventurado o homem que não anda no conselho dos ímpios.",
+      reference: "Salmos 1:1",
+      comment: "Os primeiros salmos apresentam dois caminhos: o do justo e o do ímpio. A verdadeira estabilidade espiritual nasce da meditação contínua na Palavra de Deus."
+    },
+
+    {
+      day: 161,
+      date: "10 de junho de 2026",
+      reading: "Salmos 15–18",
+      verse: "Que é o homem para que dele te lembres?",
+      reference: "Salmos 8:4",
+      comment: "Davi contempla a grandeza da criação e reconhece a pequenez humana. Ainda assim, Deus concede dignidade e propósito ao homem através da sua graça."
+    },
+
+    {
+      day: 162,
+      date: "11 de junho de 2026",
+      reading: "Salmos 19–23",
+      verse: "O SENHOR é a minha rocha.",
+      reference: "Salmos 18:2",
+      comment: "Em meio às batalhas, Davi reconhece Deus como refúgio seguro. A segurança verdadeira não está na força humana, mas na fidelidade do Senhor."
+    },
+
+    {
+      day: 163,
+      date: "12 de junho de 2026",
+      reading: "Salmos 24–29",
+      verse: "Os céus proclamam a glória de Deus.",
+      reference: "Salmos 19:1",
+      comment: "A criação revela a glória divina e a Palavra revela sua vontade. Deus se manifesta tanto no universo quanto nas Escrituras."
+    },
+
+    {
+      day: 164,
+      date: "13 de junho de 2026",
+      reading: "Salmos 30–34",
+      verse: "O SENHOR é o meu pastor.",
+      reference: "Salmos 23:1",
+      comment: "Mesmo atravessando vales escuros, o povo de Deus não caminha sozinho. O Senhor conduz, protege e sustenta aqueles que nele confiam."
+    },
+
+    {
+      day: 165,
+      date: "14 de junho de 2026",
+      reading: "Salmos 35–37",
+      verse: "Entrega o teu caminho ao SENHOR.",
+      reference: "Salmos 25:4",
+      comment: "Davi demonstra dependência constante de Deus em meio às lutas. A confiança verdadeira nasce quando entregamos nossos caminhos ao Senhor."
+    },
+
+    {
+      day: 166,
+      date: "15 de junho de 2026",
+      reading: "Salmos 38–42",
+      verse: "Em tuas mãos entrego o meu espírito.",
+      reference: "Salmos 31:5",
+      comment: "Mesmo cercado por perseguições, Davi descansa em Deus. O Senhor permanece fiel mesmo quando os homens falham."
+    },
+
+    {
+      day: 167,
+      date: "16 de junho de 2026",
+      reading: "Salmos 43–48",
+      verse: "Esperei confiantemente pelo SENHOR.",
+      reference: "Salmos 40:1",
+      comment: "Esperar em Deus exige perseverança e fé. O Senhor ouve o clamor do seu povo e age no tempo certo."
+    },
+
+    {
+      day: 168,
+      date: "17 de junho de 2026",
+      reading: "Salmos 49–53",
+      verse: "Deus é o nosso refúgio e fortaleza.",
+      reference: "Salmos 46:1",
+      comment: "Mesmo em meio ao caos, Deus continua sendo refúgio seguro para os que nele confiam."
+    },
+
+    {
+      day: 169,
+      date: "18 de junho de 2026",
+      reading: "Salmos 54–59",
+      verse: "Aquietai-vos e sabei que eu sou Deus.",
+      reference: "Salmos 46:10",
+      comment: "O Senhor reina sobre todas as coisas. Em tempos de medo e instabilidade, somos chamados a descansar na soberania divina."
+    },
+
+    {
+      day: 170,
+      date: "19 de junho de 2026",
+      reading: "Salmos 60–66",
+      verse: "Cria em mim, ó Deus, um coração puro.",
+      reference: "Salmos 51:10",
+      comment: "O arrependimento verdadeiro não busca apenas alívio da culpa, mas transformação do coração diante de Deus."
+    },
+
+    {
+      day: 171,
+      date: "20 de junho de 2026",
+      reading: "Salmos 67–69",
+      verse: "Em Deus ponho a minha confiança.",
+      reference: "Salmos 56:4",
+      comment: "Mesmo cercado por medo e perseguição, Davi aprende a descansar na fidelidade do Senhor."
+    },
+
+    {
+      day: 172,
+      date: "21 de junho de 2026",
+      reading: "Salmos 70–73",
+      verse: "Leva-me para a rocha que é mais alta do que eu.",
+      reference: "Salmos 61:2",
+      comment: "Deus é abrigo seguro quando nossas forças falham. A verdadeira segurança está acima das circunstâncias."
+    },
+
+    {
+      day: 173,
+      date: "22 de junho de 2026",
+      reading: "Salmos 74–78",
+      verse: "Bendito seja Deus.",
+      reference: "Salmos 68:35",
+      comment: "Os salmos celebram a fidelidade e o poder de Deus em favor do seu povo ao longo da história."
+    },
+
+    {
+      day: 174,
+      date: "23 de junho de 2026",
+      reading: "Salmos 78–83",
+      verse: "Tu és a minha esperança, Senhor Deus.",
+      reference: "Salmos 71:5",
+      comment: "Mesmo em meio ao sofrimento, o salmista reconhece Deus como fonte constante de esperança."
+    },
+
+    {
+      day: 175,
+      date: "24 de junho de 2026",
+      reading: "Salmos 84–89",
+      verse: "Recordarei os feitos do SENHOR.",
+      reference: "Salmos 77:11",
+      comment: "Lembrar da fidelidade passada de Deus fortalece a fé para enfrentar as crises do presente."
+    },
+
+    {
+      day: 176,
+      date: "25 de junho de 2026",
+      reading: "Salmos 90–94",
+      verse: "Contaremos à próxima geração.",
+      reference: "Salmos 78:4",
+      comment: "O povo de Deus é chamado a transmitir às próximas gerações os feitos e a fidelidade do Senhor."
+    },
+
+    {
+      day: 177,
+      date: "26 de junho de 2026",
+      reading: "Salmos 95–102",
+      verse: "Mostra-nos, Senhor, a tua misericórdia.",
+      reference: "Salmos 85:7",
+      comment: "O povo clama por restauração reconhecendo sua dependência da misericórdia divina."
+    },
+
+    {
+      day: 178,
+      date: "27 de junho de 2026",
+      reading: "Salmos 103–105",
+      verse: "Grande é a tua fidelidade.",
+      reference: "Salmos 89:1",
+      comment: "Mesmo em tempos difíceis, a fidelidade de Deus permanece firme e digna de confiança."
+    },
+
+    {
+      day: 179,
+      date: "28 de junho de 2026",
+      reading: "Salmos 106–107",
+      verse: "Ensina-nos a contar os nossos dias.",
+      reference: "Salmos 90:12",
+      comment: "A brevidade da vida nos lembra da necessidade de viver com sabedoria e dependência de Deus."
+    },
+
+    {
+      day: 180,
+      date: "29 de junho de 2026",
+      reading: "Salmos 108–113",
+      verse: "Venham, adoremos e prostremo-nos.",
+      reference: "Salmos 95:6",
+      comment: "A adoração verdadeira nasce do reconhecimento da grandeza de Deus e da nossa dependência dele."
+    },
+
+    {
+      day: 181,
+      date: "30 de junho de 2026",
+      reading: "Salmos 114–118",
+      verse: "Rendei graças ao SENHOR.",
+      reference: "Salmos 105:1",
+      comment: "Os salmos encerram o mês lembrando os feitos de Deus ao longo da história e chamando o povo à gratidão e confiança contínua."
     }
   ]
 };
