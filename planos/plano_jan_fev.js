@@ -6,248 +6,279 @@ const PLANO = {
       reading: "Gênesis 1–3",
       verse: "No princípio criou Deus os céus e a terra.",
       reference: "Gênesis 1:1",
-      comment: "A Bíblia começa apresentando Deus como Criador soberano e bom. O mundo nasce de sua palavra, não do acaso. A queda revela a gravidade do pecado, mas também a graça de um Deus que busca o ser humano e anuncia redenção. Desde o início, a história aponta para a necessidade de um Redentor."
+      comment: "A Bíblia começa colocando Deus no centro de toda a realidade. Ele cria com ordem, bondade e propósito, e estabelece o ser humano para viver em comunhão com Ele. A entrada do pecado rompe essa harmonia e revela que o maior problema da humanidade é a rebelião contra o próprio Criador. Ainda assim, Deus não abandona sua criação: já no início surge a esperança de redenção. Começamos esta jornada lembrando que nossa história só encontra sentido quando Deus ocupa o primeiro lugar."
     },
+
     {
       day: 2,
       date: "02 de janeiro de 2026",
       reading: "Gênesis 4–6",
-      verse: "Viu o SENHOR que a maldade do homem se multiplicara.",
+      verse: "Viu o SENHOR que a maldade do homem se havia multiplicado na terra.",
       reference: "Gênesis 6:5",
-      comment: "O pecado se aprofunda e alcança toda a sociedade. Violência, orgulho e corrupção marcam a humanidade afastada de Deus. No meio desse cenário, Noé encontra graça. A salvação sempre começa na iniciativa de Deus, não na virtude humana."
+      comment: "O pecado que entrou no mundo rapidamente se espalha pelo coração e pela sociedade. Caim, a violência e a corrupção mostram que o problema humano é mais profundo do que comportamentos isolados. Em meio a esse cenário, Noé encontra graça diante do Senhor. A história nos lembra que a esperança da humanidade não está em sua própria capacidade de se consertar, mas na graça de Deus."
     },
+
     {
       day: 3,
       date: "03 de janeiro de 2026",
       reading: "Gênesis 7–9",
       verse: "Estabeleço a minha aliança convosco.",
       reference: "Gênesis 9:9",
-      comment: "O dilúvio revela a justiça de Deus contra o pecado e sua misericórdia em preservar a vida. A aliança com Noé mostra que Deus continua comprometido com sua criação. A graça sustenta a história mesmo depois do juízo."
+      comment: "O dilúvio revela a seriedade do pecado e a realidade do juízo de Deus. Mas a história também mostra sua misericórdia ao preservar Noé e renovar uma aliança com a criação. Deus continua conduzindo a história apesar da infidelidade humana. A esperança bíblica nasce da fidelidade daquele que permanece firme quando o homem falha."
     },
+
     {
       day: 4,
       date: "04 de janeiro de 2026",
       reading: "Gênesis 10–12",
       verse: "Em ti serão benditas todas as famílias da terra.",
       reference: "Gênesis 12:3",
-      comment: "Deus chama Abraão e inicia um plano de redenção que alcança todas as nações. A promessa não depende de força militar ou mérito humano, mas da fidelidade divina. Aqui nasce a esperança messiânica."
+      comment: "Depois de Babel, Deus chama Abraão e inicia uma etapa decisiva da história da redenção. A promessa não ficará restrita a uma família: por meio dela, todas as famílias da terra seriam alcançadas. O Senhor está construindo seu plano muito além do que Abraão consegue enxergar. A fé começa quando confiamos na promessa daquele que conhece todo o caminho."
     },
+
     {
       day: 5,
       date: "05 de janeiro de 2026",
       reading: "Gênesis 13–16",
-      verse: "Abrão creu no SENHOR.",
+      verse: "Abrão creu no SENHOR, e isso lhe foi imputado para justiça.",
       reference: "Gênesis 15:6",
-      comment: "A fé é apresentada como resposta à promessa de Deus. Mesmo com erros e tentativas humanas de controlar o plano divino, Deus permanece fiel. A justificação pela fé já se mostra claramente."
+      comment: "Abraão recebe uma promessa que humanamente parece impossível, mas aprende a confiar na palavra de Deus. Ao mesmo tempo, sua tentativa de resolver a promessa por meios próprios revela a fragilidade da fé humana. O texto mostra que Deus não depende da nossa capacidade para cumprir o que prometeu. A justiça de Abraão é associada à fé, apontando para a realidade do evangelho."
     },
+
     {
       day: 6,
       date: "06 de janeiro de 2026",
       reading: "Gênesis 17–19",
-      verse: "Eu serei o teu Deus.",
+      verse: "Eu serei o teu Deus e da tua descendência.",
       reference: "Gênesis 17:7",
-      comment: "Deus reafirma sua aliança e revela sua santidade. O juízo sobre Sodoma mostra que Deus não ignora o pecado, mas também preserva aqueles que pertencem à aliança. Justiça e misericórdia caminham juntas."
+      comment: "Deus reafirma sua aliança e deixa claro que o relacionamento com seu povo nasce de sua iniciativa. Ao mesmo tempo, a destruição de Sodoma mostra que a santidade de Deus não pode ser tratada com indiferença. Justiça e misericórdia aparecem lado a lado. O Senhor é santo, mas também é o Deus que preserva e conduz aqueles que pertencem a Ele."
     },
+
     {
       day: 7,
       date: "07 de janeiro de 2026",
       reading: "Gênesis 20–22",
-      verse: "Deus proverá para si o cordeiro.",
+      verse: "Deus proverá para si o cordeiro para o holocausto.",
       reference: "Gênesis 22:8",
-      comment: "O sacrifício de Isaque revela que Deus mesmo provê aquilo que o homem não pode oferecer. Essa cena aponta de forma clara para Cristo. A fé aprende a confiar no Deus que provê salvação."
+      comment: "Gênesis 22 coloca diante de nós uma das imagens mais fortes da necessidade de substituição. Isaque não morre porque Deus providencia um substituto, e esse padrão aponta para algo maior. Na história da redenção, a provisão de Deus culminará em Cristo, o Cordeiro que se entrega pelo seu povo. Deus não apenas exige; Ele mesmo provê o caminho da salvação."
     },
+
     {
       day: 8,
       date: "08 de janeiro de 2026",
       reading: "Gênesis 23–24",
-      verse: "O SENHOR guiou o caminho.",
+      verse: "O SENHOR, Deus de meu senhor Abraão, que não retirou a sua benevolência.",
       reference: "Gênesis 24:27",
-      comment: "Deus age nos detalhes da história para cumprir grandes promessas. A fidelidade divina se manifesta tanto nos grandes milagres quanto nas decisões cotidianas."
+      comment: "Enquanto a família de Abraão atravessa perdas, viagens e decisões importantes, Deus continua conduzindo cada detalhe. A narrativa mostra que a providência divina não está limitada aos grandes acontecimentos. O Senhor trabalha também nos encontros, nas escolhas e nos caminhos aparentemente comuns. Podemos descansar sabendo que Deus não perde o controle da história."
     },
+
     {
       day: 9,
-      reading: "Gênesis 25–27",
       date: "09 de janeiro de 2026",
-      verse: "Eu estou contigo.",
+      reading: "Gênesis 25–27",
+      verse: "Eu estou contigo, e te guardarei por onde quer que fores.",
       reference: "Gênesis 28:15",
-      comment: "Mesmo em meio a enganos e conflitos familiares, Deus permanece fiel à aliança. Ele conduz seu plano apesar das falhas humanas, revelando graça perseverante."
+      comment: "A família de Isaque é marcada por favoritismo, engano e conflitos, mas Deus não abandona sua promessa. A história de Jacó mostra como a graça de Deus atua em meio à fragilidade humana. Isso não torna o pecado aceitável; mostra, porém, que o cumprimento da promessa depende da fidelidade de Deus, não da perfeição de seus servos."
     },
+
     {
       day: 10,
-      reading: "Gênesis 28–30",
       date: "10 de janeiro de 2026",
-      verse: "Certamente o SENHOR está neste lugar.",
-      reference: "Gênesis 28:16",
-      comment: "Deus se revela presente na caminhada de Jacó. A graça de Deus acompanha o povo mesmo quando o caráter ainda está em formação. O Senhor molda seus servos com paciência."
+      reading: "Gênesis 28–30",
+      verse: "E eis que estou contigo, e te guardarei por onde quer que fores.",
+      reference: "Gênesis 28:15",
+      comment: "Jacó começa uma nova etapa de sua vida carregando as consequências de suas escolhas, mas também a promessa da presença de Deus. O Senhor não apenas promete uma bênção futura; promete acompanhar o seu servo no caminho. A vida cristã também é uma caminhada em que a presença de Deus sustenta aquilo que nossas próprias forças não conseguem sustentar."
     },
+
     {
       day: 11,
-      reading: "Gênesis 31–32",
       date: "11 de janeiro de 2026",
-      verse: "Não te deixarei ir, se não me abençoares.",
+      reading: "Gênesis 31–32",
+      verse: "Não te deixarei ir, se me não abençoares.",
       reference: "Gênesis 32:26",
-      comment: "O encontro de Jacó com Deus revela que a verdadeira transformação acontece quando somos confrontados pelo Senhor. A bênção vem acompanhada de mudança profunda."
+      comment: "Jacó chega ao momento em que não pode mais depender apenas de sua astúcia. Diante de Deus, sua força é confrontada e sua identidade é transformada. O homem que passou a vida tentando controlar as circunstâncias aprende a depender da graça. Às vezes, Deus precisa desmontar nossa autossuficiência para nos ensinar a confiar nele."
     },
+
     {
       day: 12,
-      reading: "Gênesis 33–35",
       date: "12 de janeiro de 2026",
-      verse: "Jacó chamou aquele lugar Betel.",
-      reference: "Gênesis 35:15",
-      comment: "Deus restaura relacionamentos e reafirma promessas. A vida com Deus envolve reconciliações, perdas e crescimento espiritual contínuo."
+      reading: "Gênesis 33–35",
+      verse: "Levantemo-nos e subamos a Betel.",
+      reference: "Gênesis 35:3",
+      comment: "Jacó experimenta reconciliação, perdas e renovação da aliança. O retorno a Betel lembra que a caminhada com Deus exige voltar continuamente ao lugar da presença e da promessa. O Senhor não apenas acompanha seu povo; Ele também o chama a abandonar velhos caminhos e renovar sua devoção."
     },
+
     {
       day: 13,
-      reading: "Gênesis 36–37",
       date: "13 de janeiro de 2026",
-      verse: "José foi vendido pelos seus irmãos.",
-      reference: "Gênesis 37:28",
-      comment: "O sofrimento de José marca o início de um caminho que Deus usará para salvar muitos. Mesmo quando a injustiça parece vencer, Deus continua governando a história."
+      reading: "Gênesis 36–37",
+      verse: "O SENHOR era com José.",
+      reference: "Gênesis 39:2",
+      comment: "A história de José começa com sonhos, inveja e violência familiar. O que parece ser uma tragédia sem sentido será usado por Deus para preservar muitas vidas. A providência divina não impede todo sofrimento, mas garante que o sofrimento não tenha a palavra final. Deus continua trabalhando mesmo quando ainda não conseguimos enxergar o propósito."
     },
+
     {
       day: 14,
-      reading: "Gênesis 38–40",
       date: "14 de janeiro de 2026",
-      verse: "Deus estava com José.",
+      reading: "Gênesis 38–40",
+      verse: "O SENHOR, porém, era com José.",
       reference: "Gênesis 39:21",
-      comment: "Mesmo esquecido e injustiçado, José permanece sob o cuidado de Deus. A fidelidade do Senhor não depende das circunstâncias favoráveis."
+      comment: "José passa pela rejeição, pela escravidão e pela injustiça, mas a presença de Deus não o abandona. Essa leitura corrige uma ideia comum: estar com Deus não significa viver sem sofrimento. A presença do Senhor pode ser experimentada justamente no vale. O caráter de José também nos lembra que fidelidade importa mesmo quando ninguém está vendo."
     },
+
     {
       day: 15,
-      reading: "Gênesis 41–42",
       date: "15 de janeiro de 2026",
-      verse: "Foi Deus quem mostrou isso.",
-      reference: "Gênesis 41:16",
-      comment: "Deus exalta José no tempo certo e começa a cumprir um propósito maior. A soberania divina se revela inclusive nos anos de espera."
+      reading: "Gênesis 41–42",
+      verse: "Não está isso em Deus? Não está em Deus a interpretação?",
+      reference: "Gênesis 40:8",
+      comment: "Depois de anos de espera, Deus coloca José em uma posição estratégica para preservar vidas. José não atribui a si mesmo a capacidade de interpretar os sonhos, mas reconhece a ação de Deus. A grandeza do servo está justamente em apontar para o Senhor. Toda habilidade humana encontra seu lugar correto quando é colocada a serviço da glória de Deus."
     },
+
     {
       day: 16,
-      reading: "Gênesis 43–45",
       date: "16 de janeiro de 2026",
-      verse: "Deus me enviou adiante de vós.",
+      reading: "Gênesis 43–45",
+      verse: "Deus me enviou adiante de vós, para conservação da vida.",
       reference: "Gênesis 45:7",
-      comment: "José reconhece a mão de Deus em toda a sua história. O mal é vencido pela providência divina. A salvação nasce da soberania do Senhor."
+      comment: "José interpreta sua história à luz da providência de Deus. Seus irmãos quiseram o seu mal, mas Deus estava conduzindo aquela história para preservar vidas. Isso não diminui a gravidade do pecado cometido; mostra a grandeza da soberania divina. O Senhor é capaz de conduzir até mesmo circunstâncias dolorosas para cumprir seus propósitos redentores."
     },
+
     {
       day: 17,
-      reading: "Gênesis 46–47",
       date: "17 de janeiro de 2026",
-      verse: "Deus será convosco.",
-      reference: "Gênesis 48:21",
-      comment: "Deus preserva seu povo em terra estrangeira. A promessa não depende do lugar, mas da presença fiel do Senhor."
+      reading: "Gênesis 46–47",
+      verse: "Não temas descer ao Egito, porque eu farei de ti ali uma grande nação.",
+      reference: "Gênesis 46:3",
+      comment: "Jacó desce ao Egito sem saber tudo o que o futuro reserva. Deus, porém, reafirma sua promessa. O caminho do povo da aliança continua sendo conduzido pelo Senhor, inclusive em terras estrangeiras. Quando não conseguimos enxergar o futuro, podemos confiar naquele que já está lá."
     },
+
     {
       day: 18,
-      reading: "Gênesis 48–50",
       date: "18 de janeiro de 2026",
-      verse: "Deus tornou em bem.",
+      reading: "Gênesis 48–50",
+      verse: "Vós intentastes o mal contra mim; porém Deus o tornou em bem.",
       reference: "Gênesis 50:20",
-      comment: "O livro de Gênesis termina afirmando que Deus conduz toda a história para cumprir seus propósitos. A esperança da redenção segue adiante."
+      comment: "Gênesis termina com uma das grandes declarações sobre a providência divina. José não chama o mal de bem; ele reconhece que Deus pode transformar o resultado de uma ação pecaminosa em instrumento de preservação e vida. A história termina apontando para o futuro, porque as promessas ainda não foram totalmente cumpridas."
     },
+
     {
       day: 19,
-      reading: "Êxodo 1–4",
       date: "19 de janeiro de 2026",
+      reading: "Êxodo 1–4",
       verse: "Eu certamente vi a aflição do meu povo.",
       reference: "Êxodo 3:7",
-      comment: "Deus ouve o clamor do seu povo e age no tempo certo. Ele se revela como libertador e chama Moisés apesar de suas limitações."
+      comment: "Êxodo começa com um povo oprimido, mas também com um Deus que vê, ouve e age. O Senhor chama Moisés para participar de uma libertação que tem origem no próprio Deus. A história prepara o leitor para compreender a salvação como obra divina. O libertador humano será usado, mas o verdadeiro Libertador é o Senhor."
     },
+
     {
       day: 20,
-      reading: "Êxodo 5–7",
       date: "20 de janeiro de 2026",
+      reading: "Êxodo 5–7",
       verse: "Eu sou o SENHOR.",
       reference: "Êxodo 6:2",
-      comment: "A libertação começa com confronto e resistência. Deus reafirma seu nome e sua aliança. A salvação não depende da força do povo, mas do poder do Senhor."
+      comment: "A resistência de Faraó faz a libertação parecer ainda mais distante, mas Deus reafirma seu nome e sua aliança. A promessa não depende da disposição do opressor em cooperar. O Senhor continua sendo Deus quando as circunstâncias pioram. A fé aprende a confiar no caráter de Deus antes de enxergar o resultado."
     },
+
     {
       day: 21,
-      reading: "Êxodo 8–10",
       date: "21 de janeiro de 2026",
-      verse: "Para que saibais que não há outro como o SENHOR.",
+      reading: "Êxodo 8–10",
+      verse: "Para que saibais que não há outro como o SENHOR nosso Deus.",
       reference: "Êxodo 8:10",
-      comment: "As pragas revelam o confronto entre o Deus verdadeiro e os falsos poderes do Egito. Deus demonstra que é soberano sobre a criação, sobre os deuses e sobre os reis. A libertação começa pelo reconhecimento de quem o Senhor é."
+      comment: "As pragas demonstram a superioridade do Senhor sobre os poderes do Egito e expõem a inutilidade dos falsos deuses. A libertação de Israel acontece para que o nome de Deus seja conhecido. O objetivo da redenção não é apenas tirar o povo da escravidão, mas conduzi-lo ao conhecimento e à adoração do verdadeiro Deus."
     },
+
     {
       day: 22,
-      reading: "Êxodo 11–13",
       date: "22 de janeiro de 2026",
-      verse: "Quando eu vir o sangue, passarei por cima de vós.",
+      reading: "Êxodo 11–13",
+      verse: "Quando eu vir o sangue, passarei por vós.",
       reference: "Êxodo 12:13",
-      comment: "A Páscoa ensina que a libertação exige redenção. O sangue do cordeiro aponta para Cristo, o verdadeiro Cordeiro de Deus. O povo não sai do Egito apenas por poder, mas por graça substitutiva."
+      comment: "A Páscoa mostra que libertação e sacrifício estão intimamente ligados. O cordeiro morre e o povo é preservado. Essa imagem será ampliada ao longo da Escritura até chegar a Cristo, o verdadeiro Cordeiro. A salvação não é conquistada pelo mérito humano; é recebida por meio da provisão de Deus."
     },
+
     {
       day: 23,
-      reading: "Êxodo 14–16",
       date: "23 de janeiro de 2026",
+      reading: "Êxodo 14–16",
       verse: "O SENHOR pelejará por vós.",
       reference: "Êxodo 14:14",
-      comment: "Deus abre o mar, derrota o inimigo e sustenta o povo no deserto. A libertação não termina no êxodo; ela continua no cuidado diário. O maná revela a dependência constante da graça."
+      comment: "Diante do mar, Israel percebe que não tem recursos suficientes para se salvar. Deus abre o caminho e derrota o inimigo, ensinando o povo a confiar. No deserto, o maná continua a mesma lição: Deus não apenas salva de uma vez; Ele sustenta diariamente. A dependência precisa continuar depois da libertação."
     },
+
     {
       day: 24,
-      reading: "Êxodo 17–20",
       date: "24 de janeiro de 2026",
+      reading: "Êxodo 17–20",
       verse: "Eu sou o SENHOR teu Deus, que te tirei da terra do Egito.",
       reference: "Êxodo 20:2",
-      comment: "A Lei é dada a um povo já liberto. Deus não exige obediência para salvar, mas chama à obediência porque já salvou. A lei revela o caráter santo de Deus e o padrão para uma vida redimida."
+      comment: "A lei é entregue a um povo que já foi libertado. Essa ordem é importante: Deus primeiro redime, depois chama à obediência. A vida santa não compra a salvação; é resposta à graça recebida. Em Cristo, aprendemos a obedecer não para conquistar o amor de Deus, mas porque já fomos alcançados por ele."
     },
+
     {
       day: 25,
-      reading: "Êxodo 21–23",
       date: "25 de janeiro de 2026",
-      verse: "Andarei à tua frente.",
-      reference: "Êxodo 23:23",
-      comment: "Deus mostra que sua lei alcança todas as áreas da vida. Justiça, misericórdia e cuidado com o próximo são sinais de um povo que vive sob o governo do Senhor."
+      reading: "Êxodo 21–23",
+      verse: "Não seguirás a multidão para fazeres o mal.",
+      reference: "Êxodo 23:2",
+      comment: "A santidade do povo deveria aparecer também na justiça, na honestidade e no tratamento do próximo. Deus não separa culto e vida. Uma comunidade que adora corretamente também precisa viver de maneira justa. O evangelho transforma não apenas nossa relação com Deus, mas também nossas relações uns com os outros."
     },
+
     {
       day: 26,
-      reading: "Êxodo 24–26",
       date: "26 de janeiro de 2026",
-      verse: "Habitarei no meio deles.",
+      reading: "Êxodo 24–26",
+      verse: "E me farão um santuário, e habitarei no meio deles.",
       reference: "Êxodo 25:8",
-      comment: "O tabernáculo revela o desejo de Deus de habitar com seu povo. O Senhor não apenas liberta, mas se aproxima. Cada detalhe aponta para a santidade e a graça da presença divina."
+      comment: "O propósito do tabernáculo era a presença de Deus no meio do povo. A redenção não termina simplesmente com a saída do Egito; ela conduz à comunhão. O tabernáculo prepara o caminho para a grande realidade cumprida em Cristo: Deus vindo habitar entre nós."
     },
+
     {
       day: 27,
-      reading: "Êxodo 27–29",
       date: "27 de janeiro de 2026",
-      verse: "Eu habitarei no meio dos filhos de Israel.",
+      reading: "Êxodo 27–29",
+      verse: "E habitarei no meio dos filhos de Israel.",
       reference: "Êxodo 29:45",
-      comment: "O sacerdócio mostra que o acesso a Deus exige mediação. Essa estrutura prepara o caminho para Cristo, nosso sumo sacerdote perfeito."
+      comment: "O altar e o sacerdócio revelam que a presença de Deus é santa e que o pecado exige mediação. O sacerdote representa o povo diante do Senhor. Todo esse sistema aponta para Cristo, nosso Sumo Sacerdote perfeito, que oferece o sacrifício definitivo e nos conduz à presença de Deus."
     },
+
     {
       day: 28,
-      reading: "Êxodo 30–32",
       date: "28 de janeiro de 2026",
-      verse: "Fizeram para si um bezerro de ouro.",
-      reference: "Êxodo 32:4",
-      comment: "Mesmo diante da revelação de Deus, o coração humano ainda se inclina à idolatria. O pecado do bezerro expõe a fragilidade espiritual do povo e a gravidade do afastamento de Deus."
+      reading: "Êxodo 30–32",
+      verse: "Fizeram para si um bezerro de fundição.",
+      reference: "Êxodo 32:8",
+      comment: "O pecado do bezerro de ouro acontece depois de tudo o que Deus já havia feito. Isso revela como o coração humano pode trocar rapidamente o Deus vivo por aquilo que consegue ver e controlar. A idolatria continua sendo uma ameaça quando transformamos segurança, dinheiro, poder ou até religião em substitutos de Deus."
     },
+
     {
       day: 29,
-      reading: "Êxodo 33–35",
       date: "29 de janeiro de 2026",
-      verse: "Se a tua presença não for conosco, não nos faças subir daqui.",
+      reading: "Êxodo 33–35",
+      verse: "Se a tua presença não vai comigo, não nos faças subir deste lugar.",
       reference: "Êxodo 33:15",
-      comment: "A restauração acontece quando Deus reafirma sua presença. A maior bênção não é a terra prometida, mas caminhar com o Senhor."
+      comment: "Depois do pecado do bezerro, Moisés percebe que a maior necessidade do povo não é simplesmente chegar à terra prometida, mas ter a presença de Deus. Essa é uma verdade profunda para a vida cristã: bênçãos sem Deus não são verdadeira bênção. A presença do Senhor é o maior tesouro do seu povo."
     },
+
     {
       day: 30,
-      reading: "Êxodo 36–38",
       date: "30 de janeiro de 2026",
-      verse: "Fizeram conforme o SENHOR ordenara.",
-      reference: "Êxodo 39:43",
-      comment: "A obediência agora flui de um coração restaurado. O povo responde à graça de Deus com dedicação e reverência."
+      reading: "Êxodo 34–35",
+      verse: "O SENHOR, Deus misericordioso e compassivo, longânimo e grande em benignidade.",
+      reference: "Êxodo 34:6",
+      comment: "Depois da grande infidelidade de Israel, Deus revela novamente seu próprio caráter. Ele é santo e justo, mas também misericordioso, compassivo e paciente. O texto nos mostra que a esperança da aliança repousa no caráter de Deus, e não na perfeição do povo."
     },
+
     {
       day: 31,
-      reading: "Êxodo 39–40",
       date: "31 de janeiro de 2026",
+      reading: "Êxodo 39–40",
       verse: "A glória do SENHOR encheu o tabernáculo.",
       reference: "Êxodo 40:34",
-      comment: "Êxodo termina com a presença visível de Deus habitando com seu povo. A redenção conduz à comunhão. Essa glória aponta para Cristo, o verdadeiro tabernáculo entre nós."
+      comment: "Êxodo termina com a presença gloriosa de Deus no meio do povo. A libertação do Egito, a aliança, o sacerdócio e o tabernáculo convergem para esse momento: Deus habita com aqueles que resgatou. A história prepara o caminho para Cristo, em quem Deus habitaria entre nós de maneira plena."
     },
+
     {
       day: 32,
       reading: "Levítico 1–4",
@@ -1560,7 +1591,7 @@ const PLANO = {
     {
       day: 182,
       date: "01 de julho de 2026",
-      reading: "Salmos 106–108",
+      reading: "Salmos 119",
       verse: "Rendei graças ao SENHOR, porque ele é bom.",
       reference: "Salmos 106:1",
       comment: "O salmista relembra a história de Israel e reconhece a constante infidelidade do povo diante da fidelidade de Deus. Mesmo quando o homem falha repetidamente, a misericórdia do Senhor permanece. A memória dos feitos de Deus deve produzir gratidão, arrependimento e confiança."
@@ -1569,7 +1600,7 @@ const PLANO = {
     {
       day: 183,
       date: "02 de julho de 2026",
-      reading: "Salmos 109–111",
+      reading: "Salmos 120-130",
       verse: "Grande é o SENHOR e mui digno de ser louvado.",
       reference: "Salmos 111:2",
       comment: "Os salmos conduzem o coração da aflição para a adoração. Deus permanece digno de louvor não apenas quando tudo está bem, mas porque seu caráter é perfeito e suas obras são fiéis."
@@ -1578,7 +1609,7 @@ const PLANO = {
     {
       day: 184,
       date: "03 de julho de 2026",
-      reading: "Salmos 112–114",
+      reading: "Salmos 131-136",
       verse: "Ao homem que teme ao SENHOR, bem-aventurado será.",
       reference: "Salmos 112:1",
       comment: "O temor do Senhor produz uma vida marcada por estabilidade, generosidade e confiança. A verdadeira felicidade não está nas circunstâncias, mas em viver diante de Deus com reverência e fé."
@@ -1587,7 +1618,7 @@ const PLANO = {
     {
       day: 185,
       date: "04 de julho de 2026",
-      reading: "Salmos 115–117",
+      reading: "Salmos 137-143",
       verse: "Não a nós, SENHOR, não a nós, mas ao teu nome dá glória.",
       reference: "Salmos 115:1",
       comment: "O salmista rejeita qualquer tentativa de centralizar a glória no homem. Tudo o que Deus realiza deve conduzir o coração à adoração, porque somente Ele é digno de receber a glória."
@@ -1596,7 +1627,7 @@ const PLANO = {
     {
       day: 186,
       date: "05 de julho de 2026",
-      reading: "Salmos 118–120",
+      reading: "Salmos 144-148",
       verse: "Este é o dia que o SENHOR fez; regozijemo-nos e alegremo-nos nele.",
       reference: "Salmos 118:24",
       comment: "A esperança do povo não está nas circunstâncias, mas na ação salvadora de Deus. O Senhor é a fonte da nossa alegria e segurança. O salmo também aponta para Cristo, a pedra rejeitada que se tornou a principal pedra."
@@ -1605,7 +1636,7 @@ const PLANO = {
     {
       day: 187,
       date: "06 de julho de 2026",
-      reading: "Salmos 121–123",
+      reading: "Salmos 149-150",
       verse: "Elevo os meus olhos para os montes: de onde me virá o socorro?",
       reference: "Salmos 121:1",
       comment: "A caminhada do povo é marcada pela dependência. O socorro não vem das circunstâncias nem da força humana, mas do Senhor, Criador dos céus e da terra. Deus não abandona os seus enquanto caminham."
@@ -1614,7 +1645,7 @@ const PLANO = {
     {
       day: 188,
       date: "07 de julho de 2026",
-      reading: "Salmos 124–126",
+      reading: "Provérbios ",
       verse: "Grandes coisas fez o SENHOR por nós.",
       reference: "Salmos 126:3",
       comment: "Israel olha para trás e reconhece que sua restauração foi obra de Deus. Recordar aquilo que o Senhor já fez fortalece a esperança para aquilo que ainda está por vir."
