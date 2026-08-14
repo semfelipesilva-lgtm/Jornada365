@@ -1834,6 +1834,288 @@ const PLANO = {
       verse: "Põe-me como selo sobre o teu coração.",
       reference: "Cântico dos Cânticos 8:6",
       comment: "O encerramento de Cântico dos Cânticos destaca a força e a exclusividade do amor. O texto nos lembra que relacionamentos precisam ser guardados com fidelidade, compromisso e temor de Deus."
+    },
+    const planoAgo = {
+  month: "Agosto",
+  days: [
+
+    {
+      day: 213,
+      date: "01 de agosto de 2026",
+      reading: "Isaías 1–3",
+      verse: "Vinde, pois, e arrazoemos, diz o SENHOR.",
+      reference: "Isaías 1:18",
+      comment: "Isaías começa denunciando a hipocrisia espiritual de um povo que mantinha práticas religiosas enquanto vivia em rebeldia. Deus não deseja uma aparência de devoção, mas arrependimento verdadeiro e uma vida transformada."
+    },
+
+    {
+      day: 214,
+      date: "02 de agosto de 2026",
+      reading: "Isaías 4–6",
+      verse: "Santo, santo, santo é o SENHOR dos Exércitos.",
+      reference: "Isaías 6:3",
+      comment: "Isaías contempla a santidade absoluta de Deus e percebe sua própria indignidade. O verdadeiro encontro com Deus produz consciência do pecado, mas também conduz à graça e ao chamado para servir."
+    },
+
+    {
+      day: 215,
+      date: "03 de agosto de 2026",
+      reading: "Isaías 7–9",
+      verse: "Eis que a virgem conceberá e dará à luz um filho.",
+      reference: "Isaías 7:14",
+      comment: "Em meio à instabilidade política, Deus anuncia uma esperança maior. A promessa do Emanuel aponta para Cristo, Deus conosco, mostrando que a salvação depende da iniciativa do próprio Deus."
+    },
+
+    {
+      day: 216,
+      date: "04 de agosto de 2026",
+      reading: "Isaías 10–12",
+      verse: "Eis que Deus é a minha salvação; confiarei e não temerei.",
+      reference: "Isaías 12:2",
+      comment: "Mesmo diante do juízo e da ameaça das nações, o povo é chamado a confiar no Senhor. A segurança verdadeira não está na força política, mas na salvação que Deus oferece."
+    },
+
+    {
+      day: 217,
+      date: "05 de agosto de 2026",
+      reading: "Isaías 13–17",
+      verse: "O SENHOR dos Exércitos tomou este desígnio.",
+      reference: "Isaías 14:24",
+      comment: "As profecias contra as nações revelam que nenhum poder humano está acima do governo de Deus. Reis e impérios passam, mas o propósito do Senhor permanece."
+    },
+
+    {
+      day: 218,
+      date: "06 de agosto de 2026",
+      reading: "Isaías 18–22",
+      verse: "O SENHOR é o nosso juiz, o SENHOR é o nosso legislador, o SENHOR é o nosso Rei.",
+      reference: "Isaías 33:22",
+      comment: "Isaías mostra que a segurança de Judá não poderia estar em alianças políticas. Deus é o verdadeiro Rei, Juiz e Legislador do seu povo."
+    },
+
+    {
+      day: 219,
+      date: "07 de agosto de 2026",
+      reading: "Isaías 23–27",
+      verse: "Naquele dia, cantai este cântico na terra de Judá.",
+      reference: "Isaías 26:1",
+      comment: "Em meio às mensagens de juízo aparece uma esperança de restauração. Deus não apenas julga o pecado; ele conduz a história para a redenção e para a segurança daqueles que nele confiam."
+    },
+
+    {
+      day: 220,
+      date: "08 de agosto de 2026",
+      reading: "Isaías 28–31",
+      verse: "Este é o descanso; dai descanso ao cansado.",
+      reference: "Isaías 28:12",
+      comment: "O povo buscava segurança em alianças humanas enquanto rejeitava a confiança em Deus. O Senhor oferece um fundamento seguro, mas o coração humano frequentemente prefere confiar naquilo que pode controlar."
+    },
+
+    {
+      day: 221,
+      date: "09 de agosto de 2026",
+      reading: "Isaías 32–35",
+      verse: "Eis que o vosso Deus virá com vingança e com recompensa de Deus; ele virá e vos salvará.",
+      reference: "Isaías 35:4",
+      comment: "Isaías anuncia um futuro de restauração no qual Deus virá para salvar seu povo. A esperança ultrapassa a situação imediata de Israel e aponta para a redenção que Deus realizaria plenamente."
+    },
+
+    {
+      day: 222,
+      date: "10 de agosto de 2026",
+      reading: "Isaías 36–39",
+      verse: "Com ele está o braço de carne, mas conosco o SENHOR, nosso Deus.",
+      reference: "2 Crônicas 32:8",
+      comment: "A ameaça da Assíria mostra a diferença entre confiar em recursos humanos e confiar no Senhor. A libertação de Jerusalém demonstra que a segurança do povo depende de Deus."
+    },
+
+    {
+      day: 223,
+      date: "11 de agosto de 2026",
+      reading: "Isaías 40–42",
+      verse: "Consolai, consolai o meu povo, diz o vosso Deus.",
+      reference: "Isaías 40:1",
+      comment: "Depois de anunciar juízo, Isaías apresenta uma poderosa mensagem de consolo. O Deus soberano não abandona seu povo. Ele vem para restaurar, sustentar e conduzir aqueles que esperam nele."
+    },
+
+    {
+      day: 224,
+      date: "12 de agosto de 2026",
+      reading: "Isaías 43–45",
+      verse: "Não temas, porque eu sou contigo.",
+      reference: "Isaías 43:5",
+      comment: "Deus reafirma sua presença e fidelidade ao povo. A segurança não está na ausência de dificuldades, mas na certeza de que o Senhor permanece conosco."
+    },
+
+    {
+      day: 225,
+      date: "13 de agosto de 2026",
+      reading: "Isaías 46–48",
+      verse: "Eu sou Deus, e não há outro semelhante a mim.",
+      reference: "Isaías 46:9",
+      comment: "Deus contrasta sua soberania com a impotência dos ídolos. Somente o Senhor conhece e governa a história desde o princípio até o fim."
+    },
+
+    {
+      day: 226,
+      date: "14 de agosto de 2026",
+      reading: "Isaías 49–51",
+      verse: "Pode uma mulher esquecer-se do filho que ainda mama?",
+      reference: "Isaías 49:15",
+      comment: "Deus usa a imagem do amor de uma mãe para mostrar a profundidade de sua fidelidade. Mesmo quando seu povo se sente esquecido, o Senhor permanece comprometido com suas promessas."
+    },
+
+    {
+      day: 227,
+      date: "15 de agosto de 2026",
+      reading: "Isaías 52–54",
+      verse: "Ele foi traspassado pelas nossas transgressões.",
+      reference: "Isaías 53:5",
+      comment: "O Servo do Senhor sofre em lugar do seu povo. Isaías apresenta uma das mais claras antecipações da obra de Cristo: aquele que é inocente carrega a culpa dos pecadores para trazer-lhes paz e cura."
+    },
+
+    {
+      day: 228,
+      date: "16 de agosto de 2026",
+      reading: "Isaías 55–57",
+      verse: "Buscai o SENHOR enquanto se pode achar.",
+      reference: "Isaías 55:6",
+      comment: "Deus oferece gratuitamente sua graça e chama o pecador ao arrependimento. A resposta adequada à oferta divina não é adiamento, mas busca sincera pelo Senhor."
+    },
+
+    {
+      day: 229,
+      date: "17 de agosto de 2026",
+      reading: "Isaías 58–60",
+      verse: "Levanta-te, resplandece, porque vem a tua luz.",
+      reference: "Isaías 60:1",
+      comment: "A restauração de Sião é apresentada como manifestação da luz de Deus. A esperança do povo não nasce de sua própria força, mas da presença gloriosa do Senhor."
+    },
+
+    {
+      day: 230,
+      date: "18 de agosto de 2026",
+      reading: "Isaías 61–63",
+      verse: "O Espírito do Senhor Deus está sobre mim.",
+      reference: "Isaías 61:1",
+      comment: "O Servo anuncia boas-novas aos quebrantados, libertação aos cativos e consolo aos que sofrem. Essa promessa encontra seu cumprimento em Cristo e revela o caráter restaurador de sua missão."
+    },
+
+    {
+      day: 231,
+      date: "19 de agosto de 2026",
+      reading: "Isaías 64–66",
+      verse: "Desde a antiguidade não se ouviu, nem com os ouvidos se percebeu.",
+      reference: "Isaías 64:4",
+      comment: "Isaías termina olhando para aquilo que Deus ainda fará. A história caminha para uma nova criação e para a manifestação plena da glória do Senhor."
+    },
+
+    {
+      day: 232,
+      date: "20 de agosto de 2026",
+      reading: "Jeremias 1–4",
+      verse: "Antes que eu te formasse no ventre, eu te conheci.",
+      reference: "Jeremias 1:5",
+      comment: "Jeremias é chamado por Deus para uma missão difícil. Sua vocação mostra que o serviço ao Senhor depende da iniciativa e capacitação divina, não da autoconfiança humana."
+    },
+
+    {
+      day: 233,
+      date: "21 de agosto de 2026",
+      reading: "Jeremias 5–8",
+      verse: "Meu povo cometeu dois males: a mim me deixaram, o manancial de águas vivas.",
+      reference: "Jeremias 2:13",
+      comment: "O pecado de Israel não é apenas quebrar regras; é abandonar o próprio Deus para buscar outras fontes de satisfação. O coração humano troca facilmente o Criador por substitutos incapazes de satisfazê-lo."
+    },
+
+    {
+      day: 234,
+      date: "22 de agosto de 2026",
+      reading: "Jeremias 9–12",
+      verse: "Glorie-se nisto: em me conhecer e saber que eu sou o SENHOR.",
+      reference: "Jeremias 9:24",
+      comment: "Deus mostra que verdadeira glória não está em sabedoria, força ou riquezas, mas em conhecê-lo. O conhecimento de Deus deve transformar o modo como vivemos."
+    },
+
+    {
+      day: 235,
+      date: "23 de agosto de 2026",
+      reading: "Jeremias 13–16",
+      verse: "Pode o etíope mudar a sua pele ou o leopardo as suas manchas?",
+      reference: "Jeremias 13:23",
+      comment: "Jeremias expõe a profundidade da corrupção do povo. O problema não era apenas comportamento externo, mas um coração profundamente inclinado ao pecado. A necessidade humana é de transformação que somente Deus pode realizar."
+    },
+
+    {
+      day: 236,
+      date: "24 de agosto de 2026",
+      reading: "Jeremias 17–20",
+      verse: "Bendito o homem que confia no SENHOR.",
+      reference: "Jeremias 17:7",
+      comment: "Jeremias contrasta quem confia no homem com quem confia no Senhor. A raiz de uma vida espiritualmente saudável está em onde colocamos nossa confiança."
+    },
+
+    {
+      day: 237,
+      date: "25 de agosto de 2026",
+      reading: "Jeremias 21–24",
+      verse: "Eu lhes darei um coração para que me conheçam.",
+      reference: "Jeremias 24:7",
+      comment: "Mesmo diante do juízo, Deus promete restauração. A esperança não está na capacidade do povo de se reformar sozinho, mas na ação de Deus sobre o coração."
+    },
+
+    {
+      day: 238,
+      date: "26 de agosto de 2026",
+      reading: "Jeremias 25–28",
+      verse: "Setenta anos se cumprirão para Babilônia.",
+      reference: "Jeremias 25:11",
+      comment: "O juízo anunciado por Deus não está fora de seu controle. Mesmo o exílio possui limite determinado pelo Senhor. A disciplina divina não significa abandono."
+    },
+
+    {
+      day: 239,
+      date: "27 de agosto de 2026",
+      reading: "Jeremias 29–32",
+      verse: "Eu é que sei que pensamentos tenho a vosso respeito.",
+      reference: "Jeremias 29:11",
+      comment: "Deus fala a um povo que estava vivendo no exílio e promete que sua história não terminou. A esperança bíblica não ignora o sofrimento presente, mas confia no propósito soberano de Deus."
+    },
+
+    {
+      day: 240,
+      date: "28 de agosto de 2026",
+      reading: "Jeremias 33–36",
+      verse: "Clama a mim, e responder-te-ei.",
+      reference: "Jeremias 33:3",
+      comment: "Em meio ao cenário de destruição, Deus continua chamando seu povo a buscá-lo. A oração demonstra que, mesmo quando tudo parece perdido, ainda podemos recorrer ao Deus que governa a história."
+    },
+
+    {
+      day: 241,
+      date: "29 de agosto de 2026",
+      reading: "Jeremias 37–40",
+      verse: "Assim diz o SENHOR: quem ficar nesta cidade viverá.",
+      reference: "Jeremias 38:2",
+      comment: "Jeremias permanece fiel à mensagem de Deus mesmo quando ela é rejeitada. Sua perseverança mostra que fidelidade não significa aprovação dos homens, mas obediência ao Senhor."
+    },
+
+    {
+      day: 242,
+      date: "30 de agosto de 2026",
+      reading: "Jeremias 41–44",
+      verse: "Obedeceremos à voz do SENHOR nosso Deus.",
+      reference: "Jeremias 42:6",
+      comment: "O povo promete obedecer, mas sua disposição é colocada à prova quando a Palavra de Deus confronta seus próprios desejos. A verdadeira obediência aparece quando a vontade de Deus contradiz aquilo que queremos."
+    },
+
+    {
+      day: 243,
+      date: "31 de agosto de 2026",
+      reading: "Jeremias 45–52",
+      verse: "As misericórdias do SENHOR são a causa de não sermos consumidos.",
+      reference: "Lamentações 3:22",
+      comment: "O mês termina diante das consequências do pecado e da queda de Jerusalém. Mesmo em meio ao juízo, a misericórdia de Deus permanece. A esperança do povo não está em suas próprias forças, mas na fidelidade daquele que continua sendo Deus."
     }
   ]
 };
