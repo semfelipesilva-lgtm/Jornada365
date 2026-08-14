@@ -1555,7 +1555,7 @@ const PLANO = {
       verse: "Rendei graças ao SENHOR.",
       reference: "Salmos 105:1",
       comment: "Os salmos encerram o mês lembrando os feitos de Deus ao longo da história e chamando o povo à gratidão e confiança contínua."
-    }
+    },
 
     {
       day: 182,
