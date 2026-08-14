@@ -1835,10 +1835,6 @@ const PLANO = {
       reference: "Cântico dos Cânticos 8:6",
       comment: "O encerramento de Cântico dos Cânticos destaca a força e a exclusividade do amor. O texto nos lembra que relacionamentos precisam ser guardados com fidelidade, compromisso e temor de Deus."
     },
-    const planoAgo = {
-  month: "Agosto",
-  days: [
-
     {
       day: 213,
       date: "01 de agosto de 2026",
