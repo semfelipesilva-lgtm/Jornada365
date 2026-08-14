@@ -281,230 +281,256 @@ const PLANO = {
 
     {
       day: 32,
-      reading: "Levítico 1–4",
       date: "01 de fevereiro de 2026",
-      verse: "Porque a vida da carne está no sangue.",
-      reference: "Levítico 17:11",
-      comment: "Levítico inicia mostrando que o pecado gera separação e que a aproximação com Deus exige expiação. Os sacrifícios apontam para a seriedade do pecado e para a necessidade de um mediador. Em Cristo, vemos o cumprimento perfeito dessas ofertas: Ele entrega sua vida de uma vez por todas. Hoje, lembramos que nos aproximamos de Deus não por mérito próprio, mas pelo sacrifício de Cristo."
+      reading: "Levítico 1–4",
+      verse: "E o sacerdote fará expiação por ele, e será perdoado.",
+      reference: "Levítico 4:20",
+      comment: "Levítico começa mostrando que a aproximação de um Deus santo exige expiação. Os sacrifícios ensinavam ao povo que o pecado não deveria ser tratado com superficialidade e que a reconciliação dependia da provisão de Deus. Esses sacrifícios apontam para Cristo, que ofereceu de uma vez por todas o sacrifício perfeito pelos pecados do seu povo. Nossa aproximação de Deus não acontece por mérito, mas pela graça mediada pelo sacrifício de Cristo."
     },
+
     {
       day: 33,
-      reading: "Levítico 5–7",
       date: "02 de fevereiro de 2026",
-      verse: "Este é o estatuto da oferta pela culpa.",
-      reference: "Levítico 7:1",
-      comment: "As ofertas tratam da culpa real do povo diante de Deus e da necessidade de restauração. Deus não ignora o pecado, mas providencia o caminho da reconciliação. Em Cristo, nossa culpa é assumida e perdoada plenamente. Somos chamados a viver em arrependimento sincero e gratidão pela graça recebida."
+      reading: "Levítico 5–7",
+      verse: "E fará restituição pelo pecado que cometeu.",
+      reference: "Levítico 5:16",
+      comment: "As ofertas mostram que o pecado possui consequências reais diante de Deus e também diante do próximo. Arrependimento verdadeiro não consiste apenas em reconhecer a culpa, mas em desejar restauração e corrigir aquilo que foi possível corrigir. Em Cristo recebemos perdão, e esse perdão transforma também a maneira como tratamos aqueles que prejudicamos."
     },
+
     {
       day: 34,
-      reading: "Levítico 8–10",
       date: "03 de fevereiro de 2026",
-      verse: "Santificarei os que se achegarem a mim.",
+      reading: "Levítico 8–10",
+      verse: "Santificarei aqueles que se cheguem a mim.",
       reference: "Levítico 10:3",
-      comment: "A consagração dos sacerdotes mostra que servir a Deus exige reverência e obediência. O episódio trágico de Nadabe e Abiú nos lembra que Deus é santo e não deve ser tratado com leviandade. Cristo é o sacerdote perfeito, que nos conduz com segurança à presença do Pai. Hoje, aprendemos a servir a Deus com temor e humildade."
+      comment: "A consagração dos sacerdotes e o julgamento de Nadabe e Abiú revelam que Deus é santo e não deve ser tratado de qualquer maneira. O culto não existe para satisfazer nossos gostos, mas para honrar a Deus segundo sua vontade. Cristo é nosso grande Sumo Sacerdote, por meio de quem podemos nos aproximar com confiança, sem jamais perder a reverência."
     },
+
     {
       day: 35,
-      reading: "Levítico 11–13",
       date: "04 de fevereiro de 2026",
+      reading: "Levítico 11–13",
       verse: "Santos sereis, porque eu sou santo.",
-      reference: "Levítico 11:44",
-      comment: "As leis de pureza ensinam que Deus deseja um povo separado. Embora muitas regras sejam culturais e cerimoniais, o princípio permanece: a santidade importa. Em Cristo, somos purificados e chamados a uma vida transformada. A santidade não é isolamento, mas um reflexo do caráter de Deus em nós."
+      reference: "Levítico 11:45",
+      comment: "As leis de pureza ensinavam Israel a distinguir entre o santo e o comum e a lembrar continuamente da santidade de Deus. Embora não estejamos mais debaixo do sistema cerimonial, o princípio permanece: Deus chama seu povo a uma vida separada para ele. Em Cristo fomos purificados e, por isso, somos chamados a viver de maneira coerente com a nova vida recebida."
     },
+
     {
       day: 36,
-      reading: "Levítico 14–15",
       date: "05 de fevereiro de 2026",
-      verse: "O sacerdote fará expiação por ele.",
-      reference: "Levítico 14:19",
-      comment: "Esses textos lidam com restauração e reintegração à comunidade. Deus não abandona os impuros, mas oferece um caminho de cura e retorno. Cristo acolhe os marginalizados e restaura por completo. Hoje, somos desafiados a viver uma fé que restaura pessoas."
+      reading: "Levítico 14–15",
+      verse: "E fará expiação por ele perante o SENHOR.",
+      reference: "Levítico 14:20",
+      comment: "A restauração daqueles que estavam impuros mostra que Deus não apenas estabelece limites, mas também providencia caminhos de reintegração. A pessoa afastada podia voltar à comunidade por meio daquilo que Deus havia determinado. Isso aponta para a obra de Cristo, que não apenas perdoa o pecador, mas o reconcilia com Deus e o acolhe em seu povo."
     },
+
     {
       day: 37,
-      reading: "Levítico 16–18",
       date: "06 de fevereiro de 2026",
-      verse: "Neste dia se fará expiação por vocês.",
+      reading: "Levítico 16–18",
+      verse: "Porque, naquele dia, se fará expiação por vós, para purificar-vos.",
       reference: "Levítico 16:30",
-      comment: "O Dia da Expiação é o coração de Levítico. Um sacrifício anual cobria os pecados do povo. Cristo cumpre esse ritual de forma definitiva, oferecendo perdão eterno. A santidade de Deus caminha junto com sua misericórdia. Hoje, vivemos descansados na obra consumada de Cristo."
+      comment: "O Dia da Expiação ocupa lugar central em Levítico porque revela a gravidade do pecado e a necessidade de purificação. O sacerdote entrava na presença de Deus em favor do povo, mas o ritual precisava ser repetido. Cristo cumpre aquilo que o sistema apenas apontava: oferece uma expiação definitiva e abre para nós o caminho permanente à presença de Deus."
     },
+
     {
       day: 38,
-      reading: "Levítico 19–21",
       date: "07 de fevereiro de 2026",
+      reading: "Levítico 19–21",
       verse: "Amarás o teu próximo como a ti mesmo.",
       reference: "Levítico 19:18",
-      comment: "A santidade se expressa na vida prática: justiça, compaixão e amor ao próximo. Jesus reafirma esse mandamento como central. Seguir a Deus envolve uma fé que transforma nossas relações e atitudes diárias."
+      comment: "A santidade não fica restrita ao templo ou ao culto. Ela aparece na maneira como tratamos o próximo, falamos a verdade, praticamos justiça e cuidamos daqueles que estão ao nosso redor. Jesus retoma esse mandamento e mostra que o amor ao próximo está no centro de uma vida que pertence a Deus."
     },
+
     {
       day: 39,
-      reading: "Levítico 22–23",
       date: "08 de fevereiro de 2026",
-      verse: "Estas são as festas do Senhor.",
+      reading: "Levítico 22–23",
+      verse: "Estas são as festas fixas do SENHOR.",
       reference: "Levítico 23:2",
-      comment: "As festas lembram o povo das ações salvadoras de Deus. Elas apontam para Cristo, que dá pleno significado ao descanso, libertação e comunhão com Deus. Hoje, celebramos com gratidão a salvação que recebemos."
+      comment: "As festas estabelecidas por Deus organizavam a memória e a adoração de Israel em torno dos atos do Senhor. O povo era chamado a não esquecer quem o havia redimido. Em Cristo, vemos o cumprimento das realidades para as quais essas celebrações apontavam, e somos chamados a viver com gratidão pela redenção recebida."
     },
+
     {
       day: 40,
-      reading: "Levítico 24–25",
       date: "09 de fevereiro de 2026",
-      verse: "Proclamareis liberdade na terra.",
+      reading: "Levítico 24–25",
+      verse: "Santificareis o quinquagésimo ano e proclamareis liberdade na terra.",
       reference: "Levítico 25:10",
-      comment: "O Ano do Jubileu revela o coração gracioso de Deus: restauração, perdão e recomeço. Cristo anuncia esse jubileu ao proclamar libertação aos cativos. Em Cristo, recebemos nova vida e esperança."
+      comment: "O jubileu apresentava uma visão de restauração, liberdade e recomeço. Deus ensinava seu povo a não tratar pessoas, terra e bens como propriedades absolutas. Tudo pertencia ao Senhor. Essa esperança de libertação encontra seu significado maior em Cristo, que veio anunciar liberdade aos cativos e restauração aos necessitados."
     },
+
     {
       day: 41,
-      reading: "Levítico 26–27",
       date: "10 de fevereiro de 2026",
-      verse: "Andarei entre vocês e serei o seu Deus.",
+      reading: "Levítico 26–27",
+      verse: "Andarei entre vós e serei o vosso Deus, e vós sereis o meu povo.",
       reference: "Levítico 26:12",
-      comment: "As bênçãos e advertências mostram as consequências da obediência e da rebeldia. Deus deseja habitar com seu povo. Em Cristo, essa promessa se cumpre plenamente. Hoje, somos chamados a caminhar com Deus em fidelidade."
+      comment: "As bênçãos e advertências da aliança mostram que a obediência e a rebeldia possuem consequências. Mas o centro da promessa continua sendo a presença de Deus no meio do seu povo. O maior presente da aliança não são benefícios materiais, mas o próprio Deus. Em Cristo, essa presença se torna plenamente conhecida."
     },
 
     {
       day: 42,
-      reading: "Números 1–2",
       date: "11 de fevereiro de 2026",
-      verse: "O Senhor ordenou o acampamento.",
+      reading: "Números 1–2",
+      verse: "Assim fizeram os filhos de Israel; conforme tudo o que o SENHOR ordenara.",
       reference: "Números 2:34",
-      comment: "Deus organiza o povo no deserto, mostrando que sua presença traz ordem mesmo em tempos difíceis. Cristo nos conduz e nos reúne como povo de Deus. A caminhada pode ser longa, mas Deus está no centro."
+      comment: "Números começa organizando o povo ao redor da presença de Deus. Cada tribo possuía seu lugar, mas ninguém ocupava o centro além do Senhor. A caminhada no deserto nos lembra que a comunidade de fé precisa ser organizada em torno da presença e da vontade de Deus."
     },
+
     {
       day: 43,
-      reading: "Números 3–4",
       date: "12 de fevereiro de 2026",
-      verse: "Os levitas foram separados para o serviço.",
+      reading: "Números 3–4",
+      verse: "Eis que eu mesmo tomei os levitas dentre os filhos de Israel.",
       reference: "Números 3:12",
-      comment: "Cada pessoa tinha um papel no cuidado do tabernáculo. Deus chama seu povo para servir conforme seus dons. Em Cristo, todos somos chamados a servir para edificação do corpo."
+      comment: "Os levitas são separados para servir no cuidado do tabernáculo. O texto mostra que Deus distribui responsabilidades dentro do seu povo. Na igreja, servir não é buscar status, mas exercer com fidelidade aquilo que Deus confiou a cada pessoa para a edificação da comunidade."
     },
 
     {
       day: 44,
-      reading: "Números 5–7",
       date: "13 de fevereiro de 2026",
-      verse: "O Senhor abençoe e te guarde.",
+      reading: "Números 5–7",
+      verse: "O SENHOR te abençoe e te guarde.",
       reference: "Números 6:24",
-      comment: "A bênção sacerdotal revela o cuidado constante de Deus sobre seu povo. Cristo é a expressão máxima dessa bênção. Vivemos sob a guarda e a paz que vêm do Senhor."
+      comment: "A bênção sacerdotal resume o desejo de Deus de cuidar e guardar seu povo. A paz recebida não é simplesmente ausência de problemas, mas o resultado da presença favorável de Deus. Em Cristo, recebemos a maior expressão dessa bênção: reconciliação e paz com o próprio Deus."
     },
+
     {
       day: 45,
-      reading: "Números 8–10",
       date: "14 de fevereiro de 2026",
-      verse: "O Senhor guiava o povo pelo caminho.",
-      reference: "Números 10:33",
-      comment: "Deus conduz o povo passo a passo no deserto. Em Cristo, temos um guia seguro para nossa jornada. A dependência diária de Deus é essencial."
+      reading: "Números 8–10",
+      verse: "E, quando a nuvem se levantava de sobre o tabernáculo, então partiam.",
+      reference: "Números 9:17",
+      comment: "Israel precisava aprender a caminhar quando Deus mandava caminhar e permanecer quando Deus mandava permanecer. A presença divina dava direção ao povo. Nossa caminhada cristã também exige disposição para depender da direção do Senhor, em vez de simplesmente seguir nossos próprios desejos."
     },
+
     {
       day: 46,
-      reading: "Números 11–13",
       date: "15 de fevereiro de 2026",
-      verse: "Até quando este povo não crerá em mim?",
+      reading: "Números 11–13",
+      verse: "Até quando não crerá em mim este povo?",
       reference: "Números 14:11",
-      comment: "A murmuração revela um coração incrédulo. Mesmo diante das promessas, o medo paralisa. Cristo nos convida a confiar, mesmo quando o caminho parece difícil."
+      comment: "A murmuração, o medo e o relatório dos espias revelam que o povo deixou de interpretar a realidade à luz da promessa de Deus. A incredulidade olha primeiro para os gigantes; a fé olha primeiro para o Senhor. Somos chamados a confiar na Palavra de Deus mesmo quando as circunstâncias parecem maiores do que nossas forças."
     },
+
     {
       day: 47,
-      reading: "Números 14–15",
       date: "16 de fevereiro de 2026",
-      verse: "Viverão aqueles que confiam no Senhor.",
+      reading: "Números 14–15",
+      verse: "Porém o meu servo Calebe, visto que nele houve outro espírito e perseverou em seguir-me.",
       reference: "Números 14:24",
-      comment: "A incredulidade tem consequências, mas Deus preserva aqueles que permanecem fiéis. Cristo nos chama à perseverança e à esperança."
+      comment: "Calebe se destaca porque permanece confiando na promessa enquanto a maioria se entrega ao medo. Perseverança não significa ausência de dificuldades, mas fidelidade apesar delas. O povo precisava aprender a confiar no Deus que havia prometido conduzi-lo."
     },
+
     {
       day: 48,
-      reading: "Números 16–18",
       date: "17 de fevereiro de 2026",
-      verse: "Basta a vocês! Toda a congregação é santa.",
+      reading: "Números 16–18",
+      verse: "Basta-vos! Toda a congregação é santa.",
       reference: "Números 16:3",
-      comment: "A rebelião mostra os perigos do orgulho espiritual. Deus reafirma sua autoridade. Cristo é o mediador legítimo entre Deus e os homens."
+      comment: "A rebelião de Corá revela como o orgulho pode se esconder até dentro da comunidade de fé. O desejo de exercer autoridade sem submissão à vontade de Deus conduz à desordem. Deus estabelece aqueles que devem servir e nos ensina que verdadeira liderança não nasce da ambição, mas do chamado e da responsabilidade diante dele."
     },
+
     {
       day: 49,
-      reading: "Números 19–21",
       date: "18 de fevereiro de 2026",
-      verse: "Olharão para a serpente e viverão.",
+      reading: "Números 19–21",
+      verse: "E olhará para a serpente de bronze e viverá.",
       reference: "Números 21:8",
-      comment: "A serpente de bronze aponta diretamente para Cristo levantado na cruz. A salvação vem pela fé naquele que Deus providencia."
+      comment: "O povo é ferido pelo próprio pecado, mas Deus providencia um meio de vida. Jesus usa posteriormente essa cena para apontar para sua própria obra na cruz: assim como os israelitas precisavam olhar para o que Deus havia providenciado, o pecador precisa olhar com fé para Cristo. A salvação continua sendo uma obra da graça."
     },
+
     {
       day: 50,
-      reading: "Números 22–24",
       date: "19 de fevereiro de 2026",
-      verse: "Deus não é homem para que minta.",
+      reading: "Números 22–24",
+      verse: "Deus não é homem, para que minta.",
       reference: "Números 23:19",
-      comment: "Nenhuma tentativa humana pode frustrar os planos de Deus. Ele permanece fiel às suas promessas, cumpridas plenamente em Cristo."
+      comment: "Balaão é incapaz de transformar em maldição aquilo que Deus havia determinado abençoar. Reis, profetas e circunstâncias não conseguem frustrar a palavra do Senhor. Nossa confiança está naquele que não mente, não muda e permanece fiel às suas promessas."
     },
+
     {
       day: 51,
-      reading: "Números 25–26",
       date: "20 de fevereiro de 2026",
-      verse: "A fidelidade do Senhor preserva o seu povo.",
+      reading: "Números 25–26",
+      verse: "Todavia os filhos de Corá não morreram.",
       reference: "Números 26:11",
-      comment: "Mesmo após quedas graves, Deus preserva seu povo. A graça não é licença para o pecado, mas convite à fidelidade."
+      comment: "No meio de relatos de juízo, a Escritura registra que os filhos de Corá foram preservados. Isso mostra que Deus é justo em seus julgamentos e, ao mesmo tempo, misericordioso. A graça de Deus não deve ser presumida, mas recebida com humildade e gratidão."
     },
+
     {
       day: 52,
-      reading: "Números 27–29",
       date: "21 de fevereiro de 2026",
-      verse: "O Senhor levantará um líder para o povo.",
+      reading: "Números 27–29",
+      verse: "O SENHOR, Deus dos espíritos de toda carne, ponha um homem sobre a congregação.",
       reference: "Números 27:16",
-      comment: "Deus prepara líderes para conduzir o povo. Cristo é o líder supremo que nunca falha."
+      comment: "Moisés pede que Deus providencie liderança para que o povo não fique como ovelhas sem pastor. O texto revela a necessidade permanente de um pastor fiel para conduzir o povo. Essa expectativa encontra sua plenitude em Cristo, o Bom Pastor que conhece e conduz suas ovelhas."
     },
+
     {
       day: 53,
-      reading: "Números 30–32",
       date: "22 de fevereiro de 2026",
-      verse: "Cumprirão aquilo que prometeram.",
-      reference: "Números 32:24",
-      comment: "Deus valoriza a fidelidade à palavra dada. Cristo cumpre perfeitamente todas as promessas de Deus."
+      reading: "Números 30–32",
+      verse: "Se fizerem este negócio, se armarem para a guerra perante o SENHOR.",
+      reference: "Números 32:20",
+      comment: "A negociação das tribos de Rúben e Gade mostra que as decisões pessoais não podem ignorar o bem de toda a comunidade. O povo de Deus não vive apenas para seus próprios interesses. A liberdade cristã também é chamada a considerar o irmão e a responsabilidade coletiva."
     },
+
     {
       day: 54,
-      reading: "Números 33–34",
       date: "23 de fevereiro de 2026",
-      verse: "Recordem o caminho que o Senhor os guiou.",
+      reading: "Números 33–34",
+      verse: "Moisés escreveu as suas saídas, etapa após etapa, conforme o mandado do SENHOR.",
       reference: "Números 33:2",
-      comment: "Relembrar a caminhada fortalece a fé. Deus esteve presente em cada etapa. Cristo conduz nossa história."
+      comment: "Deus manda registrar as etapas da caminhada para que o povo se lembre do caminho percorrido. A memória espiritual é importante: olhar para trás e perceber a fidelidade do Senhor fortalece a confiança para seguir adiante."
     },
+
     {
       day: 55,
-      reading: "Números 35–36",
       date: "24 de fevereiro de 2026",
-      verse: "O Senhor protege o inocente.",
-      reference: "Números 35:25",
-      comment: "A justiça e a misericórdia caminham juntas em Deus. Em Cristo, encontramos refúgio e redenção."
+      reading: "Números 35–36",
+      verse: "O SENHOR está no meio dos filhos de Israel.",
+      reference: "Números 35:34",
+      comment: "As leis sobre cidades de refúgio, justiça e herança mostram que Deus se preocupa com a vida concreta do seu povo. Justiça e misericórdia precisam caminhar juntas. O Senhor não é indiferente à maneira como sua comunidade trata os vulneráveis e resolve conflitos."
     },
+
     {
       day: 56,
-      reading: "Deuteronômio 1–2",
       date: "25 de fevereiro de 2026",
-      verse: "Não temam, o Senhor vai adiante de vocês.",
-      reference: "Deuteronômio 1:30",
-      comment: "Deus relembra sua fidelidade ao povo. O passado fortalece a confiança no futuro. Cristo caminha conosco."
+      reading: "Deuteronômio 1–2",
+      verse: "Não temais, nem vos assusteis.",
+      reference: "Deuteronômio 1:21",
+      comment: "Moisés relembra a jornada do deserto para mostrar que os fracassos do passado não anulam a fidelidade de Deus. O povo precisava aprender com aquilo que viveu e avançar confiando no Senhor. A memória da graça deve alimentar a coragem para obedecer."
     },
+
     {
       day: 57,
-      reading: "Deuteronômio 3–4",
       date: "26 de fevereiro de 2026",
-      verse: "Não se esqueçam do que o Senhor fez.",
+      reading: "Deuteronômio 3–4",
+      verse: "Tão-somente guarda-te a ti mesmo e guarda bem a tua alma.",
       reference: "Deuteronômio 4:9",
-      comment: "A memória espiritual é essencial para a fé. Cristo nos chama a lembrar e viver segundo a Palavra."
+      comment: "Moisés insiste que o povo não se esqueça das obras de Deus. Esquecimento espiritual gera infidelidade, enquanto a memória das obras do Senhor sustenta a fé. Precisamos ensinar a Palavra às próximas gerações e lembrar continuamente aquilo que Deus fez."
     },
+
     {
       day: 58,
-      reading: "Deuteronômio 5–7",
       date: "27 de fevereiro de 2026",
-      verse: "O Senhor vos amou e vos escolheu.",
-      reference: "Deuteronômio 7:7",
-      comment: "A lei aponta para o amor e a graça de Deus. Cristo cumpre a lei e nos conduz à verdadeira obediência."
+      reading: "Deuteronômio 5–7",
+      verse: "Amarás, pois, o SENHOR, teu Deus, de todo o teu coração.",
+      reference: "Deuteronômio 6:5",
+      comment: "A aliança não chama o povo a uma obediência meramente externa. O centro da vida com Deus é amá-lo de todo o coração. A lei revela aquilo que Deus requer, mas também expõe nossa necessidade de uma transformação interior. Em Cristo, encontramos aquele que cumpriu perfeitamente a lei e nos chama a amar a Deus de coração renovado."
     },
+
     {
       day: 59,
-      reading: "Deuteronômio 8–11",
       date: "28 de fevereiro de 2026",
-      verse: "O homem não vive só de pão.",
+      reading: "Deuteronômio 8–11",
+      verse: "Não só de pão viverá o homem, mas de tudo o que procede da boca do SENHOR.",
       reference: "Deuteronômio 8:3",
-      comment: "Deus sustenta seu povo física e espiritualmente. Cristo é o pão da vida que nos sustenta eternamente."
+      comment: "Moisés lembra ao povo que Deus usou o deserto para ensiná-lo a depender de sua Palavra e provisão. A prosperidade poderia levá-los ao esquecimento, por isso a memória da dependência era essencial. Jesus posteriormente usa este texto para responder à tentação e mostrar que a vida verdadeira não é sustentada apenas por necessidades materiais, mas pela Palavra de Deus."
     },
+
     {
       day: 60,
       reading: "Deuteronômio 12–14",
