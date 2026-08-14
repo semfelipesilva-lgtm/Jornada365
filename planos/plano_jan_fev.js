@@ -1556,5 +1556,284 @@ const PLANO = {
       reference: "Salmos 105:1",
       comment: "Os salmos encerram o mês lembrando os feitos de Deus ao longo da história e chamando o povo à gratidão e confiança contínua."
     }
+
+    {
+      day: 182,
+      date: "01 de julho de 2026",
+      reading: "Salmos 106–108",
+      verse: "Rendei graças ao SENHOR, porque ele é bom.",
+      reference: "Salmos 106:1",
+      comment: "O salmista relembra a história de Israel e reconhece a constante infidelidade do povo diante da fidelidade de Deus. Mesmo quando o homem falha repetidamente, a misericórdia do Senhor permanece. A memória dos feitos de Deus deve produzir gratidão, arrependimento e confiança."
+    },
+
+    {
+      day: 183,
+      date: "02 de julho de 2026",
+      reading: "Salmos 109–111",
+      verse: "Grande é o SENHOR e mui digno de ser louvado.",
+      reference: "Salmos 111:2",
+      comment: "Os salmos conduzem o coração da aflição para a adoração. Deus permanece digno de louvor não apenas quando tudo está bem, mas porque seu caráter é perfeito e suas obras são fiéis."
+    },
+
+    {
+      day: 184,
+      date: "03 de julho de 2026",
+      reading: "Salmos 112–114",
+      verse: "Ao homem que teme ao SENHOR, bem-aventurado será.",
+      reference: "Salmos 112:1",
+      comment: "O temor do Senhor produz uma vida marcada por estabilidade, generosidade e confiança. A verdadeira felicidade não está nas circunstâncias, mas em viver diante de Deus com reverência e fé."
+    },
+
+    {
+      day: 185,
+      date: "04 de julho de 2026",
+      reading: "Salmos 115–117",
+      verse: "Não a nós, SENHOR, não a nós, mas ao teu nome dá glória.",
+      reference: "Salmos 115:1",
+      comment: "O salmista rejeita qualquer tentativa de centralizar a glória no homem. Tudo o que Deus realiza deve conduzir o coração à adoração, porque somente Ele é digno de receber a glória."
+    },
+
+    {
+      day: 186,
+      date: "05 de julho de 2026",
+      reading: "Salmos 118–120",
+      verse: "Este é o dia que o SENHOR fez; regozijemo-nos e alegremo-nos nele.",
+      reference: "Salmos 118:24",
+      comment: "A esperança do povo não está nas circunstâncias, mas na ação salvadora de Deus. O Senhor é a fonte da nossa alegria e segurança. O salmo também aponta para Cristo, a pedra rejeitada que se tornou a principal pedra."
+    },
+
+    {
+      day: 187,
+      date: "06 de julho de 2026",
+      reading: "Salmos 121–123",
+      verse: "Elevo os meus olhos para os montes: de onde me virá o socorro?",
+      reference: "Salmos 121:1",
+      comment: "A caminhada do povo é marcada pela dependência. O socorro não vem das circunstâncias nem da força humana, mas do Senhor, Criador dos céus e da terra. Deus não abandona os seus enquanto caminham."
+    },
+
+    {
+      day: 188,
+      date: "07 de julho de 2026",
+      reading: "Salmos 124–126",
+      verse: "Grandes coisas fez o SENHOR por nós.",
+      reference: "Salmos 126:3",
+      comment: "Israel olha para trás e reconhece que sua restauração foi obra de Deus. Recordar aquilo que o Senhor já fez fortalece a esperança para aquilo que ainda está por vir."
+    },
+
+    {
+      day: 189,
+      date: "08 de julho de 2026",
+      reading: "Salmos 127–129",
+      verse: "Se o SENHOR não edificar a casa, em vão trabalham os que a edificam.",
+      reference: "Salmos 127:1",
+      comment: "O trabalho humano tem valor, mas não pode substituir a dependência de Deus. Podemos construir, planejar e trabalhar, mas somente o Senhor pode estabelecer aquilo que realmente permanece."
+    },
+
+    {
+      day: 190,
+      date: "09 de julho de 2026",
+      reading: "Salmos 130–132",
+      verse: "Esperei no SENHOR; a minha alma o espera.",
+      reference: "Salmos 130:5",
+      comment: "Esperar em Deus não significa passividade, mas confiança perseverante. Mesmo quando o Senhor parece distante, sua Palavra continua sendo fundamento seguro para a esperança."
+    },
+
+    {
+      day: 191,
+      date: "10 de julho de 2026",
+      reading: "Salmos 133–135",
+      verse: "Oh! Como é bom e agradável viverem unidos os irmãos!",
+      reference: "Salmos 133:1",
+      comment: "A comunhão do povo de Deus é apresentada como algo precioso. A igreja não foi chamada para viver isoladamente, mas para experimentar a unidade que nasce da graça e aponta para a obra reconciliadora de Cristo."
+    },
+
+    {
+      day: 192,
+      date: "11 de julho de 2026",
+      reading: "Salmos 136–138",
+      verse: "Porque a sua misericórdia dura para sempre.",
+      reference: "Salmos 136:1",
+      comment: "O refrão do salmo enfatiza repetidamente a misericórdia de Deus. A história inteira pode ser lembrada à luz dessa verdade: Deus permanece fiel mesmo quando seu povo falha."
+    },
+
+    {
+      day: 193,
+      date: "12 de julho de 2026",
+      reading: "Salmos 139–141",
+      verse: "Sonda-me, ó Deus, e conhece o meu coração.",
+      reference: "Salmos 139:23",
+      comment: "Deus conhece completamente aquilo que somos, inclusive aquilo que tentamos esconder. O salmista não foge dessa realidade; ele pede que Deus examine seu coração e o conduza pelo caminho correto."
+    },
+
+    {
+      day: 194,
+      date: "13 de julho de 2026",
+      reading: "Salmos 142–144",
+      verse: "Tu és o meu refúgio, a minha porção na terra dos viventes.",
+      reference: "Salmos 142:5",
+      comment: "Quando todos os outros apoios desaparecem, Deus continua sendo suficiente. O salmista aprende a encontrar segurança não na ausência de problemas, mas na presença do Senhor."
+    },
+
+    {
+      day: 195,
+      date: "14 de julho de 2026",
+      reading: "Salmos 145–147",
+      verse: "Grande é o SENHOR e mui digno de ser louvado.",
+      reference: "Salmos 145:3",
+      comment: "O louvor deixa de estar centrado nas circunstâncias e passa a estar fundamentado no próprio caráter de Deus. Sua grandeza, bondade e fidelidade sustentam a adoração do seu povo."
+    },
+
+    {
+      day: 196,
+      date: "15 de julho de 2026",
+      reading: "Salmos 148–150",
+      verse: "Todo ser que respira louve ao SENHOR.",
+      reference: "Salmos 150:6",
+      comment: "O livro dos Salmos termina com uma convocação universal ao louvor. Depois de atravessar lamentos, guerras, pecados, arrependimentos e esperanças, o destino final do povo de Deus é a adoração."
+    },
+
+    {
+      day: 197,
+      date: "16 de julho de 2026",
+      reading: "Provérbios 1–3",
+      verse: "O temor do SENHOR é o princípio do saber.",
+      reference: "Provérbios 1:7",
+      comment: "Provérbios começa estabelecendo o fundamento de toda verdadeira sabedoria: o temor do Senhor. Conhecimento sem submissão a Deus pode produzir orgulho, mas a sabedoria bíblica começa reconhecendo quem Deus é."
+    },
+
+    {
+      day: 198,
+      date: "17 de julho de 2026",
+      reading: "Provérbios 4–6",
+      verse: "Sobre tudo o que se deve guardar, guarda o teu coração.",
+      reference: "Provérbios 4:23",
+      comment: "A vida exterior é profundamente influenciada pelo que governa o coração. A sabedoria bíblica não trata apenas de comportamentos, mas da fonte interior de onde nossas palavras, escolhas e atitudes procedem."
+    },
+
+    {
+      day: 199,
+      date: "18 de julho de 2026",
+      reading: "Provérbios 7–9",
+      verse: "O temor do SENHOR é o princípio da sabedoria.",
+      reference: "Provérbios 9:10",
+      comment: "A sabedoria e a insensatez apresentam caminhos diferentes. O texto chama o leitor a escolher a voz da sabedoria e rejeitar os atalhos que parecem atraentes, mas conduzem à destruição."
+    },
+
+    {
+      day: 200,
+      date: "19 de julho de 2026",
+      reading: "Provérbios 10–12",
+      verse: "O filho sábio alegra a seu pai.",
+      reference: "Provérbios 10:1",
+      comment: "A sabedoria bíblica aparece nas decisões comuns da vida: palavras, trabalho, relacionamentos, honestidade e domínio próprio. Deus se importa com a maneira como vivemos diariamente."
+    },
+
+    {
+      day: 201,
+      date: "20 de julho de 2026",
+      reading: "Provérbios 13–15",
+      verse: "A resposta branda desvia o furor.",
+      reference: "Provérbios 15:1",
+      comment: "Nossas palavras podem construir ou destruir. A sabedoria nos ensina que maturidade espiritual também aparece na maneira como respondemos quando somos contrariados."
+    },
+
+    {
+      day: 202,
+      date: "21 de julho de 2026",
+      reading: "Provérbios 16–18",
+      verse: "O coração do homem pode fazer planos, mas a resposta certa dos lábios vem do SENHOR.",
+      reference: "Provérbios 16:1",
+      comment: "Planejar faz parte da responsabilidade humana, mas nossos planos nunca estão acima da soberania de Deus. A sabedoria consiste em trabalhar e planejar sem abandonar a dependência do Senhor."
+    },
+
+    {
+      day: 203,
+      date: "22 de julho de 2026",
+      reading: "Provérbios 19–21",
+      verse: "Muitos propósitos há no coração do homem, mas o desígnio do SENHOR permanecerá.",
+      reference: "Provérbios 19:21",
+      comment: "O ser humano faz muitos planos, mas somente Deus conhece e governa plenamente o futuro. Isso não elimina nossa responsabilidade; nos ensina a planejar com humildade."
+    },
+
+    {
+      day: 204,
+      date: "23 de julho de 2026",
+      reading: "Provérbios 22–24",
+      verse: "O bom nome vale mais do que muitas riquezas.",
+      reference: "Provérbios 22:1",
+      comment: "A sabedoria coloca caráter acima de riqueza, reputação acima de aparência e integridade acima de vantagens momentâneas. O verdadeiro valor de uma vida não pode ser medido apenas pelo que ela possui."
+    },
+
+    {
+      day: 205,
+      date: "24 de julho de 2026",
+      reading: "Provérbios 25–27",
+      verse: "Como o ferro com o ferro se afia, assim o homem ao seu amigo.",
+      reference: "Provérbios 27:17",
+      comment: "A maturidade não acontece no isolamento. Deus usa relacionamentos, correção e amizade para moldar nosso caráter. Precisamos tanto de pessoas que nos encorajem quanto de pessoas que tenham coragem de nos corrigir."
+    },
+
+    {
+      day: 206,
+      date: "25 de julho de 2026",
+      reading: "Provérbios 28–31",
+      verse: "O que confia no seu próprio coração é insensato.",
+      reference: "Provérbios 28:26",
+      comment: "Provérbios termina reforçando a necessidade de sabedoria prática. Confiar cegamente em nós mesmos é insensatez; precisamos da Palavra de Deus para orientar nossas escolhas e formar nosso caráter."
+    },
+
+    {
+      day: 207,
+      date: "26 de julho de 2026",
+      reading: "Eclesiastes 1–4",
+      verse: "Vaidade de vaidades, tudo é vaidade.",
+      reference: "Eclesiastes 1:2",
+      comment: "Eclesiastes confronta nossa tentativa de encontrar sentido definitivo nas coisas passageiras. Trabalho, prazer e realizações não conseguem preencher o vazio quando Deus é retirado do centro."
+    },
+
+    {
+      day: 208,
+      date: "27 de julho de 2026",
+      reading: "Eclesiastes 5–8",
+      verse: "Melhor é ouvir a repreensão do sábio.",
+      reference: "Eclesiastes 7:5",
+      comment: "A sabedoria bíblica não promete uma vida sem dificuldades. Ela ensina a encarar a realidade com temor de Deus e a aprender inclusive através das situações difíceis."
+    },
+
+    {
+      day: 209,
+      date: "28 de julho de 2026",
+      reading: "Eclesiastes 9–12",
+      verse: "Teme a Deus e guarda os seus mandamentos.",
+      reference: "Eclesiastes 12:13",
+      comment: "Depois de examinar os limites dos prazeres, das riquezas e das realizações humanas, Eclesiastes conduz o leitor ao verdadeiro centro da vida: temer a Deus e viver diante dele com fidelidade."
+    },
+
+    {
+      day: 210,
+      date: "29 de julho de 2026",
+      reading: "Cântico dos Cânticos 1–4",
+      verse: "Eu sou do meu amado, e o meu amado é meu.",
+      reference: "Cântico dos Cânticos 6:3",
+      comment: "O livro celebra a beleza do amor conjugal, mostrando que o relacionamento entre marido e mulher é algo digno de cuidado, compromisso e alegria. O amor bíblico não é apenas sentimento, mas também entrega e fidelidade."
+    },
+
+    {
+      day: 211,
+      date: "30 de julho de 2026",
+      reading: "Cântico dos Cânticos 5–7",
+      verse: "As muitas águas não poderiam apagar o amor.",
+      reference: "Cântico dos Cânticos 8:7",
+      comment: "O amor verdadeiro é apresentado como algo que não pode ser comprado nem facilmente destruído. A fidelidade no relacionamento aponta para a importância da aliança, do compromisso e da perseverança."
+    },
+
+    {
+      day: 212,
+      date: "31 de julho de 2026",
+      reading: "Cântico dos Cânticos 8",
+      verse: "Põe-me como selo sobre o teu coração.",
+      reference: "Cântico dos Cânticos 8:6",
+      comment: "O encerramento de Cântico dos Cânticos destaca a força e a exclusividade do amor. O texto nos lembra que relacionamentos precisam ser guardados com fidelidade, compromisso e temor de Deus."
+    }
   ]
 };
