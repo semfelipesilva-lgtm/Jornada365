@@ -264,7 +264,7 @@ const PLANO = {
     {
       day: 30,
       date: "30 de janeiro de 2026",
-      reading: "Êxodo 34–35",
+      reading: "Êxodo 36–38",
       verse: "O SENHOR, Deus misericordioso e compassivo, longânimo e grande em benignidade.",
       reference: "Êxodo 34:6",
       comment: "Depois da grande infidelidade de Israel, Deus revela novamente seu próprio caráter. Ele é santo e justo, mas também misericordioso, compassivo e paciente. O texto nos mostra que a esperança da aliança repousa no caráter de Deus, e não na perfeição do povo."
