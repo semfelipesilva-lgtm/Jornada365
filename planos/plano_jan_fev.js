@@ -1912,280 +1912,280 @@ const PLANO = {
     {
       day: 213,
       date: "01 de agosto de 2026",
-      reading: "Isaías 1–3",
-      verse: "Vinde, pois, e arrazoemos, diz o SENHOR.",
-      reference: "Isaías 1:18",
-      comment: "Isaías começa denunciando a hipocrisia espiritual de um povo que mantinha práticas religiosas enquanto vivia em rebeldia. Deus não deseja uma aparência de devoção, mas arrependimento verdadeiro e uma vida transformada."
+      reading: "Isaías 41–43",
+      verse: "Não temas, porque eu sou contigo.",
+      reference: "Isaías 41:10",
+      comment: "Isaías fala a um povo cercado por medo, ameaças e incertezas, mas Deus reafirma sua presença. A segurança de Israel não depende de sua própria força, mas da fidelidade do Senhor. Para nós, a mesma verdade permanece: a presença de Deus é maior do que aquilo que nos assusta."
     },
 
     {
       day: 214,
       date: "02 de agosto de 2026",
-      reading: "Isaías 4–6",
-      verse: "Santo, santo, santo é o SENHOR dos Exércitos.",
-      reference: "Isaías 6:3",
-      comment: "Isaías contempla a santidade absoluta de Deus e percebe sua própria indignidade. O verdadeiro encontro com Deus produz consciência do pecado, mas também conduz à graça e ao chamado para servir."
+      reading: "Isaías 44–47",
+      verse: "Eu sou o primeiro e eu sou o último, e além de mim não há Deus.",
+      reference: "Isaías 44:6",
+      comment: "Deus confronta a idolatria mostrando a diferença entre o Criador e aquilo que os homens fabricam. Ídolos prometem segurança, mas são incapazes de salvar. O coração humano continua criando substitutos para Deus, por isso precisamos constantemente lembrar quem realmente governa nossa vida."
     },
 
     {
       day: 215,
       date: "03 de agosto de 2026",
-      reading: "Isaías 7–9",
-      verse: "Eis que a virgem conceberá e dará à luz um filho.",
-      reference: "Isaías 7:14",
-      comment: "Em meio à instabilidade política, Deus anuncia uma esperança maior. A promessa do Emanuel aponta para Cristo, Deus conosco, mostrando que a salvação depende da iniciativa do próprio Deus."
+      reading: "Isaías 48–51",
+      verse: "Eu sou o SENHOR, teu Deus, que te ensina o que é útil.",
+      reference: "Isaías 48:17",
+      comment: "Deus mostra que sua Palavra não é apenas informação, mas direção para a vida. Israel sofreu porque insistiu em seus próprios caminhos, mas o Senhor continua chamando seu povo de volta. A graça de Deus também nos confronta para abandonar caminhos que parecem certos, mas nos afastam dele."
     },
 
     {
       day: 216,
       date: "04 de agosto de 2026",
-      reading: "Isaías 10–12",
-      verse: "Eis que Deus é a minha salvação; confiarei e não temerei.",
-      reference: "Isaías 12:2",
-      comment: "Mesmo diante do juízo e da ameaça das nações, o povo é chamado a confiar no Senhor. A segurança verdadeira não está na força política, mas na salvação que Deus oferece."
+      reading: "Isaías 52–57",
+      verse: "Ele foi traspassado pelas nossas transgressões.",
+      reference: "Isaías 53:5",
+      comment: "O Servo do Senhor sofre em lugar do seu povo. Isaías apresenta uma das mais profundas antecipações da obra de Cristo: aquele que é inocente carrega a culpa dos pecadores. Nossa reconciliação com Deus não nasce de nosso esforço, mas do sacrifício daquele que tomou sobre si o nosso pecado."
     },
 
     {
       day: 217,
       date: "05 de agosto de 2026",
-      reading: "Isaías 13–17",
-      verse: "O SENHOR dos Exércitos tomou este desígnio.",
-      reference: "Isaías 14:24",
-      comment: "As profecias contra as nações revelam que nenhum poder humano está acima do governo de Deus. Reis e impérios passam, mas o propósito do Senhor permanece."
+      reading: "Isaías 58–62",
+      verse: "Repartas o teu pão com o faminto.",
+      reference: "Isaías 58:7",
+      comment: "Deus confronta uma religiosidade que pratica jejuns e cerimônias, mas ignora o sofrimento do próximo. A devoção verdadeira produz justiça, misericórdia e cuidado. O culto que agrada a Deus alcança também a maneira como tratamos os necessitados."
     },
 
     {
       day: 218,
       date: "06 de agosto de 2026",
-      reading: "Isaías 18–22",
-      verse: "O SENHOR é o nosso juiz, o SENHOR é o nosso legislador, o SENHOR é o nosso Rei.",
-      reference: "Isaías 33:22",
-      comment: "Isaías mostra que a segurança de Judá não poderia estar em alianças políticas. Deus é o verdadeiro Rei, Juiz e Legislador do seu povo."
+      reading: "Isaías 63–66",
+      verse: "Desde a antiguidade não se ouviu, nem com ouvidos se percebeu, nem com os olhos se viu Deus além de ti.",
+      reference: "Isaías 64:4",
+      comment: "Isaías termina olhando para aquilo que Deus ainda fará. A história não termina no juízo; existe esperança de renovação e da manifestação plena da glória do Senhor. A fé cristã também olha para frente, aguardando a consumação da obra de Deus."
     },
 
     {
       day: 219,
       date: "07 de agosto de 2026",
-      reading: "Isaías 23–27",
-      verse: "Naquele dia, cantai este cântico na terra de Judá.",
-      reference: "Isaías 26:1",
-      comment: "Em meio às mensagens de juízo aparece uma esperança de restauração. Deus não apenas julga o pecado; ele conduz a história para a redenção e para a segurança daqueles que nele confiam."
+      reading: "Jeremias 1–3",
+      verse: "Antes que eu te formasse no ventre materno, eu te conheci.",
+      reference: "Jeremias 1:5",
+      comment: "Jeremias recebe um chamado difícil para falar a um povo que não queria ouvir. O profeta não depende de sua própria capacidade, mas da palavra e da presença de Deus. O Senhor conhece, chama e capacita seus servos antes mesmo que eles compreendam plenamente a missão."
     },
 
     {
       day: 220,
       date: "08 de agosto de 2026",
-      reading: "Isaías 28–31",
-      verse: "Este é o descanso; dai descanso ao cansado.",
-      reference: "Isaías 28:12",
-      comment: "O povo buscava segurança em alianças humanas enquanto rejeitava a confiança em Deus. O Senhor oferece um fundamento seguro, mas o coração humano frequentemente prefere confiar naquilo que pode controlar."
+      reading: "Jeremias 4–6",
+      verse: "Lavrai para vós o campo de pousio e não semeeis entre espinhos.",
+      reference: "Jeremias 4:3",
+      comment: "O profeta chama o povo ao arrependimento genuíno. Não basta mudar externamente; é necessário preparar o coração para receber novamente a Palavra de Deus. O pecado endurece o coração, mas Deus continua chamando seu povo à conversão."
     },
 
     {
       day: 221,
       date: "09 de agosto de 2026",
-      reading: "Isaías 32–35",
-      verse: "Eis que o vosso Deus virá com vingança e com recompensa de Deus; ele virá e vos salvará.",
-      reference: "Isaías 35:4",
-      comment: "Isaías anuncia um futuro de restauração no qual Deus virá para salvar seu povo. A esperança ultrapassa a situação imediata de Israel e aponta para a redenção que Deus realizaria plenamente."
+      reading: "Jeremias 7–9",
+      verse: "Não vos fieis em palavras falsas, dizendo: Templo do SENHOR.",
+      reference: "Jeremias 7:4",
+      comment: "O povo confiava no templo como se sua existência garantisse proteção automática, enquanto continuava praticando injustiça e idolatria. Jeremias denuncia essa falsa segurança. Ter símbolos religiosos não substitui uma vida realmente submetida a Deus."
     },
 
     {
       day: 222,
       date: "10 de agosto de 2026",
-      reading: "Isaías 36–39",
-      verse: "Com ele está o braço de carne, mas conosco o SENHOR, nosso Deus.",
-      reference: "2 Crônicas 32:8",
-      comment: "A ameaça da Assíria mostra a diferença entre confiar em recursos humanos e confiar no Senhor. A libertação de Jerusalém demonstra que a segurança do povo depende de Deus."
+      reading: "Jeremias 10–13",
+      verse: "Mas o SENHOR é verdadeiramente Deus; ele é o Deus vivo e o Rei eterno.",
+      reference: "Jeremias 10:10",
+      comment: "Jeremias contrasta o Deus vivo com os ídolos fabricados pelas nações. Os ídolos não falam, não caminham e não podem salvar. O Senhor, porém, é vivo e reina eternamente. A questão continua atual: quem realmente governa nosso coração?"
     },
 
     {
       day: 223,
       date: "11 de agosto de 2026",
-      reading: "Isaías 40–42",
-      verse: "Consolai, consolai o meu povo, diz o vosso Deus.",
-      reference: "Isaías 40:1",
-      comment: "Depois de anunciar juízo, Isaías apresenta uma poderosa mensagem de consolo. O Deus soberano não abandona seu povo. Ele vem para restaurar, sustentar e conduzir aqueles que esperam nele."
+      reading: "Jeremias 14–17",
+      verse: "Bendito o homem que confia no SENHOR e cuja esperança é o SENHOR.",
+      reference: "Jeremias 17:7",
+      comment: "Jeremias apresenta um contraste entre confiar em recursos humanos e confiar no Senhor. A raiz de uma vida espiritualmente saudável está em onde colocamos nossa esperança. Quem confia em Deus pode atravessar tempos difíceis sem perder completamente a estabilidade."
     },
 
     {
       day: 224,
       date: "12 de agosto de 2026",
-      reading: "Isaías 43–45",
-      verse: "Não temas, porque eu sou contigo.",
-      reference: "Isaías 43:5",
-      comment: "Deus reafirma sua presença e fidelidade ao povo. A segurança não está na ausência de dificuldades, mas na certeza de que o Senhor permanece conosco."
+      reading: "Jeremias 18–22",
+      verse: "Como o barro na mão do oleiro, assim sois vós na minha mão.",
+      reference: "Jeremias 18:6",
+      comment: "A imagem do oleiro mostra a soberania de Deus sobre seu povo. Israel não é seu próprio senhor. O texto também revela que Deus chama ao arrependimento e trata seu povo de forma justa. Precisamos aprender a reconhecer que nossa vida pertence ao Criador."
     },
 
     {
       day: 225,
       date: "13 de agosto de 2026",
-      reading: "Isaías 46–48",
-      verse: "Eu sou Deus, e não há outro semelhante a mim.",
-      reference: "Isaías 46:9",
-      comment: "Deus contrasta sua soberania com a impotência dos ídolos. Somente o Senhor conhece e governa a história desde o princípio até o fim."
+      reading: "Jeremias 23–25",
+      verse: "Eis que vêm dias, diz o SENHOR, em que levantarei a Davi um Renovo justo.",
+      reference: "Jeremias 23:5",
+      comment: "Depois de denunciar pastores infiéis, Deus promete levantar um Rei justo da linhagem de Davi. A esperança não está nos líderes humanos, mas no Renovo prometido. Essa promessa aponta para Cristo, o Pastor e Rei perfeito que governa seu povo com justiça."
     },
 
     {
       day: 226,
       date: "14 de agosto de 2026",
-      reading: "Isaías 49–51",
-      verse: "Pode uma mulher esquecer-se do filho que ainda mama?",
-      reference: "Isaías 49:15",
-      comment: "Deus usa a imagem do amor de uma mãe para mostrar a profundidade de sua fidelidade. Mesmo quando seu povo se sente esquecido, o Senhor permanece comprometido com suas promessas."
+      reading: "Jeremias 26–29",
+      verse: "Melhorai os vossos caminhos e as vossas ações e ouvi a voz do SENHOR.",
+      reference: "Jeremias 26:13",
+      comment: "Jeremias enfrenta oposição porque sua mensagem exige arrependimento verdadeiro. A Palavra de Deus incomoda quando denuncia aquilo que queremos preservar. O profeta nos lembra que fidelidade não consiste em dizer o que as pessoas querem ouvir, mas em anunciar aquilo que Deus realmente disse."
     },
 
     {
       day: 227,
       date: "15 de agosto de 2026",
-      reading: "Isaías 52–54",
-      verse: "Ele foi traspassado pelas nossas transgressões.",
-      reference: "Isaías 53:5",
-      comment: "O Servo do Senhor sofre em lugar do seu povo. Isaías apresenta uma das mais claras antecipações da obra de Cristo: aquele que é inocente carrega a culpa dos pecadores para trazer-lhes paz e cura."
+      reading: "Jeremias 30–32",
+      verse: "Com amor eterno eu te amei; por isso, com benignidade te atraí.",
+      reference: "Jeremias 31:3",
+      comment: "Em meio às promessas de restauração, Deus revela a profundidade de seu amor por seu povo. O exílio não anulou a aliança. O Senhor disciplina, mas também restaura. A esperança da nova aliança aponta para uma obra de Deus que alcançará o coração."
     },
 
     {
       day: 228,
       date: "16 de agosto de 2026",
-      reading: "Isaías 55–57",
-      verse: "Buscai o SENHOR enquanto se pode achar.",
-      reference: "Isaías 55:6",
-      comment: "Deus oferece gratuitamente sua graça e chama o pecador ao arrependimento. A resposta adequada à oferta divina não é adiamento, mas busca sincera pelo Senhor."
+      reading: "Jeremias 33–36",
+      verse: "Clama a mim, e responder-te-ei.",
+      reference: "Jeremias 33:3",
+      comment: "Mesmo quando Jerusalém está cercada e o futuro parece perdido, Deus continua chamando seu povo à oração. O Senhor conhece coisas que estão além da capacidade humana de enxergar. A oração nos ensina a buscar aquele que permanece soberano quando não conseguimos controlar as circunstâncias."
     },
 
     {
       day: 229,
       date: "17 de agosto de 2026",
-      reading: "Isaías 58–60",
-      verse: "Levanta-te, resplandece, porque vem a tua luz.",
-      reference: "Isaías 60:1",
-      comment: "A restauração de Sião é apresentada como manifestação da luz de Deus. A esperança do povo não nasce de sua própria força, mas da presença gloriosa do Senhor."
+      reading: "Jeremias 37–40",
+      verse: "Assim diz o SENHOR: certamente te livrarei.",
+      reference: "Jeremias 39:18",
+      comment: "Jeremias permanece fiel em um período de grande oposição, enquanto Jerusalém caminha para a queda. Deus não promete uma vida sem dificuldades, mas mostra que continua cuidando daqueles que nele confiam. A fidelidade do profeta nasce da confiança na palavra do Senhor."
     },
 
     {
       day: 230,
       date: "18 de agosto de 2026",
-      reading: "Isaías 61–63",
-      verse: "O Espírito do Senhor Deus está sobre mim.",
-      reference: "Isaías 61:1",
-      comment: "O Servo anuncia boas-novas aos quebrantados, libertação aos cativos e consolo aos que sofrem. Essa promessa encontra seu cumprimento em Cristo e revela o caráter restaurador de sua missão."
+      reading: "Jeremias 41–44",
+      verse: "Obedeceremos à voz do SENHOR, nosso Deus.",
+      reference: "Jeremias 42:6",
+      comment: "O povo promete obedecer, mas sua verdadeira disposição será revelada quando a resposta de Deus contrariar seus próprios desejos. Obediência verdadeira não significa concordar com Deus apenas quando ele diz aquilo que queremos ouvir. É submeter nossa vontade à Palavra do Senhor."
     },
 
     {
       day: 231,
       date: "19 de agosto de 2026",
-      reading: "Isaías 64–66",
-      verse: "Desde a antiguidade não se ouviu, nem com os ouvidos se percebeu.",
-      reference: "Isaías 64:4",
-      comment: "Isaías termina olhando para aquilo que Deus ainda fará. A história caminha para uma nova criação e para a manifestação plena da glória do Senhor."
+      reading: "Jeremias 45–48",
+      verse: "Tu, porém, procuras grandezas? Não as procures.",
+      reference: "Jeremias 45:5",
+      comment: "Baruque recebe uma palavra que confronta o desejo de buscar grandeza pessoal em meio a um tempo de crise. A fidelidade pode significar abrir mão de reconhecimento e conforto. Deus nos chama a encontrar segurança não em status, mas nele próprio."
     },
 
     {
       day: 232,
       date: "20 de agosto de 2026",
-      reading: "Jeremias 1–4",
-      verse: "Antes que eu te formasse no ventre, eu te conheci.",
-      reference: "Jeremias 1:5",
-      comment: "Jeremias é chamado por Deus para uma missão difícil. Sua vocação mostra que o serviço ao Senhor depende da iniciativa e capacitação divina, não da autoconfiança humana."
+      reading: "Jeremias 49–50",
+      verse: "O seu Redentor é forte; o SENHOR dos Exércitos é o seu nome.",
+      reference: "Jeremias 50:34",
+      comment: "As nações que pareciam invencíveis também estão debaixo do governo de Deus. Babilônia, instrumento de juízo, não permaneceria para sempre. O Senhor continua sendo o Redentor de seu povo e o juiz dos impérios."
     },
 
     {
       day: 233,
       date: "21 de agosto de 2026",
-      reading: "Jeremias 5–8",
-      verse: "Meu povo cometeu dois males: a mim me deixaram, o manancial de águas vivas.",
-      reference: "Jeremias 2:13",
-      comment: "O pecado de Israel não é apenas quebrar regras; é abandonar o próprio Deus para buscar outras fontes de satisfação. O coração humano troca facilmente o Criador por substitutos incapazes de satisfazê-lo."
+      reading: "Jeremias 51–52",
+      verse: "Ele fez a terra pelo seu poder.",
+      reference: "Jeremias 51:15",
+      comment: "Babilônia cai, mostrando que nenhum poder humano é absoluto. O livro termina lembrando que Deus continua governando a história mesmo quando seu povo passa por enorme sofrimento. O juízo não anula a promessa; Deus ainda preserva esperança para a linhagem de Davi."
     },
 
     {
       day: 234,
       date: "22 de agosto de 2026",
-      reading: "Jeremias 9–12",
-      verse: "Glorie-se nisto: em me conhecer e saber que eu sou o SENHOR.",
-      reference: "Jeremias 9:24",
-      comment: "Deus mostra que verdadeira glória não está em sabedoria, força ou riquezas, mas em conhecê-lo. O conhecimento de Deus deve transformar o modo como vivemos."
+      reading: "Lamentações 1–3",
+      verse: "As misericórdias do SENHOR são a causa de não sermos consumidos.",
+      reference: "Lamentações 3:22",
+      comment: "Lamentações não tenta suavizar a tragédia de Jerusalém. O sofrimento é encarado com honestidade, mas no centro do livro surge uma esperança extraordinária: a misericórdia de Deus ainda permanece. Mesmo entre ruínas, o Senhor continua sendo digno de confiança."
     },
 
     {
       day: 235,
       date: "23 de agosto de 2026",
-      reading: "Jeremias 13–16",
-      verse: "Pode o etíope mudar a sua pele ou o leopardo as suas manchas?",
-      reference: "Jeremias 13:23",
-      comment: "Jeremias expõe a profundidade da corrupção do povo. O problema não era apenas comportamento externo, mas um coração profundamente inclinado ao pecado. A necessidade humana é de transformação que somente Deus pode realizar."
+      reading: "Lamentações 4–5",
+      verse: "Tu, SENHOR, reinas eternamente, e o teu trono subsiste de geração em geração.",
+      reference: "Lamentações 5:19",
+      comment: "O livro termina sem negar a dor, mas reafirmando o governo de Deus. Jerusalém foi destruída, mas o trono do Senhor não foi abalado. Essa distinção é essencial: nossas circunstâncias podem mudar radicalmente, mas Deus permanece soberano."
     },
 
     {
       day: 236,
       date: "24 de agosto de 2026",
-      reading: "Jeremias 17–20",
-      verse: "Bendito o homem que confia no SENHOR.",
-      reference: "Jeremias 17:7",
-      comment: "Jeremias contrasta quem confia no homem com quem confia no Senhor. A raiz de uma vida espiritualmente saudável está em onde colocamos nossa confiança."
+      reading: "Ezequiel 1–4",
+      verse: "E esta era a aparência da semelhança da glória do SENHOR.",
+      reference: "Ezequiel 1:28",
+      comment: "Ezequiel recebe uma visão da glória de Deus em pleno exílio. Isso é profundamente significativo: a presença do Senhor não estava limitada à terra de Israel. Deus continua reinando mesmo quando o povo está longe de Jerusalém. Sua glória não depende de um lugar."
     },
 
     {
       day: 237,
       date: "25 de agosto de 2026",
-      reading: "Jeremias 21–24",
-      verse: "Eu lhes darei um coração para que me conheçam.",
-      reference: "Jeremias 24:7",
-      comment: "Mesmo diante do juízo, Deus promete restauração. A esperança não está na capacidade do povo de se reformar sozinho, mas na ação de Deus sobre o coração."
+      reading: "Ezequiel 5–8",
+      verse: "Conhecereis que eu sou o SENHOR.",
+      reference: "Ezequiel 6:7",
+      comment: "A expressão repetida em Ezequiel mostra o propósito do juízo: o povo precisa reconhecer quem é Deus. O Senhor não compartilha sua glória com ídolos. O juízo revela a gravidade da idolatria e chama o coração de volta ao verdadeiro Deus."
     },
 
     {
       day: 238,
       date: "26 de agosto de 2026",
-      reading: "Jeremias 25–28",
-      verse: "Setenta anos se cumprirão para Babilônia.",
-      reference: "Jeremias 25:11",
-      comment: "O juízo anunciado por Deus não está fora de seu controle. Mesmo o exílio possui limite determinado pelo Senhor. A disciplina divina não significa abandono."
+      reading: "Ezequiel 9–12",
+      verse: "Eu estarei convosco quando vos levar para as nações.",
+      reference: "Ezequiel 11:17",
+      comment: "Mesmo diante da saída da glória de Deus do templo e do sofrimento do exílio, o Senhor promete reunir seu povo novamente. O juízo não é a última palavra. Deus continua conduzindo sua história e preservando esperança para aqueles que pertencem a ele."
     },
 
     {
       day: 239,
       date: "27 de agosto de 2026",
-      reading: "Jeremias 29–32",
-      verse: "Eu é que sei que pensamentos tenho a vosso respeito.",
-      reference: "Jeremias 29:11",
-      comment: "Deus fala a um povo que estava vivendo no exílio e promete que sua história não terminou. A esperança bíblica não ignora o sofrimento presente, mas confia no propósito soberano de Deus."
+      reading: "Ezequiel 13–16",
+      verse: "Fiz com que o meu nome fosse conhecido entre as nações.",
+      reference: "Ezequiel 16:62",
+      comment: "A história de Jerusalém é apresentada como uma história de graça, infidelidade e disciplina. Deus relembra aquilo que fez por seu povo e denuncia sua traição. A passagem mostra a seriedade da infidelidade espiritual e a profundidade da graça que Deus havia demonstrado."
     },
 
     {
       day: 240,
       date: "28 de agosto de 2026",
-      reading: "Jeremias 33–36",
-      verse: "Clama a mim, e responder-te-ei.",
-      reference: "Jeremias 33:3",
-      comment: "Em meio ao cenário de destruição, Deus continua chamando seu povo a buscá-lo. A oração demonstra que, mesmo quando tudo parece perdido, ainda podemos recorrer ao Deus que governa a história."
+      reading: "Ezequiel 17–20",
+      verse: "Eu sou o SENHOR, vosso Deus; andai nos meus estatutos.",
+      reference: "Ezequiel 20:19",
+      comment: "Ezequiel relembra repetidamente a história de desobediência de Israel. A geração atual não deveria repetir os mesmos padrões. O Senhor chama seu povo a abandonar a rebeldia e viver em fidelidade. A memória do passado deve produzir arrependimento no presente."
     },
 
     {
       day: 241,
       date: "29 de agosto de 2026",
-      reading: "Jeremias 37–40",
-      verse: "Assim diz o SENHOR: quem ficar nesta cidade viverá.",
-      reference: "Jeremias 38:2",
-      comment: "Jeremias permanece fiel à mensagem de Deus mesmo quando ela é rejeitada. Sua perseverança mostra que fidelidade não significa aprovação dos homens, mas obediência ao Senhor."
+      reading: "Ezequiel 21–23",
+      verse: "A espada, a espada está afiada e polida.",
+      reference: "Ezequiel 21:9",
+      comment: "As imagens fortes do juízo mostram que Deus não ignora indefinidamente a injustiça e a idolatria. O povo havia rejeitado repetidamente a aliança, e agora enfrentaria as consequências. A santidade de Deus deve ser levada a sério."
     },
 
     {
       day: 242,
       date: "30 de agosto de 2026",
-      reading: "Jeremias 41–44",
-      verse: "Obedeceremos à voz do SENHOR nosso Deus.",
-      reference: "Jeremias 42:6",
-      comment: "O povo promete obedecer, mas sua disposição é colocada à prova quando a Palavra de Deus confronta seus próprios desejos. A verdadeira obediência aparece quando a vontade de Deus contradiz aquilo que queremos."
+      reading: "Ezequiel 24–27",
+      verse: "Assim saberão que eu sou o SENHOR.",
+      reference: "Ezequiel 25:17",
+      comment: "O juízo anunciado contra Jerusalém e contra as nações ao redor mostra que Deus é Senhor sobre todos os povos. Nenhuma nação ou império está fora de seu governo. O Senhor julga o pecado e permanece fiel à sua própria justiça."
     },
 
     {
       day: 243,
       date: "31 de agosto de 2026",
-      reading: "Jeremias 45–52",
-      verse: "As misericórdias do SENHOR são a causa de não sermos consumidos.",
-      reference: "Lamentações 3:22",
-      comment: "O mês termina diante das consequências do pecado e da queda de Jerusalém. Mesmo em meio ao juízo, a misericórdia de Deus permanece. A esperança do povo não está em suas próprias forças, mas na fidelidade daquele que continua sendo Deus."
+      reading: "Ezequiel 28–30",
+      verse: "Eu sou contra ti, ó rei de Tiro.",
+      reference: "Ezequiel 28:2",
+      comment: "Os capítulos finais do mês continuam mostrando o juízo de Deus contra reis e nações que se exaltaram. O orgulho humano pretende ocupar o lugar que pertence somente ao Senhor. A mensagem permanece atual: nenhuma grandeza humana pode competir com a soberania de Deus."
     }
   ]
 };
