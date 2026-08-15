@@ -812,269 +812,274 @@ const PLANO = {
     
     {
       day: 91,
-      reading: "1 Samuel 28–31",
       date: "01 de abril de 2026",
-      verse: "Saul morreu por causa da sua infidelidade ao SENHOR.",
-      reference: "1 Crônicas 10:13",
-      comment: "O fim de Saul é trágico, não por falta de oportunidades, mas por persistir na desobediência. Ele quis os benefícios do reino sem se submeter ao Rei verdadeiro. Esse texto nos confronta: queremos Deus ou apenas o que Ele pode nos dar? Cristo nos chama a uma entrega total, não parcial."
+      reading: "1 Samuel 28–31",
+      verse: "O SENHOR se tem afastado de mim e já não me responde.",
+      reference: "1 Samuel 28:15",
+      comment: "Os últimos capítulos da vida de Saul revelam o resultado de uma trajetória marcada pela desobediência. Quando enfrenta a crise, ele procura respostas por caminhos que Deus havia proibido. O fim trágico de Saul mostra que não basta desejar a ajuda de Deus; é necessário permanecer debaixo da sua Palavra. A história prepara o caminho para um Rei diferente, cuja fidelidade não falha."
     },
-    
+
     {
       day: 92,
-      reading: "2 Samuel 1–3",
       date: "02 de abril de 2026",
-      verse: "Davi consultou ao SENHOR.",
-      reference: "2 Samuel 2:1",
-      comment: "Davi inicia seu reinado buscando direção em Deus. Diferente de Saul, ele não age por impulso. Isso não significa perfeição, mas dependência. Em Cristo, vemos o Rei que viveu em total submissão ao Pai, modelo para nossa vida."
+      reading: "2 Samuel 1–3",
+      verse: "Assim, Davi se ia fortalecendo, porém os da casa de Saul se iam enfraquecendo.",
+      reference: "2 Samuel 3:1",
+      comment: "Davi começa a consolidar o reino, mas evita tomar o poder pela força. Mesmo em meio a conflitos e mortes, ele reconhece que o reino deve ser estabelecido segundo a vontade de Deus. A história mostra que a promessa do Senhor avança mesmo em períodos de instabilidade humana."
     },
 
     {
       day: 93,
-      reading: "2 Samuel 4–7",
       date: "03 de abril de 2026",
-      verse: "Davi dançava com todas as suas forças perante o SENHOR.",
-      reference: "2 Samuel 6:14",
-      comment: "A alegria de Davi diante da presença de Deus revela um coração que valoriza mais a glória do Senhor do que a própria reputação. A adoração verdadeira não é performance, mas resposta sincera à presença de Deus. Em Cristo, temos acesso pleno a essa presença."
+      reading: "2 Samuel 4–7",
+      verse: "A tua casa e o teu reino serão firmados para sempre diante de ti.",
+      reference: "2 Samuel 7:16",
+      comment: "A aliança davídica é um dos grandes momentos da história da redenção. Deus promete estabelecer um reino duradouro por meio da descendência de Davi. Davi morreria, seus sucessores falhariam, mas a promessa permaneceria. Essa esperança encontra seu cumprimento pleno em Jesus, o Rei cujo reino não terá fim."
     },
 
     {
       day: 94,
-      reading: "2 Samuel 8–11",
       date: "04 de abril de 2026",
-      verse: "A tua casa e o teu reino serão firmados para sempre.",
-      reference: "2 Samuel 7:16",
-      comment: "A aliança com Davi é um dos pontos centrais da Bíblia. Deus promete um reino eterno, que não se cumpriria plenamente em Davi, mas em Cristo. Aqui nasce a esperança messiânica de forma clara e poderosa."
+      reading: "2 Samuel 8–11",
+      verse: "Davi reinou sobre todo o Israel, e julgava e fazia justiça a todo o seu povo.",
+      reference: "2 Samuel 8:15",
+      comment: "Davi experimenta grande prosperidade e exerce seu governo com justiça. Mas a mesma vida que apresenta grandes vitórias também revelará uma queda devastadora. A proximidade entre o sucesso e o pecado nos lembra que nenhuma posição ou experiência espiritual torna alguém imune à tentação."
     },
 
     {
       day: 95,
-      reading: "2 Samuel 12–14",
       date: "05 de abril de 2026",
+      reading: "2 Samuel 12–14",
       verse: "Pequei contra o SENHOR.",
       reference: "2 Samuel 12:13",
-      comment: "O pecado de Davi com Bate-Seba revela que até os melhores líderes falham profundamente. Mas o arrependimento sincero mostra o caminho de volta. Esse contraste aponta para a necessidade de um Rei que não falharia — Jesus."
+      comment: "Depois de confrontado por Natã, Davi finalmente reconhece seu pecado. O arrependimento começa quando deixamos de justificar nossas escolhas e reconhecemos nossa culpa diante de Deus. O perdão é real, mas as consequências também são. A história mostra tanto a seriedade do pecado quanto a profundidade da graça."
     },
 
     {
       day: 96,
-      reading: "2 Samuel 15–17",
       date: "06 de abril de 2026",
-      verse: "O pecado traz consequências.",
-      reference: "Gálatas 6:7",
-      comment: "A desordem na família de Davi mostra que o pecado não afeta apenas o indivíduo, mas gera impacto coletivo. Deus perdoa, mas as consequências permanecem. Em Cristo, encontramos perdão e também transformação para quebrar ciclos."
+      reading: "2 Samuel 15–17",
+      verse: "Eis que teu servo fará tudo o que o meu senhor, o rei, escolher.",
+      reference: "2 Samuel 15:15",
+      comment: "A rebelião de Absalão mergulha a família real em sofrimento. Davi, que havia recebido a promessa, agora experimenta as consequências dolorosas de sua própria casa. A história mostra que o pecado pode produzir feridas profundas nas relações, mas também revela que Deus continua governando mesmo quando tudo parece desmoronar."
     },
 
     {
       day: 97,
-      reading: "2 Samuel 18–19",
       date: "07 de abril de 2026",
-      verse: "O rei voltou em paz.",
-      reference: "2 Samuel 19:15",
-      comment: "A restauração de Davi ao trono aponta para a fidelidade de Deus em manter sua promessa, mesmo em meio ao caos. O reino de Deus não depende da perfeição humana, mas da graça divina."
+      reading: "2 Samuel 18–19",
+      verse: "Meu filho Absalão! Meu filho, meu filho Absalão!",
+      reference: "2 Samuel 18:33",
+      comment: "A dor de Davi diante da morte de Absalão revela o coração de um pai que sofre profundamente. Mesmo em um contexto de conflito e julgamento, vemos a complexidade do pecado e de suas consequências. O sofrimento causado pelo pecado aponta para nossa necessidade de redenção e de um Rei que possa restaurar aquilo que foi quebrado."
     },
 
     {
       day: 98,
-      reading: "2 Samuel 20–22",
       date: "08 de abril de 2026",
-      verse: "O SENHOR é a minha rocha e a minha fortaleza.",
+      reading: "2 Samuel 20–22",
+      verse: "O SENHOR é a minha rocha, a minha fortaleza e o meu libertador.",
       reference: "2 Samuel 22:2",
-      comment: "Davi reconhece que todas as suas vitórias vieram de Deus. Mesmo no fim, ainda há falhas, mostrando que ele não é o rei definitivo. Cristo é a rocha perfeita, em quem podemos confiar plenamente."
+      comment: "Depois de tantos conflitos, Davi olha para trás e reconhece que sua segurança sempre esteve em Deus. As vitórias não eram fruto apenas de sua habilidade, mas da ação do Senhor. A gratidão cristã também aprende a interpretar a própria história à luz da fidelidade de Deus."
     },
 
     {
       day: 99,
-      reading: "2 Samuel 23–24",
       date: "09 de abril de 2026",
-      verse: "Levantou-se Davi… e edificou ali um altar ao SENHOR… Assim o SENHOR se tornou favorável para com a terra.",
+      reading: "2 Samuel 23–24",
+      verse: "Levantou Davi ali um altar ao SENHOR.",
       reference: "2 Samuel 24:25",
-      comment: "O final da vida de Davi revela uma tensão profunda: o rei escolhido por Deus ainda é um pecador capaz de trazer juízo sobre o povo. O censo, motivado por autoconfiança, mostra que até líderes espirituais podem deslocar sua confiança de Deus para números e controle humano. No entanto, o capítulo não termina em juízo, mas em graça. O altar erguido e o sacrifício oferecido revelam que a ira de Deus é detida por meio de substituição. Esse episódio aponta diretamente para Cristo, o sacrifício perfeito, que não apenas interrompe o juízo temporariamente, mas resolve definitivamente o problema do pecado. Assim, o texto nos confronta e consola: confronta nossa tendência de confiar em nós mesmos, e consola ao mostrar que Deus providencia o meio de reconciliação."
+      comment: "O final de 2 Samuel apresenta um Davi ainda marcado pela fragilidade humana. O censo revela sua confiança indevida em números e força, mas o capítulo termina com altar e sacrifício. O juízo é interrompido pela oferta, apontando para a necessidade de expiação. A história prepara o leitor para o sacrifício perfeito de Cristo."
     },
+
     {
       day: 100,
-      reading: "1 Reis 1–2",
       date: "10 de abril de 2026",
-      verse: "Seja forte e anda nos caminhos do SENHOR.",
+      reading: "1 Reis 1–2",
+      verse: "Seja forte, pois, e sê homem.",
       reference: "1 Reis 2:2",
-      comment: "A transição para Salomão mostra que o reino continua, mas também revela tensões políticas e espirituais. A promessa de Deus segue firme, apesar das imperfeições humanas."
+      comment: "A transição de Davi para Salomão mostra que nenhum rei humano consegue sustentar sozinho a esperança de um reino perfeito. Davi orienta seu filho a andar nos caminhos do Senhor. A narrativa continua mostrando a necessidade de um Rei cuja fidelidade seja completa."
     },
 
     {
       day: 101,
-      reading: "1 Reis 3–5",
       date: "11 de abril de 2026",
-      verse: "Dá ao teu servo um coração compreensivo.",
+      reading: "1 Reis 3–5",
+      verse: "Dá, pois, ao teu servo coração compreensivo para julgar a teu povo.",
       reference: "1 Reis 3:9",
-      comment: "Salomão pede sabedoria, e Deus se agrada. Isso nos ensina que o maior recurso não é poder, mas discernimento. Em Cristo, encontramos a sabedoria perfeita."
+      comment: "Salomão começa seu reinado reconhecendo sua própria necessidade de sabedoria. O pedido agrada ao Senhor porque demonstra dependência. A sabedoria bíblica não é simplesmente inteligência; é a capacidade de viver diante de Deus com discernimento."
     },
 
     {
       day: 102,
-      reading: "1 Reis 6–7",
       date: "12 de abril de 2026",
-      verse: "Edificou a casa para o nome do SENHOR.",
-      reference: "1 Reis 6:1",
-      comment: "A construção do templo representa o desejo de Deus de habitar com seu povo. No entanto, o templo físico apontava para algo maior. Em Cristo, Deus habita conosco de forma plena."
+      reading: "1 Reis 6–7",
+      verse: "Edificou a casa e a acabou.",
+      reference: "1 Reis 6:14",
+      comment: "A construção do templo mostra a centralidade da presença de Deus na vida do povo. O templo é grandioso, mas não pode conter plenamente o Senhor. Ele aponta para uma realidade maior: em Cristo, Deus habita com seu povo de maneira definitiva."
     },
 
     {
       day: 103,
-      reading: "1 Reis 8-9",
       date: "13 de abril de 2026",
-      verse: "Os céus não podem te conter.",
+      reading: "1 Reis 8–9",
+      verse: "Os céus, e até o céu dos céus, não te podem conter.",
       reference: "1 Reis 8:27",
-      comment: "A dedicação do templo mostra a grandeza de Deus e a limitação das estruturas humanas. Deus não pode ser contido em prédios. Ele se revela de forma plena em Cristo."
+      comment: "Na dedicação do templo, Salomão reconhece a grandeza de Deus. O Senhor habita com seu povo, mas não pode ser reduzido a um prédio ou estrutura. A presença divina é um dom da graça e encontra sua expressão suprema em Cristo, Deus conosco."
     },
 
     {
       day: 104,
-      reading: "1 Reis 10–11",
       date: "14 de abril de 2026",
-      verse: "O coração de Salomão se desviou.",
-      reference: "1 Reis 11:4",
-      comment: "O mesmo homem que pediu sabedoria se afasta de Deus. Isso revela que conhecimento não garante fidelidade. O coração precisa ser constantemente guardado. Cristo é o único que permaneceu fiel até o fim."
+      reading: "1 Reis 10–11",
+      verse: "Assim o coração de Salomão se desviou do SENHOR.",
+      reference: "1 Reis 11:9",
+      comment: "Salomão começa pedindo sabedoria, recebe grandes bênçãos e termina com o coração dividido. A narrativa é um alerta poderoso contra a ideia de que sucesso, conhecimento ou posição garantem fidelidade espiritual. O coração precisa permanecer voltado ao Senhor."
     },
+
     {
       day: 105,
-      reading: "1 Reis 12–14",
       date: "15 de abril de 2026",
-      verse: "O reino se dividiu.",
+      reading: "1 Reis 12–14",
+      verse: "Assim Israel se rebelou contra a casa de Davi até ao dia de hoje.",
       reference: "1 Reis 12:19",
-      comment: "A divisão de Israel mostra as consequências acumuladas da desobediência. O povo colhe o que foi plantado ao longo das gerações. Esse cenário prepara o caminho para a atuação dos profetas e aponta para a necessidade de restauração."
+      comment: "A divisão do reino é resultado de uma longa história de pecado, orgulho e decisões equivocadas. O reino prometido a Davi começa a mostrar suas profundas limitações humanas. Mesmo assim, Deus não abandona sua promessa. A história continua apontando para um Rei maior."
     },
+
     {
       day: 106,
-      reading: "1 Reis 15–17",
       date: "16 de abril de 2026",
-      verse: "Elias disse: Vive o SENHOR, em cuja presença estou.",
+      reading: "1 Reis 15–17",
+      verse: "Vive o SENHOR, Deus de Israel, perante cuja face estou.",
       reference: "1 Reis 17:1",
-      comment: "Em meio a reis corruptos, Deus levanta Elias. Isso mostra que, mesmo quando a liderança falha, Deus preserva sua voz. A fidelidade de Deus não depende do sistema, mas do seu próprio caráter. Cristo é a Palavra viva que nunca se cala."
+      comment: "Em meio a reis infiéis, Deus levanta Elias como profeta. A presença do profeta mostra que o Senhor não abandona sua Palavra mesmo quando a liderança espiritual se corrompe. Elias não fala em seu próprio nome; ele se apresenta diante do Deus vivo."
     },
 
     {
       day: 107,
-      reading: "1 Reis 18–20",
       date: "17 de abril de 2026",
+      reading: "1 Reis 18–20",
       verse: "Até quando coxeareis entre dois pensamentos?",
       reference: "1 Reis 18:21",
-      comment: "O confronto no Carmelo expõe a falsa segurança dos ídolos. O povo precisava decidir a quem servir. Logo depois, Elias entra em crise, mostrando que até homens de Deus enfrentam fraqueza. Em Cristo, encontramos firmeza mesmo quando nossas emoções vacilam."
+      comment: "No Carmelo, Elias confronta Israel com a necessidade de decidir a quem servirá. O problema não era falta de informação, mas um coração dividido. Logo depois, o próprio Elias experimenta medo e cansaço. O texto mostra que a fé verdadeira precisa continuar dependente de Deus mesmo depois de grandes experiências."
     },
 
     {
       day: 108,
-      reading: "1 Reis 21–22",
       date: "18 de abril de 2026",
-      verse: "A palavra do SENHOR se cumprirá.",
-      reference: "1 Reis 22:28",
-      comment: "Mesmo rejeitada, a palavra de Deus não falha. Acabe tenta manipular a realidade, mas não consegue escapar do que Deus declarou. Isso nos lembra que a verdade de Deus não depende da nossa aceitação."
+      reading: "1 Reis 21–22",
+      verse: "Eis que eu te trarei o mal sobre ti.",
+      reference: "1 Reis 21:21",
+      comment: "A história de Acabe e Jezabel mostra que Deus não ignora injustiça, abuso de poder ou violência. Mesmo quando homens poderosos parecem intocáveis, o Senhor continua sendo juiz. A justiça de Deus lembra que ninguém está acima de sua autoridade."
     },
 
     {
       day: 109,
-      reading: "2 Reis 1–4",
       date: "19 de abril de 2026",
-      verse: "Não há Deus em Israel?",
+      reading: "2 Reis 1–4",
+      verse: "Não há Deus em Israel, para que vais consultar Baal-Zebube?",
       reference: "2 Reis 1:3",
-      comment: "A busca por respostas fora de Deus revela incredulidade. O povo consulta outras fontes porque não confia no Senhor. Esse padrão continua hoje: quando ignoramos Deus, buscamos substitutos. Cristo é a revelação final e suficiente."
+      comment: "O rei Acazias procura respostas fora do Senhor, revelando a continuidade da idolatria. Deus mostra que seu povo não precisa de substitutos para guiá-lo. A mensagem continua atual: procurar segurança espiritual fora de Deus revela uma confiança dividida."
     },
 
     {
       day: 110,
-      reading: "2 Reis 5–7",
       date: "20 de abril de 2026",
-      verse: "Há profeta em Israel.",
-      reference: "2 Reis 5:8",
-      comment: "Milagres através de Eliseu mostram que Deus continua agindo com graça. Naamã, um estrangeiro, é curado, revelando que a salvação não é limitada a um povo. Em Cristo, essa graça se expande a todas as nações."
+      reading: "2 Reis 5–7",
+      verse: "Agora reconheço que em toda a terra não há Deus, senão em Israel.",
+      reference: "2 Reis 5:15",
+      comment: "A cura de Naamã revela que a graça de Deus ultrapassa as fronteiras de Israel. Um estrangeiro reconhece o verdadeiro Deus enquanto muitos israelitas permanecem incrédulos. A salvação sempre foi obra da graça, e Cristo levará essa boa notícia às nações."
     },
 
     {
       day: 111,
-      reading: "2 Reis 8–10",
       date: "21 de abril de 2026",
-      verse: "Assim diz o SENHOR.",
-      reference: "2 Reis 9:6",
-      comment: "O juízo de Deus contra a casa de Acabe mostra que Ele não ignora o pecado indefinidamente. Sua justiça se manifesta no tempo certo. Ao mesmo tempo, Deus preserva a linhagem de Davi, apontando para Cristo."
+      reading: "2 Reis 8–10",
+      verse: "Mais são os que estão conosco do que os que estão com eles.",
+      reference: "2 Reis 6:16",
+      comment: "Eliseu mostra que a realidade espiritual é maior do que aquilo que nossos olhos conseguem enxergar. O servo vê apenas o exército inimigo, enquanto Deus revela sua proteção. A fé aprende a interpretar as circunstâncias à luz da soberania divina."
     },
 
     {
       day: 112,
-      reading: "2 Reis 11–14",
       date: "22 de abril de 2026",
-      verse: "Fez o que era reto, porém não de todo o coração.",
-      reference: "2 Reis 14:4",
-      comment: "Obediência parcial aparece repetidamente. Muitos reis fazem o que é certo externamente, mas sem compromisso verdadeiro. Deus não se satisfaz com aparência. Cristo chama a uma transformação real do coração."
+      reading: "2 Reis 11–14",
+      verse: "E todo o povo da terra se alegrou.",
+      reference: "2 Reis 11:20",
+      comment: "A preservação da linhagem real mostra que Deus mantém sua promessa mesmo em períodos de grande corrupção. A sucessão de reis revela fragilidade humana, mas a aliança davídica continua sendo preservada. Deus não perde de vista seu propósito redentor."
     },
 
     {
       day: 113,
-      reading: "2 Reis 15–17",
       date: "23 de abril de 2026",
+      reading: "2 Reis 15–17",
       verse: "Isso sucedeu porque os filhos de Israel pecaram contra o SENHOR.",
       reference: "2 Reis 17:7",
-      comment: "A queda do reino do norte (Israel) não é acaso, mas consequência acumulada de desobediência. Deus foi paciente, mas o juízo veio. Esse texto nos lembra que graça não é licença para pecar."
+      comment: "A queda de Samaria não acontece de repente. Ela é o resultado de uma longa história de rebeldia e idolatria. Deus havia advertido repetidamente, mas o povo persistiu. O texto mostra que a paciência de Deus não deve ser confundida com indiferença ao pecado."
     },
 
     {
       day: 114,
-      reading: "2 Reis 18–19",
       date: "24 de abril de 2026",
-      verse: "Confia no SENHOR.",
-      reference: "2 Reis 18:5",
-      comment: "Ezequias se destaca como um rei que confia em Deus. Em meio à ameaça, ele busca o Senhor. Isso mostra que ainda há esperança mesmo em tempos difíceis. Em Cristo, encontramos a confiança perfeita."
+      reading: "2 Reis 18–19",
+      verse: "Com ele está o braço de carne, mas conosco o SENHOR, nosso Deus, para nos ajudar.",
+      reference: "2 Crônicas 32:8",
+      comment: "Ezequias enfrenta uma ameaça militar gigantesca, mas escolhe confiar no Senhor. A verdadeira segurança de Judá não estava em armas ou alianças, mas na presença de Deus. A confiança cristã também nasce quando reconhecemos que nossos recursos são limitados, mas o poder do Senhor não é."
     },
 
     {
       day: 115,
-      reading: "2 Reis 20–23",
       date: "25 de abril de 2026",
-      verse: "Achou-se o Livro da Lei.",
-      reference: "2 Reis 22:8",
-      comment: "O avivamento nos dias de Josias começa com a redescoberta da Palavra. Quando a Escritura volta ao centro, há transformação. Isso continua sendo verdade hoje: sem a Palavra, não há reforma real."
+      reading: "2 Reis 20–23",
+      verse: "O rei rasgou as suas vestes.",
+      reference: "2 Reis 22:11",
+      comment: "A descoberta do Livro da Lei produz uma reação de quebrantamento em Josias. A Palavra de Deus confronta o povo e conduz à reforma. Toda restauração verdadeira começa quando permitimos que a Escritura revele o que precisa ser corrigido."
     },
 
     {
       day: 116,
-      reading: "2 Reis 24–25",
       date: "26 de abril de 2026",
-      verse: "Judá foi levado cativo.",
-      reference: "2 Reis 25:21",
-      comment: "A queda de Jerusalém marca um dos momentos mais sombrios da história de Israel. As promessas parecem ameaçadas, mas não anuladas. Deus ainda está conduzindo a história, preparando redenção futura em Cristo."
+      reading: "2 Reis 24–25",
+      verse: "Por causa da ira do SENHOR sucedeu isto em Jerusalém.",
+      reference: "2 Reis 24:20",
+      comment: "A queda de Jerusalém é um dos momentos mais dolorosos da história de Judá. O exílio demonstra que as advertências de Deus eram reais e que sua santidade não pode ser desprezada. Ainda assim, o fim de Reis não encerra a história da promessa. Deus ainda conduzirá seu povo."
     },
 
     {
       day: 117,
-      reading: "1 Crônicas 1–2",
       date: "27 de abril de 2026",
-      verse: "Genealogias que preservam a promessa.",
+      reading: "1 Crônicas 1–2",
+      verse: "Adão, Sete, Enos.",
       reference: "1 Crônicas 1:1",
-      comment: "As genealogias podem parecer repetitivas, mas mostram que Deus preserva sua promessa ao longo das gerações. Nada se perde no plano de Deus. Cristo surge dentro dessa história real, não como mito."
+      comment: "As genealogias podem parecer apenas listas, mas preservam a memória do povo e mostram continuidade através das gerações. Depois de guerras, reis, pecado e exílio, a história não desapareceu. Deus preserva seu povo para cumprir suas promessas."
     },
 
     {
       day: 118,
-      reading: "1 Crônicas 3–5",
       date: "28 de abril de 2026",
-      verse: "O SENHOR atendeu ao seu pedido.",
-      reference: "1 Crônicas 4:10",
-      comment: "Mesmo em listas de nomes, vemos exemplos de oração e dependência. Deus se importa com indivíduos dentro da grande história. Em Cristo, cada vida tem valor e propósito."
+      reading: "1 Crônicas 3–5",
+      verse: "Estes foram os filhos de Davi.",
+      reference: "1 Crônicas 3:1",
+      comment: "A linhagem de Davi recebe destaque porque a promessa do reino continua importante mesmo depois das tragédias vividas por Israel. Os nomes registrados lembram que Deus trabalha através de gerações e preserva a história que culminará no Messias."
     },
 
     {
       day: 119,
-      reading: "1 Crônicas 6",
       date: "29 de abril de 2026",
-      verse: "Estes são os que Davi estabeleceu para dirigirem o canto na Casa do SENHOR.",
+      reading: "1 Crônicas 6",
+      verse: "Estes são os que Davi constituiu para o ministério do canto na Casa do SENHOR.",
       reference: "1 Crônicas 6:31",
-      comment: "À primeira vista, 1 Crônicas 6 parece apenas uma lista de nomes, mas revela algo profundo: Deus se importa com a forma como é adorado. Os levitas são separados, organizados e designados para o serviço no templo, mostrando que o culto não é centrado no homem, mas em Deus. A adoração verdadeira envolve ordem, responsabilidade e dedicação. Ao mesmo tempo, esse sistema aponta para uma limitação: era necessário mediação constante entre Deus e o povo. Em Cristo, essa mediação encontra seu cumprimento perfeito. Ele é o nosso sumo sacerdote definitivo, e por meio dele temos acesso direto a Deus. Assim, o texto nos desafia a tratar a adoração com reverência e propósito, não como algo casual ou centrado em preferências pessoais."
+      comment: "A genealogia dos levitas destaca a organização do culto e o serviço daqueles separados para a adoração. O culto de Israel não era um detalhe periférico: Deus estava formando um povo que o adorasse. Essa mediação levítica aponta para Cristo, nosso Sumo Sacerdote, por meio de quem temos acesso a Deus."
     },
+
     {
       day: 120,
-      reading: "1 Crônicas 7–8",
       date: "30 de abril de 2026",
-      verse: "Todos estes foram contados por suas genealogias… homens valentes para a guerra.",
+      reading: "1 Crônicas 7–8",
+      verse: "Todos estes foram registrados por genealogias.",
       reference: "1 Crônicas 7:40",
-      comment: "As genealogias de 1 Crônicas 7–8 mostram que, apesar das crises, perdas e dispersões, Deus preserva seu povo ao longo da história. Cada nome registrado é uma evidência de que a promessa de Deus não falhou. Mesmo quando Israel enfrentou guerras e decadência espiritual, sua identidade não foi apagada. Isso aponta para a fidelidade de Deus em sustentar seu plano redentor. Em Cristo, essa preservação alcança seu ápice: Deus não apenas mantém um povo, mas forma um novo povo, unido não por linhagem física, mas pela fé. O texto nos confronta com uma pergunta: nossa identidade está nas circunstâncias ou na fidelidade de Deus?"
+      comment: "As genealogias de 1 Crônicas 7–8 mostram que o povo de Deus continua sendo lembrado mesmo depois de conflitos, perdas e crises. Cada nome registrado testemunha a continuidade da história da aliança. Deus preserva seu povo ao longo das gerações e conduz sua promessa até o cumprimento em Cristo."
     },
+
     {
       day: 121,
       reading: "1 Crônicas 9–11",
