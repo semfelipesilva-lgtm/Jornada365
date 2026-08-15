@@ -1358,275 +1358,276 @@ const PLANO = {
       reference: "Jó 19:25",
       comment: "Em meio à dor, às acusações e à incompreensão, Jó declara sua esperança em um Redentor vivo. Sua situação ainda não mudou, mas sua esperança está colocada além das circunstâncias presentes. Essa esperança alcança sua plenitude em Cristo, o Redentor que venceu a morte e garante a vida ao seu povo."
     },
-    
+  
     {
       day: 152,
       date: "01 de junho de 2026",
       reading: "Jó 21–25",
       verse: "Eu sei que o meu Redentor vive.",
       reference: "Jó 19:25",
-      comment: "Mesmo cercado por dor e acusações, Jó expressa uma esperança profunda em um Redentor vivo. Sua fé ultrapassa as circunstâncias e aponta para Cristo, aquele que vence a morte e sustenta os que nele confiam."
+      comment: "Jó continua enfrentando o mistério do sofrimento enquanto seus amigos procuram explicações simples para uma realidade complexa. Mesmo sem compreender a razão de sua dor, ele permanece voltado para Deus e para a esperança de redenção. A fé não exige que tenhamos todas as respostas; exige que saibamos em quem colocamos nossa esperança."
     },
 
     {
       day: 153,
       date: "02 de junho de 2026",
       reading: "Jó 26–28",
-      verse: "Mas ele sabe o meu caminho.",
-      reference: "Jó 23:10",
-      comment: "Jó continua sem respostas claras, mas reconhece que Deus conhece cada detalhe da sua caminhada. A fé madura aprende a confiar mesmo quando não consegue compreender completamente o que está acontecendo."
+      verse: "Eis que o temor do Senhor é a sabedoria.",
+      reference: "Jó 28:28",
+      comment: "Jó reconhece que existem profundezas da criação e da providência que estão muito além da capacidade humana de compreender. O homem pode explorar riquezas, conhecimento e ciência, mas a verdadeira sabedoria começa no temor do Senhor. Conhecer nossos limites é parte da verdadeira sabedoria."
     },
 
     {
       day: 154,
       date: "03 de junho de 2026",
       reading: "Jó 29–31",
-      verse: "O temor do Senhor é a sabedoria.",
-      reference: "Jó 28:28",
-      comment: "O homem busca respostas em muitos lugares, mas a verdadeira sabedoria começa no temor do Senhor. O texto nos lembra que Deus permanece soberano mesmo quando a vida parece confusa."
+      verse: "Quem me dera voltar aos meses passados.",
+      reference: "Jó 29:2",
+      comment: "Jó relembra os dias anteriores ao sofrimento e sente profundamente a perda de sua antiga condição. O sofrimento pode transformar nossa percepção da vida e trazer à tona a fragilidade das seguranças humanas. A passagem nos lembra que nossa esperança não pode estar fundamentada apenas em circunstâncias favoráveis."
     },
 
     {
       day: 155,
       date: "04 de junho de 2026",
       reading: "Jó 32–34",
-      verse: "Quem me dera voltar aos meses passados.",
-      reference: "Jó 29:2",
-      comment: "Jó relembra tempos de honra e estabilidade, revelando a profundidade da sua dor. O sofrimento desmonta falsas seguranças e nos obriga a reconhecer nossa dependência de Deus."
+      verse: "Deus fala de um modo, sim, de dois modos, mas o homem não atenta para isso.",
+      reference: "Jó 33:14",
+      comment: "Eliú procura chamar atenção para a ação de Deus, que nem sempre é percebida pelo homem. Embora seus argumentos precisem ser lidos com cuidado, ele levanta uma questão importante: estamos dispostos a ouvir Deus mesmo quando sua maneira de agir não corresponde às nossas expectativas?"
     },
 
     {
       day: 156,
       date: "05 de junho de 2026",
-      reading: "Jó 35–37",
-      verse: "Deus fala de um modo e de outro.",
-      reference: "Jó 33:14",
-      comment: "Eliú lembra que Deus continua agindo mesmo quando não percebemos. O sofrimento nem sempre é castigo; muitas vezes é também um instrumento de crescimento e dependência."
+      reading: "Jó 35–27",
+      verse: "Grande é Deus, e não o podemos compreender.",
+      reference: "Jó 36:26",
+      comment: "O texto ressalta a grandeza de Deus diante da limitação humana. Quando não compreendemos o que o Senhor está fazendo, somos tentados a julgá-lo a partir da nossa pequena perspectiva. A fé nos ensina a confiar naquele cuja sabedoria ultrapassa completamente a nossa.",
+      sourceNote: "A fonte apresenta a leitura como “Jó 35–27”. Verifique esta referência no documento original antes de publicar o mês."
     },
 
     {
       day: 157,
       date: "06 de junho de 2026",
       reading: "Jó 38–40",
-      verse: "Grande é Deus e não o podemos compreender.",
-      reference: "Jó 36:26",
-      comment: "A grandeza de Deus ultrapassa a capacidade humana de entendimento. Nem sempre teremos respostas completas, mas podemos descansar no caráter fiel do Senhor."
+      verse: "Onde estavas tu quando eu lançava os fundamentos da terra?",
+      reference: "Jó 38:4",
+      comment: "Quando Deus finalmente responde a Jó, ele não oferece uma explicação detalhada para cada sofrimento. Em vez disso, revela sua grandeza como Criador e Senhor de todas as coisas. A resposta desloca o foco da tentativa humana de controlar a realidade para a confiança naquele que governa perfeitamente aquilo que não conseguimos compreender."
     },
 
     {
       day: 158,
       date: "07 de junho de 2026",
       reading: "Jó 41–42",
-      verse: "Onde estavas tu quando eu lançava os fundamentos da terra?",
-      reference: "Jó 38:4",
-      comment: "Deus responde revelando sua soberania sobre toda a criação. O foco deixa de ser apenas o sofrimento de Jó e passa a ser a majestade do Criador que governa todas as coisas."
+      verse: "Agora os meus olhos te veem.",
+      reference: "Jó 42:5",
+      comment: "Depois de ser confrontado pela grandeza de Deus, Jó reconhece a limitação de seu próprio entendimento. Seu sofrimento não recebeu uma explicação completa, mas seu encontro com Deus transformou sua perspectiva. Há momentos em que Deus não nos entrega todas as respostas; ele nos ensina a conhecê-lo mais profundamente."
     },
 
     {
       day: 159,
       date: "08 de junho de 2026",
-      reading: "Sl 1-7",
-      verse: "Antes eu te conhecia só de ouvir.",
-      reference: "Jó 42:5",
-      comment: "Depois de encontrar-se com Deus, Jó reconhece que sua compreensão era limitada. O sofrimento aprofundou sua percepção do Senhor e produziu humildade."
+      reading: "Salmos 1–7",
+      verse: "Bem-aventurado o homem que não anda no conselho dos ímpios.",
+      reference: "Salmos 1:1",
+      comment: "O primeiro salmo apresenta dois caminhos e mostra que a vida do justo é moldada pela Palavra de Deus. A verdadeira estabilidade não depende da ausência de dificuldades, mas de possuir raízes firmes naquilo que o Senhor revelou."
     },
 
     {
       day: 160,
       date: "09 de junho de 2026",
       reading: "Salmos 8–14",
-      verse: "Bem-aventurado o homem que não anda no conselho dos ímpios.",
-      reference: "Salmos 1:1",
-      comment: "Os primeiros salmos apresentam dois caminhos: o do justo e o do ímpio. A verdadeira estabilidade espiritual nasce da meditação contínua na Palavra de Deus."
+      verse: "Que é o homem, para que dele te lembres?",
+      reference: "Salmos 8:4",
+      comment: "Ao contemplar a grandeza dos céus, Davi reconhece a pequenez humana e, ao mesmo tempo, a dignidade que Deus concedeu ao homem. O salmo nos ensina humildade e gratidão: somos pequenos diante do universo, mas profundamente conhecidos pelo Criador."
     },
 
     {
       day: 161,
       date: "10 de junho de 2026",
       reading: "Salmos 15–18",
-      verse: "Que é o homem para que dele te lembres?",
-      reference: "Salmos 8:4",
-      comment: "Davi contempla a grandeza da criação e reconhece a pequenez humana. Ainda assim, Deus concede dignidade e propósito ao homem através da sua graça."
+      verse: "O SENHOR é a minha rocha, a minha fortaleza e o meu libertador.",
+      reference: "Salmos 18:2",
+      comment: "Davi olha para sua própria experiência e reconhece que sua segurança não estava em sua força, mas no Senhor. Em meio a perseguições e perigos, Deus continua sendo refúgio. A fé não promete uma vida sem ameaças, mas uma vida sustentada por Deus em meio a elas."
     },
 
     {
       day: 162,
       date: "11 de junho de 2026",
       reading: "Salmos 19–23",
-      verse: "O SENHOR é a minha rocha.",
-      reference: "Salmos 18:2",
-      comment: "Em meio às batalhas, Davi reconhece Deus como refúgio seguro. A segurança verdadeira não está na força humana, mas na fidelidade do Senhor."
+      verse: "A lei do SENHOR é perfeita e restaura a alma.",
+      reference: "Salmos 19:7",
+      comment: "O salmo mostra duas formas pelas quais Deus se revela: a criação proclama sua glória e sua Palavra revela sua vontade. O conhecimento de Deus não deve produzir apenas admiração, mas também transformação. A Palavra corrige, orienta e restaura o coração."
     },
 
     {
       day: 163,
       date: "12 de junho de 2026",
       reading: "Salmos 24–29",
-      verse: "Os céus proclamam a glória de Deus.",
-      reference: "Salmos 19:1",
-      comment: "A criação revela a glória divina e a Palavra revela sua vontade. Deus se manifesta tanto no universo quanto nas Escrituras."
+      verse: "Quem é o Rei da Glória? O SENHOR forte e poderoso.",
+      reference: "Salmos 24:8",
+      comment: "Esses salmos exaltam o Senhor como Rei, Criador e Pastor. Diante de tanta instabilidade humana, o povo encontra segurança naquele que reina. A grandeza de Deus não é apenas motivo para admiração; é fundamento para confiança."
     },
 
     {
       day: 164,
       date: "13 de junho de 2026",
       reading: "Salmos 30–34",
-      verse: "O SENHOR é o meu pastor.",
-      reference: "Salmos 23:1",
-      comment: "Mesmo atravessando vales escuros, o povo de Deus não caminha sozinho. O Senhor conduz, protege e sustenta aqueles que nele confiam."
+      verse: "Bendirei o SENHOR em todo o tempo.",
+      reference: "Salmos 34:1",
+      comment: "A gratidão de Davi não está condicionada a uma circunstância perfeita. Ele aprendeu a louvar depois de experimentar livramento e sofrimento. A maturidade espiritual cresce quando aprendemos a reconhecer a bondade de Deus tanto nos dias claros quanto nos dias difíceis."
     },
 
     {
       day: 165,
       date: "14 de junho de 2026",
       reading: "Salmos 35–37",
-      verse: "Entrega o teu caminho ao SENHOR.",
-      reference: "Salmos 25:4",
-      comment: "Davi demonstra dependência constante de Deus em meio às lutas. A confiança verdadeira nasce quando entregamos nossos caminhos ao Senhor."
+      verse: "Entrega o teu caminho ao SENHOR, confia nele, e o mais ele fará.",
+      reference: "Salmos 37:5",
+      comment: "Quando a injustiça parece prosperar, somos tentados a tomar o controle pelas próprias mãos. O salmista nos chama a confiar no Senhor e esperar sua justiça. Entregar o caminho a Deus não significa abandonar responsabilidade, mas renunciar à ilusão de que precisamos controlar tudo."
     },
 
     {
       day: 166,
       date: "15 de junho de 2026",
       reading: "Salmos 38–42",
-      verse: "Em tuas mãos entrego o meu espírito.",
-      reference: "Salmos 31:5",
-      comment: "Mesmo cercado por perseguições, Davi descansa em Deus. O Senhor permanece fiel mesmo quando os homens falham."
+      verse: "Por que estás abatida, ó minha alma?",
+      reference: "Salmos 42:5",
+      comment: "Os salmos não escondem abatimento, dor, culpa e saudade da presença de Deus. O salmista conversa com a própria alma e a chama novamente à esperança. A fé bíblica não exige esconder emoções; ela ensina a levar essas emoções diante de Deus."
     },
 
     {
       day: 167,
       date: "16 de junho de 2026",
       reading: "Salmos 43–48",
-      verse: "Esperei confiantemente pelo SENHOR.",
-      reference: "Salmos 40:1",
-      comment: "Esperar em Deus exige perseverança e fé. O Senhor ouve o clamor do seu povo e age no tempo certo."
+      verse: "Deus é o nosso refúgio e fortaleza.",
+      reference: "Salmos 46:1",
+      comment: "Mesmo quando a terra treme e os reinos se agitam, o povo de Deus possui um refúgio que não pode ser abalado. A segurança cristã não está na estabilidade do mundo, mas na presença do Deus que continua reinando sobre ele."
     },
 
     {
       day: 168,
       date: "17 de junho de 2026",
-      reading: "Salmos 49–53",
-      verse: "Deus é o nosso refúgio e fortaleza.",
-      reference: "Salmos 46:1",
-      comment: "Mesmo em meio ao caos, Deus continua sendo refúgio seguro para os que nele confiam."
+      reading: "Salmos 48–53",
+      verse: "Grande é o SENHOR e mui digno de ser louvado.",
+      reference: "Salmos 48:1",
+      comment: "Jerusalém e o templo aparecem como símbolos da presença e do governo de Deus. O povo olha para aquilo que o Senhor fez e transforma memória em adoração. Nosso louvor também nasce quando reconhecemos que nossa história está debaixo do governo fiel de Deus."
     },
 
     {
       day: 169,
       date: "18 de junho de 2026",
       reading: "Salmos 54–59",
-      verse: "Aquietai-vos e sabei que eu sou Deus.",
-      reference: "Salmos 46:10",
-      comment: "O Senhor reina sobre todas as coisas. Em tempos de medo e instabilidade, somos chamados a descansar na soberania divina."
+      verse: "Eis que Deus é o meu ajudador.",
+      reference: "Salmos 54:4",
+      comment: "Perseguição e perigo aparecem repetidamente nesses salmos, mas Davi continua recorrendo a Deus. A presença da ameaça não significa ausência do Senhor. A oração se torna um ato de confiança: Deus é aquele a quem podemos recorrer quando os recursos humanos acabam."
     },
 
     {
       day: 170,
       date: "19 de junho de 2026",
       reading: "Salmos 60–66",
-      verse: "Cria em mim, ó Deus, um coração puro.",
-      reference: "Salmos 51:10",
-      comment: "O arrependimento verdadeiro não busca apenas alívio da culpa, mas transformação do coração diante de Deus."
+      verse: "Em Deus faremos proezas.",
+      reference: "Salmos 60:12",
+      comment: "O salmista reconhece que a vitória não pode ser produzida simplesmente pela capacidade humana. Deus é aquele que concede forças ao seu povo. A confiança correta não é orgulho disfarçado de fé, mas dependência daquele que realmente sustenta."
     },
 
     {
       day: 171,
       date: "20 de junho de 2026",
       reading: "Salmos 67–69",
-      verse: "Em Deus ponho a minha confiança.",
-      reference: "Salmos 56:4",
-      comment: "Mesmo cercado por medo e perseguição, Davi aprende a descansar na fidelidade do Senhor."
+      verse: "Deus tenha misericórdia de nós e nos abençoe.",
+      reference: "Salmos 67:1",
+      comment: "O pedido de bênção não termina no benefício pessoal. O salmo deseja que a bênção de Deus faça seu caminho conhecido entre as nações. A graça recebida por nós deve se tornar testemunho da bondade do Senhor para outras pessoas."
     },
 
     {
       day: 172,
       date: "21 de junho de 2026",
       reading: "Salmos 70–73",
-      verse: "Leva-me para a rocha que é mais alta do que eu.",
-      reference: "Salmos 61:2",
-      comment: "Deus é abrigo seguro quando nossas forças falham. A verdadeira segurança está acima das circunstâncias."
+      verse: "Todavia, estou sempre contigo.",
+      reference: "Salmos 73:23",
+      comment: "Asafe quase tropeça ao observar a prosperidade dos ímpios, mas sua perspectiva muda quando entra na presença de Deus. A proximidade do Senhor vale mais do que qualquer vantagem temporária. A fé aprende a avaliar a vida pela eternidade, não apenas pelo que os olhos conseguem enxergar agora."
     },
 
     {
       day: 173,
       date: "22 de junho de 2026",
       reading: "Salmos 74–78",
-      verse: "Bendito seja Deus.",
-      reference: "Salmos 68:35",
-      comment: "Os salmos celebram a fidelidade e o poder de Deus em favor do seu povo ao longo da história."
+      verse: "Recordarei os feitos do SENHOR.",
+      reference: "Salmos 77:11",
+      comment: "Em meio à crise, o salmista decide lembrar aquilo que Deus já fez. A memória das obras divinas combate o desespero e fortalece a esperança. Por isso, a igreja precisa contar às próximas gerações a fidelidade do Senhor."
     },
 
     {
       day: 174,
       date: "23 de junho de 2026",
       reading: "Salmos 78–83",
-      verse: "Tu és a minha esperança, Senhor Deus.",
-      reference: "Salmos 71:5",
-      comment: "Mesmo em meio ao sofrimento, o salmista reconhece Deus como fonte constante de esperança."
+      verse: "Não o esconderemos de nossos filhos.",
+      reference: "Salmos 78:4",
+      comment: "A fé precisa ser transmitida. O povo de Deus não é chamado apenas a experimentar a graça, mas também a contar às próximas gerações aquilo que o Senhor fez. Discipulado inclui memória, testemunho e responsabilidade."
     },
 
     {
       day: 175,
       date: "24 de junho de 2026",
       reading: "Salmos 84–89",
-      verse: "Recordarei os feitos do SENHOR.",
-      reference: "Salmos 77:11",
-      comment: "Lembrar da fidelidade passada de Deus fortalece a fé para enfrentar as crises do presente."
+      verse: "Bem-aventurado o homem cuja força está em ti.",
+      reference: "Salmos 84:5",
+      comment: "Os salmos mostram a beleza da presença de Deus e o desejo profundo de estar em sua casa. A verdadeira felicidade não está em possuir circunstâncias perfeitas, mas em encontrar no próprio Deus nossa força e nosso destino."
     },
 
     {
       day: 176,
       date: "25 de junho de 2026",
       reading: "Salmos 90–94",
-      verse: "Contaremos à próxima geração.",
-      reference: "Salmos 78:4",
-      comment: "O povo de Deus é chamado a transmitir às próximas gerações os feitos e a fidelidade do Senhor."
+      verse: "Ensina-nos a contar os nossos dias, para que alcancemos corações sábios.",
+      reference: "Salmos 90:12",
+      comment: "Moisés contrasta a eternidade de Deus com a brevidade da vida humana. Reconhecer que nossos dias são limitados não precisa produzir desespero; deve produzir sabedoria. A vida é preciosa porque é breve, e por isso devemos vivê-la diante de Deus."
     },
 
     {
       day: 177,
       date: "26 de junho de 2026",
       reading: "Salmos 95–102",
-      verse: "Mostra-nos, Senhor, a tua misericórdia.",
-      reference: "Salmos 85:7",
-      comment: "O povo clama por restauração reconhecendo sua dependência da misericórdia divina."
+      verse: "Adorai o SENHOR na beleza da santidade.",
+      reference: "Salmos 96:9",
+      comment: "O povo é chamado repetidamente à adoração porque Deus é Rei sobre toda a terra. O louvor bíblico não é mera emoção religiosa: ele nasce do reconhecimento de quem Deus é. A santidade do Senhor nos leva à reverência e à alegria."
     },
 
     {
       day: 178,
       date: "27 de junho de 2026",
       reading: "Salmos 103–105",
-      verse: "Grande é a tua fidelidade.",
-      reference: "Salmos 89:1",
-      comment: "Mesmo em tempos difíceis, a fidelidade de Deus permanece firme e digna de confiança."
+      verse: "Bendize, ó minha alma, ao SENHOR.",
+      reference: "Salmos 103:1",
+      comment: "Davi chama a própria alma a lembrar dos benefícios do Senhor: perdão, misericórdia, cuidado e compaixão. O coração humano esquece rapidamente. Por isso, precisamos deliberadamente lembrar aquilo que Deus fez para não vivermos como se sua graça fosse algo comum."
     },
 
     {
       day: 179,
       date: "28 de junho de 2026",
       reading: "Salmos 106–107",
-      verse: "Ensina-nos a contar os nossos dias.",
-      reference: "Salmos 90:12",
-      comment: "A brevidade da vida nos lembra da necessidade de viver com sabedoria e dependência de Deus."
+      verse: "Rendei graças ao SENHOR, porque ele é bom.",
+      reference: "Salmos 106:1",
+      comment: "Os salmos lembram tanto da infidelidade do povo quanto da misericórdia perseverante de Deus. A história de Israel demonstra que a graça do Senhor é maior do que os repetidos fracassos humanos. A gratidão nasce quando reconhecemos que continuamos de pé por causa da misericórdia."
     },
 
     {
       day: 180,
       date: "29 de junho de 2026",
       reading: "Salmos 108–113",
-      verse: "Venham, adoremos e prostremo-nos.",
-      reference: "Salmos 95:6",
-      comment: "A adoração verdadeira nasce do reconhecimento da grandeza de Deus e da nossa dependência dele."
+      verse: "Preparado está o meu coração, ó Deus.",
+      reference: "Salmos 108:1",
+      comment: "O salmista declara que seu coração está preparado para louvar mesmo em meio às circunstâncias. A adoração não precisa esperar tudo estar resolvido. Podemos louvar porque Deus permanece digno e porque sua fidelidade não depende do nosso momento."
     },
 
     {
       day: 181,
       date: "30 de junho de 2026",
       reading: "Salmos 114–118",
-      verse: "Rendei graças ao SENHOR.",
-      reference: "Salmos 105:1",
-      comment: "Os salmos encerram o mês lembrando os feitos de Deus ao longo da história e chamando o povo à gratidão e confiança contínua."
+      verse: "Este é o dia que o SENHOR fez; regozijemo-nos e alegremo-nos nele.",
+      reference: "Salmos 118:24",
+      comment: "Junho termina com um conjunto de salmos que celebra a libertação, a fidelidade e a bondade de Deus. O chamado à alegria não é uma negação das dificuldades, mas uma resposta à certeza de que o Senhor continua sendo bom. A história da redenção caminha sempre para a celebração da graça."
     },
 
     {
