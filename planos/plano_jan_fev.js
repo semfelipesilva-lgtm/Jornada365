@@ -533,275 +533,283 @@ const PLANO = {
 
     {
       day: 60,
-      reading: "Deuteronômio 12–14",
       date: "01 de março de 2026",
-      verse: "Ao SENHOR teu Deus temerás, e a ele servirás.",
+      reading: "Deuteronômio 12–14",
+      verse: "Ao SENHOR, teu Deus, temerás, e a ele servirás.",
       reference: "Deuteronômio 13:4",
-      comment: "Moisés ensina que a adoração verdadeira exige exclusividade. O povo não deveria misturar práticas das nações com o culto ao SENHOR. Hoje, esse texto nos confronta com nossos sincretismos modernos: confiar em Deus e, ao mesmo tempo, em nossos próprios ídolos. Em Cristo, aprendemos que amar a Deus com todo o coração não é opressão, mas libertação."
+      comment: "Moisés prepara o povo para entrar na terra lembrando que a adoração ao Senhor deve ser exclusiva. Israel não deveria misturar o culto verdadeiro com as práticas das nações. O mesmo princípio nos confronta hoje: Deus não aceita ocupar apenas uma parte do nosso coração. Em Cristo, aprendemos que pertencer inteiramente ao Senhor não é escravidão, mas verdadeira liberdade."
     },
 
     {
       day: 61,
-      reading: "Deuteronômio 15–18",
       date: "02 de março de 2026",
-      verse: "O SENHOR teu Deus suscitará um profeta semelhante a mim.",
+      reading: "Deuteronômio 15–18",
+      verse: "O SENHOR, teu Deus, te suscitará um profeta do meio de ti, de teus irmãos, semelhante a mim.",
       reference: "Deuteronômio 18:15",
-      comment: "Deus revela seu cuidado com os pobres, com a justiça social e com a liderança espiritual do povo. A promessa de um profeta maior aponta claramente para Cristo, aquele que falaria definitivamente da parte de Deus. Somos chamados a ouvir essa voz hoje, rejeitando líderes que falam apenas o que agrada, mas não o que transforma."
+      comment: "A lei revela o cuidado de Deus com os pobres, com a justiça e com a liderança espiritual do povo. No meio dessas instruções aparece a promessa de um Profeta semelhante a Moisés. A história bíblica aponta para Cristo, aquele que fala definitivamente da parte de Deus. Somos chamados não apenas a ouvir muitas vozes, mas a ouvir e obedecer a Cristo."
     },
 
     {
       day: 62,
-      reading: "Deuteronômio 19–22",
       date: "03 de março de 2026",
+      reading: "Deuteronômio 19–22",
       verse: "Seguirás a justiça, somente a justiça.",
       reference: "Deuteronômio 16:20",
-      comment: "A lei de Deus não é arbitrária; ela protege a vida, a dignidade e a verdade. Justiça aqui não é vingança, mas responsabilidade diante de Deus e do próximo. Em Cristo, vemos essa justiça cumprida e oferecida a nós pela graça, capacitando-nos a viver de maneira íntegra."
+      comment: "Mesmo que a referência esteja no capítulo anterior ao recorte principal, ela resume um princípio que aparece nessas leis: Deus se importa com justiça, verdade, responsabilidade e proteção da vida. A fé bíblica não fica restrita ao culto; ela alcança a maneira como tratamos o próximo. Em Cristo, que é nossa justiça, somos chamados a viver de forma íntegra."
     },
 
     {
       day: 63,
-      reading: "Deuteronômio 23–26",
       date: "04 de março de 2026",
-      verse: "Lembra-te de que foste escravo na terra do Egito.",
+      reading: "Deuteronômio 23–26",
+      verse: "Lembrar-te-ás de que foste servo na terra do Egito.",
       reference: "Deuteronômio 24:18",
-      comment: "Deus ensina que memória gera misericórdia. Quem se lembra de onde Deus o tirou passa a tratar o outro com compaixão. Em Cristo, lembramos continuamente que fomos libertos não por mérito, mas por graça. Isso molda nossa forma de viver, servir e perdoar."
+      comment: "Deus ordena que Israel não se esqueça de sua própria história. Quem se lembra de ter recebido graça aprende a tratar o próximo com misericórdia. A memória da redenção deve moldar nosso comportamento presente. Em Cristo, também somos lembrados constantemente de que tudo o que temos recebido veio da graça."
     },
 
     {
       day: 64,
-      reading: "Deuteronômio 27–28",
       date: "05 de março de 2026",
-      verse: "Se ouvires a voz do SENHOR teu Deus, virão sobre ti todas estas bênçãos.",
-      reference: "Deuteronômio 28:2",
-      comment: "As bênçãos e maldições revelam que a obediência importa. Porém, também mostram nossa incapacidade de cumprir perfeitamente a lei. Esse texto nos conduz a Cristo, que assumiu sobre si a maldição para que, nele, recebêssemos a verdadeira bênção: reconciliação com Deus."
+      reading: "Deuteronômio 27–28",
+      verse: "Maldito aquele que não confirmar as palavras desta lei, não as cumprindo.",
+      reference: "Deuteronômio 27:26",
+      comment: "As bênçãos e maldições mostram a seriedade da aliança e a santidade de Deus. Elas também expõem a incapacidade humana de cumprir perfeitamente aquilo que Deus requer. Essa tensão aponta para Cristo, que assumiu a maldição para redimir seu povo. A nossa esperança não está em cumprir perfeitamente a lei, mas naquele que a cumpriu por nós."
     },
 
     {
       day: 65,
-      reading: "Deuteronômio 29–31",
       date: "06 de março de 2026",
-      verse: "Sê forte e corajoso… o SENHOR é quem vai contigo.",
+      reading: "Deuteronômio 29–31",
+      verse: "O SENHOR, teu Deus, é o que vai contigo; não te deixará, nem te desamparará.",
       reference: "Deuteronômio 31:6",
-      comment: "Moisés prepara o povo para a transição. A liderança muda, mas Deus permanece. Essa palavra nos lembra que nossa segurança não está em pessoas, estruturas ou fases da vida, mas na fidelidade constante do Senhor, plenamente revelada em Cristo."
+      comment: "A liderança está mudando, mas a fidelidade de Deus permanece. Moisés lembra o povo de que sua segurança não depende de uma pessoa específica, mas do Senhor que caminha à frente. Essa promessa continua sendo uma fonte de coragem: Deus permanece fiel quando fases, líderes e circunstâncias mudam."
     },
 
     {
       day: 66,
-      reading: "Deuteronômio 32–34",
       date: "07 de março de 2026",
-      verse: "As obras de Deus são perfeitas.",
+      reading: "Deuteronômio 32–34",
+      verse: "Ele é a Rocha, cuja obra é perfeita.",
       reference: "Deuteronômio 32:4",
-      comment: "A morte de Moisés encerra uma grande etapa, mas não interrompe o plano de Deus. O libertador humano não entra na terra, apontando para a necessidade de um libertador maior. Em Jesus, vemos aquele que conduz seu povo até o fim."
+      comment: "Moisés chega ao fim de sua caminhada e não entra na terra prometida. A morte do grande líder mostra que nenhum homem é o cumprimento definitivo das promessas de Deus. A obra continua porque o Senhor continua governando. Cristo é o verdadeiro Libertador, o Pastor e o Rei que conduz seu povo até o fim."
     },
 
     {
       day: 67,
-      reading: "Josué 1–4",
       date: "08 de março de 2026",
-      verse: "Esforça-te e tem bom ânimo.",
+      reading: "Josué 1–4",
+      verse: "Não to mandei eu? Sê forte e corajoso; não temas, nem te espantes, porque o SENHOR, teu Deus, é contigo.",
       reference: "Josué 1:9",
-      comment: "A promessa da presença de Deus acompanha o chamado à coragem. A travessia do Jordão mostra que o mesmo Deus que abriu o Mar Vermelho continua operando. Hoje, Cristo nos chama a confiar, mesmo quando os desafios parecem grandes."
+      comment: "Josué assume uma responsabilidade enorme, mas Deus não lhe promete uma tarefa fácil; promete sua presença. A travessia do Jordão confirma que o Senhor continua conduzindo seu povo. A coragem cristã não nasce da confiança em nós mesmos, mas da certeza de que Deus está conosco."
     },
 
     {
       day: 68,
-      reading: "Josué 5–8",
       date: "09 de março de 2026",
-      verse: "Nem por força nem por poder, mas pelo meu Espírito.",
-      reference: "Zacarias 4:6",
-      comment: "A queda de Jericó ensina que a vitória não vem da estratégia humana, mas da obediência confiante. Deus luta por seu povo. Em Cristo, aprendemos que as maiores batalhas são vencidas não pela força, mas pela fé."
+      reading: "Josué 5–8",
+      verse: "Tão-somente não sejais rebeldes contra o SENHOR.",
+      reference: "Josué 22:16",
+      comment: "Jericó e Ai mostram que a vitória do povo depende da obediência ao Senhor. A força militar nunca é apresentada como a verdadeira fonte da conquista. Deus conduz e dá a vitória, enquanto o povo é chamado a confiar e obedecer. A vida cristã também não é construída pela autossuficiência, mas pela dependência da graça."
     },
 
     {
       day: 69,
-      reading: "Josué 9–11",
       date: "10 de março de 2026",
+      reading: "Josué 9–11",
       verse: "O SENHOR pelejava por Israel.",
       reference: "Josué 10:14",
-      comment: "Mesmo quando o povo erra, Deus segue cumprindo seu propósito soberano. Isso não justifica o erro, mas revela a graça de um Deus que governa a história. Cristo é a expressão máxima dessa soberania, conduzindo tudo para a redenção."
+      comment: "As batalhas mostram repetidamente que o Senhor é quem concede vitória. Ao mesmo tempo, o episódio dos gibeonitas mostra que decisões tomadas sem consultar Deus podem trazer consequências. O texto nos ensina a combinar confiança com dependência prática: não basta saber que Deus é soberano; precisamos buscá-lo."
     },
+
     {
       day: 70,
-      reading: "Josué 12–14",
       date: "11 de março de 2026",
-      verse: "Dá-me este monte, de que o SENHOR falou.",
-      reference: "Josué 14:12",
-      comment: "Calebe nos ensina perseverança e fé ao longo do tempo. Décadas se passaram, mas ele continua confiando nas promessas de Deus. Em Cristo, somos chamados a não desistir, mesmo quando o cumprimento parece demorado."
+      reading: "Josué 12–14",
+      verse: "Eu, porém, perseverei em seguir o SENHOR, meu Deus.",
+      reference: "Josué 14:8",
+      comment: "Calebe permanece fiel décadas depois de ter recebido a promessa. Ele não permite que o tempo enfraqueça sua confiança. Sua perseverança nos lembra que fidelidade não é apenas começar bem; é continuar confiando quando os anos passam."
     },
 
     {
       day: 71,
-      reading: "Josué 15–16",
       date: "12 de março de 2026",
-      verse: "A herança foi repartida conforme o SENHOR ordenara.",
-      reference: "Josué 15:13",
-      comment: "A repartição da terra mostra que Deus cumpre suas promessas de forma concreta. Cada tribo recebe sua porção. Em Cristo, lembramos que também temos uma herança eterna, preparada não por mérito, mas pela graça."
+      reading: "Josué 15–16",
+      verse: "A herança dos filhos de Judá, segundo as suas famílias.",
+      reference: "Josué 15:1",
+      comment: "A divisão da terra mostra que Deus cumpre suas promessas de forma concreta. Cada tribo recebe sua herança segundo aquilo que o Senhor havia determinado. A fidelidade de Deus não é abstrata: ele cumpre sua palavra na história real."
     },
 
     {
       day: 72,
-      reading: "Josué 17–19",
       date: "13 de março de 2026",
-      verse: "Ainda resta muita terra para possuir.",
-      reference: "Josué 13:1",
-      comment: "Mesmo após conquistas importantes, Deus lembra ao povo que a missão continua. A caminhada com Deus nunca é estática. Em Cristo, somos chamados ao crescimento contínuo, avançando em fé e obediência."
+      reading: "Josué 17–19",
+      verse: "Até quando sereis negligentes em possuir a terra?",
+      reference: "Josué 18:3",
+      comment: "Israel já havia recebido a promessa, mas ainda precisava avançar para tomar posse daquilo que Deus havia concedido. Há uma tensão entre promessa e responsabilidade. A graça de Deus não elimina a necessidade de obediência. O povo precisava caminhar em fé."
     },
 
     {
       day: 73,
-      reading: "Josué 20–22",
       date: "14 de março de 2026",
-      verse: "O SENHOR deu descanso a Israel.",
-      reference: "Josué 21:44",
-      comment: "O descanso concedido por Deus aponta para algo maior. A paz na terra prometida era parcial e temporária. Em Cristo, encontramos o descanso pleno para a alma, fruto da reconciliação com Deus."
+      reading: "Josué 20–22",
+      verse: "O SENHOR, vosso Deus, deu descanso aos vossos irmãos.",
+      reference: "Josué 22:4",
+      comment: "Depois de guerras e conquistas, Deus concede descanso ao povo. Esse descanso é real, mas ainda incompleto, apontando para uma realidade maior. A Escritura seguirá mostrando a necessidade de um descanso definitivo, que encontra sua plenitude em Cristo."
     },
 
     {
       day: 74,
-      reading: "Josué 23–24",
       date: "15 de março de 2026",
+      reading: "Josué 23–24",
       verse: "Eu e a minha casa serviremos ao SENHOR.",
       reference: "Josué 24:15",
-      comment: "Josué encerra sua liderança chamando o povo à decisão. Fé herdada não sustenta uma vida fiel. Cada geração precisa escolher servir ao Senhor. Em Cristo, renovamos diariamente essa decisão."
+      comment: "No fim de sua liderança, Josué chama o povo a uma decisão clara. A fidelidade não pode ser sustentada apenas pela memória do passado. Cada geração precisa responder à graça de Deus. Josué aponta para a necessidade de escolher conscientemente a quem serviremos."
     },
+
     {
       day: 75,
-      reading: "Juízes 1–3",
       date: "16 de março de 2026",
-      verse: "Os filhos de Israel fizeram o que era mau perante o SENHOR.",
-      reference: "Juízes 2:11",
-      comment: "O livro de Juízes começa revelando um padrão trágico: desobediência, opressão, clamor e libertação. A infidelidade do povo expõe a fragilidade de uma fé que não é transmitida com profundidade às novas gerações. Esse ciclo aponta para a necessidade de um libertador maior, definitivo, que encontramos em Cristo."
+      reading: "Juízes 1–3",
+      verse: "Os filhos de Israel tornaram a fazer o que era mau perante o SENHOR.",
+      reference: "Juízes 3:12",
+      comment: "Juízes apresenta um ciclo doloroso: pecado, opressão, clamor e libertação. O povo continua se afastando do Senhor e mostrando a incapacidade de produzir fidelidade por conta própria. Os juízes são libertadores temporários e imperfeitos, preparando a expectativa por um Libertador definitivo."
     },
 
     {
       day: 76,
-      reading: "Juízes 4–6",
       date: "17 de março de 2026",
-      verse: "O SENHOR levantou juízes, que os livraram.",
-      reference: "Juízes 2:16",
-      comment: "Débora e Gideão mostram que Deus usa pessoas improváveis para cumprir seus propósitos. No entanto, a fraqueza humana permanece evidente. A cada libertação, percebemos que a verdadeira esperança não está no juiz, mas no Deus que levanta o juiz — expectativa que encontra seu cumprimento em Jesus."
+      reading: "Juízes 4–6",
+      verse: "Vai nesta tua força e livra Israel da mão dos midianitas.",
+      reference: "Juízes 6:14",
+      comment: "Débora, Baraque e Gideão mostram que Deus usa pessoas improváveis para realizar sua obra. Gideão, porém, evidencia também o quanto a fé humana pode vacilar. O poder da libertação não está no juiz, mas no Deus que o chama e capacita."
     },
 
     {
       day: 77,
-      reading: "Juízes 7–9",
       date: "18 de março de 2026",
-      verse: "O SENHOR disse a Gideão: O povo que está contigo é demais.",
+      reading: "Juízes 7–9",
+      verse: "O povo que está contigo é demais para eu entregar os midianitas nas suas mãos.",
       reference: "Juízes 7:2",
-      comment: "Deus reduz o exército para deixar claro que a vitória vem dEle, não da força humana. Contudo, após a vitória, o coração de Gideão e de Israel se desvia novamente. O texto nos alerta para o perigo de experimentar o poder de Deus sem permanecer dependente dEle."
+      comment: "Deus reduz o exército para impedir que Israel atribua a vitória à própria força. A batalha precisava deixar claro que a salvação vinha do Senhor. Depois da vitória, porém, Gideão e o povo ainda mostram o perigo de voltar a olhar para si mesmos. Deus pode conceder grandes vitórias sem que isso transforme automaticamente o coração."
     },
+
     {
       day: 78,
-      reading: "Juízes 10–12",
       date: "19 de março de 2026",
-      verse: "O povo tornou a fazer o que era mau perante o SENHOR.",
+      reading: "Juízes 10–12",
+      verse: "E os filhos de Israel tornaram a fazer o que era mau perante o SENHOR.",
       reference: "Juízes 10:6",
-      comment: "A repetição do pecado revela um coração dividido. O povo busca Deus apenas quando sofre, mas não quando prospera. Esse padrão nos confronta hoje: buscamos o Senhor por conveniência ou por amor verdadeiro? Cristo nos chama ao arrependimento genuíno e constante."
+      comment: "A repetição do pecado revela a profundidade da infidelidade do povo. Israel buscava o Senhor em momentos de crise, mas não permanecia fiel quando a situação melhorava. O texto nos chama a examinar se nossa relação com Deus é baseada em amor e confiança ou apenas em necessidade."
     },
+
     {
       day: 79,
-      reading: "Juízes 13–16",
       date: "20 de março de 2026",
-      verse: "Ele começará a livrar Israel.",
+      reading: "Juízes 13–16",
+      verse: "Ele começará a livrar Israel da mão dos filisteus.",
       reference: "Juízes 13:5",
-      comment: "Sansão é separado por Deus, mas vive dividido por seus desejos. Sua força contrasta com sua fraqueza moral. A história nos ensina que dons não substituem obediência. Sansão aponta para a necessidade de um libertador que fosse forte e santo — plenamente cumprido em Cristo."
+      comment: "Sansão recebe uma vocação extraordinária, mas sua vida revela uma profunda contradição entre chamado e caráter. Sua força física não compensa sua fraqueza moral. A história mostra por que Israel precisa de um libertador que seja não apenas poderoso, mas perfeitamente fiel e santo."
     },
+
     {
       day: 80,
-      reading: "Juízes 17–19",
       date: "21 de março de 2026",
-      verse: "Naqueles dias não havia rei em Israel.",
+      reading: "Juízes 17–19",
+      verse: "Naqueles dias não havia rei em Israel; cada qual fazia o que achava mais reto.",
       reference: "Juízes 17:6",
-      comment: "Esses capítulos revelam o colapso espiritual e moral do povo. Quando cada um faz o que acha certo, a sociedade se fragmenta. O texto é intencionalmente perturbador, levando-nos a desejar um Rei justo e verdadeiro, capaz de restaurar o povo."
+      comment: "Esses capítulos mostram o colapso espiritual e moral de Israel. Quando cada pessoa decide por si mesma o que é certo, a sociedade se fragmenta e a violência cresce. O texto não celebra essa liberdade; ele denuncia a ausência de um rei justo e prepara o caminho para a esperança de um governo verdadeiramente santo."
     },
+
     {
       day: 81,
-      reading: "Juízes 20–21",
       date: "22 de março de 2026",
-      verse: "Cada um fazia o que parecia reto aos seus olhos.",
+      reading: "Juízes 20–21",
+      verse: "Naqueles dias não havia rei em Israel; cada qual fazia o que achava mais reto.",
       reference: "Juízes 21:25",
-      comment: "O livro termina sem solução humana, deixando o leitor em tensão. Juízes não oferece respostas fáceis, mas prepara o terreno para a monarquia. Essa ausência de rei aponta para Cristo, o Rei perfeito que governa com justiça e misericórdia."
+      comment: "O livro termina deixando uma sensação de incompletude. Israel precisa de mais do que reformas momentâneas; precisa de um Rei que governe com justiça. O final de Juízes cria uma expectativa que a história bíblica continuará desenvolvendo até chegar ao Rei perfeito."
     },
+
     {
       day: 82,
-      reading: "Rute 1–4",
       date: "23 de março de 2026",
-      verse: "O teu Deus será o meu Deus.",
+      reading: "Rute 1–4",
+      verse: "O teu povo é o meu povo, o teu Deus é o meu Deus.",
       reference: "Rute 1:16",
-      comment: "Em meio à decadência de Juízes, Rute revela fidelidade silenciosa e esperança. Deus age através da obediência comum e da lealdade. A genealogia final aponta para Davi e, mais adiante, para Cristo, mostrando que Deus constrói redenção mesmo em tempos sombrios."
+      comment: "No meio do caos de Juízes, Rute apresenta fidelidade, providência e esperança. Uma viúva estrangeira passa a fazer parte do povo da aliança e da linhagem de Davi. Deus trabalha através de escolhas aparentemente pequenas para cumprir um plano muito maior. A genealogia final liga Rute à história que culminará em Cristo."
     },
 
     {
       day: 83,
-      reading: "1 Samuel 1–3",
       date: "24 de março de 2026",
+      reading: "1 Samuel 1–3",
       verse: "Fala, SENHOR, porque o teu servo ouve.",
-      reference: "1 Samuel 3:10",
-      comment: "O chamado de Samuel marca uma nova fase espiritual em Israel. Deus volta a falar após um período de silêncio. Esse texto nos confronta: estamos ouvindo a voz do Senhor ou apenas repetindo rituais vazios? Em Cristo, Deus nos fala de forma plena e definitiva."
+      reference: "1 Samuel 3:9",
+      comment: "Samuel cresce em um período de decadência espiritual, mas Deus continua falando. O chamado do menino mostra que o Senhor não abandona seu povo quando a liderança falha. A atitude correta diante da Palavra é aquela de Samuel: ouvir com humildade e disposição para obedecer."
     },
 
     {
       day: 84,
-      reading: "1 Samuel 4–7",
       date: "25 de março de 2026",
-      verse: "A glória se foi de Israel.",
-      reference: "1 Samuel 4:21",
-      comment: "A perda da arca revela que símbolos religiosos não substituem a presença real de Deus. Mesmo assim, o Senhor continua soberano. Ele não depende de objetos ou instituições. Essa verdade nos conduz a Cristo, o verdadeiro Emanuel, Deus conosco."
+      reading: "1 Samuel 4–7",
+      verse: "Até aqui nos ajudou o SENHOR.",
+      reference: "1 Samuel 7:12",
+      comment: "Israel aprende que a arca não pode ser tratada como um objeto mágico. A vitória vem quando o povo abandona seus ídolos e volta-se para o Senhor. Samuel ergue uma pedra para lembrar a ajuda recebida. A fé também precisa de memória: lembrar o que Deus fez fortalece a confiança para o futuro."
     },
 
     {
       day: 85,
-      reading: "1 Samuel 8–10",
       date: "26 de março de 2026",
-      verse: "Constitui-nos um rei, como têm todas as nações.",
-      reference: "1 Samuel 8:5",
-      comment: "O pedido por um rei revela rejeição ao governo de Deus. O povo quer ser como as outras nações. Esse desejo ecoa até hoje, quando preferimos segurança visível à confiança em Deus. Cristo se apresenta como Rei, mas não segundo os padrões humanos."
+      reading: "1 Samuel 8–10",
+      verse: "Não te rejeitaram a ti, mas a mim, para eu não reinar sobre eles.",
+      reference: "1 Samuel 8:7",
+      comment: "Israel pede um rei como as outras nações. O problema não é simplesmente possuir um rei, mas desejar segurança à maneira das nações em vez de confiar no governo de Deus. O texto confronta nossa tendência de trocar a confiança no Senhor por aquilo que parece mais visível, previsível e controlável."
     },
 
     {
       day: 86,
-      reading: "1 Samuel 11–14",
       date: "27 de março de 2026",
+      reading: "1 Samuel 11–14",
       verse: "Do SENHOR vem a salvação.",
       reference: "1 Samuel 14:6",
-      comment: "Os primeiros atos de Saul mostram potencial, mas também sinais de insegurança espiritual. A obediência parcial começa a aparecer. O texto nos ensina que bons começos não garantem fidelidade até o fim. Cristo é o único Rei que permanece fiel em todas as circunstâncias."
+      comment: "As primeiras vitórias de Saul poderiam produzir confiança, mas o texto também começa a revelar suas limitações e sua dificuldade em obedecer. A verdadeira esperança de Israel não está em um rei humano brilhante, mas no Senhor que salva. A história continuará procurando o rei segundo o coração de Deus."
     },
 
     {
       day: 87,
-      reading: "1 Samuel 15–17",
       date: "28 de março de 2026",
-      verse: "A obediência é melhor do que o sacrifício.",
+      reading: "1 Samuel 15–17",
+      verse: "Obedecer é melhor do que sacrificar.",
       reference: "1 Samuel 15:22",
-      comment: "A rejeição de Saul contrasta com a escolha de Davi. Deus não olha para a aparência, mas para o coração. Davi aponta para Cristo, o ungido segundo o coração de Deus, que vence o verdadeiro gigante: o pecado."
+      comment: "Saul quer manter a aparência religiosa enquanto desobedece à Palavra de Deus. Samuel mostra que Deus não se impressiona com rituais quando o coração rejeita sua autoridade. Em seguida, Davi surge como contraste. A narrativa começa a preparar o leitor para um rei que confia no Senhor e aponta adiante para Cristo."
     },
 
     {
       day: 88,
-      reading: "1 Samuel 18–20",
       date: "29 de março de 2026",
+      reading: "1 Samuel 18–20",
       verse: "O SENHOR era com Davi.",
       reference: "1 Samuel 18:14",
-      comment: "A inveja de Saul revela o perigo de um coração inseguro diante do agir de Deus. A amizade entre Davi e Jônatas mostra lealdade sacrificial. Em Cristo, vemos o verdadeiro amigo que entrega a própria vida por amor."
+      comment: "Davi cresce enquanto Saul se torna dominado pela inveja. A amizade entre Davi e Jônatas também revela uma lealdade sacrificial em contraste com a hostilidade de Saul. A narrativa mostra que a bênção de Deus sobre seu escolhido não depende da aprovação dos homens."
     },
 
     {
       day: 89,
-      reading: "1 Samuel 21–24",
       date: "30 de março de 2026",
-      verse: "Não estenderei a mão contra o ungido do SENHOR.",
+      reading: "1 Samuel 21–24",
+      verse: "Não estenderei a mão contra o meu senhor, pois é o ungido do SENHOR.",
       reference: "1 Samuel 24:6",
-      comment: "Mesmo injustiçado, Davi recusa tomar o trono pela força. Ele confia no tempo de Deus. Esse texto nos ensina que caráter pesa mais que oportunidade. Cristo, rejeitado e perseguido, também confiou plenamente no Pai."
+      comment: "Davi tem oportunidade de tomar o reino pela força, mas escolhe esperar o tempo de Deus. Mesmo perseguido injustamente, ele não decide assumir o controle por conta própria. A fé verdadeira consegue esperar sem abandonar a convicção de que Deus permanece no comando."
     },
 
     {
       day: 90,
-      reading: "1 Samuel 25–27",
       date: "31 de março de 2026",
-      verse: "O SENHOR te fará casa firme.",
-      reference: "1 Samuel 25:28",
-      comment: "Davi enfrenta conflitos internos e externos, revelando virtudes e limites. Deus usa pessoas comuns, em processos longos, para cumprir seus propósitos. A história nos prepara para entender que o verdadeiro Rei ainda estava por vir: Jesus Cristo."
+      reading: "1 Samuel 25–27",
+      verse: "Bendito seja o SENHOR, Deus de Israel, que te enviou hoje ao meu encontro.",
+      reference: "1 Samuel 25:32",
+      comment: "Davi enfrenta situações que testam seu caráter e sua confiança em Deus. A intervenção de Abigail impede que ele aja movido pela vingança. A leitura mostra como uma pessoa pode estar destinada a uma posição importante e ainda precisar aprender diariamente a controlar seus impulsos e depender da sabedoria do Senhor."
     },
+    
     {
       day: 91,
       reading: "1 Samuel 28–31",
